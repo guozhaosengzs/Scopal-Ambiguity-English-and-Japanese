@@ -1,0 +1,894 @@
+subjects,words,contexts,gestured,meanF0,maxF0
+subj10_shorten_mono,subete,not > all,n,289.2593258,358.3593738
+subj10_shorten_mono,no,,y,238.8024734,254.1036401
+subj10_shorten_mono,magnolia-no-hana-wasakanai,,n,184.3024616,226.0077255
+subj10_shorten_mono,desyoo,,y,46.75621962,46.89793135
+subj10_shorten_mono,subete-no,all > not,y,223.1533902,285.0445066
+subj10_shorten_mono,magnolias,,y,183.3307292,195.6695568
+subj10_shorten_mono,no  hana wa,,n,187.0660655,272.3581733
+subj10_shorten_mono,sakanai,,y,174.0836728,210.3957584
+subj10_shorten_mono,desyoo,,y,264.5796583,269.1824204
+subj10_shorten_mono,Liam,many > not,n,242.0039119,289.727366
+subj10_shorten_mono,wa,,y,171.9371009,177.3678607
+subj10_shorten_mono,ooku-nosotugyoosee-o,,n,207.2964846,277.356006
+subj10_shorten_mono,sirimasen,,y,206.6644305,252.0501817
+subj10_shorten_mono,Liam,not > many,n,233.9017569,278.188064
+subj10_shorten_mono,wa,,y,196.9939069,236.0826752
+subj10_shorten_mono,ooku-nosotugyoosee,,n,221.2256144,305.8758806
+subj10_shorten_mono,o,,y,236.6451502,311.517072
+subj10_shorten_mono,sirimasen,,y,214.0073404,313.0583755
+subj10_shorten_mono,subete-nourazi,all > not,n,229.7363987,316.682545
+subj10_shorten_mono,wa,,y,226.1196836,238.5641674
+subj10_shorten_mono,hoturetei-masen,,n,170.4212988,265.9114949
+subj10_shorten_mono,desita,,y,226.2188222,235.0399709
+subj10_shorten_mono,subete-no,not >all,y,276.4580599,339.5662839
+subj10_shorten_mono,urazi,,n,196.3536208,253.4228762
+subj10_shorten_mono,wa,,y,316.9716588,331.951104
+subj10_shorten_mono,hoturete,,y,180.6609223,237.5614261
+subj10_shorten_mono,i-masen,,n,137.6332617,233.8929651
+subj10_shorten_mono,desita,,y,248.8799554,276.9803334
+subj10_shorten_mono,Neil,most > not,n,244.0753674,294.6753302
+subj10_shorten_mono,wa,,y,188.7492362,192.5251051
+subj10_shorten_mono,hotonodo-nomusical-okansyoo,,n,245.2202834,353.5315205
+subj10_shorten_mono,simasen,,y,249.8038052,261.4953814
+subj10_shorten_mono,Neil,not > most,n,246.1158159,288.9450622
+subj10_shorten_mono,wa,,y,194.906248,221.7372992
+subj10_shorten_mono,hotonodo-nomusical-okansyoo,,n,198.0429327,309.0393613
+subj10_shorten_mono,simasen,,y,198.7969957,237.2849285
+subj10_shorten_mono,subete-nookaasan,not > all,n,213.1676237,293.1414992
+subj10_shorten_mono,wa,,y,187.7691496,204.3088795
+subj10_shorten_mono,eyeliner-oyurusimasen,,n,192.6320684,238.5513413
+subj10_shorten_mono,desita,,y,231.2775356,232.499164
+subj10_shorten_mono,subete-nookaasan,all > not,n,212.3452519,338.0862025
+subj10_shorten_mono,wa,,y,181.5955891,182.6532773
+subj10_shorten_mono,eyeliner-oyurusimasen,,n,178.2645934,270.8042786
+subj10_shorten_mono,desita,,y,265.5506125,270.2693866
+subj12_shorten_mono,subete,not > all,n,339.6664017,362.1743369
+subj12_shorten_mono,no,,y,318.0688804,335.5308835
+subj12_shorten_mono,magnolias-no-hana,,n,307.1371034,324.8691388
+subj12_shorten_mono,wa,,y,364.996352,391.6655749
+subj12_shorten_mono,sakanai,,n,265.1701355,383.6022036
+subj12_shorten_mono,desyoo,,y,219.7254399,230.682116
+subj12_shorten_mono,subete,all > not,y,328.6170006,345.0538249
+subj12_shorten_mono,no,,n,265.9829611,292.6179009
+subj12_shorten_mono,magnolias-no-hana,,n,273.3356772,297.8500089
+subj12_shorten_mono,wa,,y,299.1519439,315.6200559
+subj12_shorten_mono,sakanai,,n,246.925447,265.6458993
+subj12_shorten_mono,desyoo,,y,203.2056557,229.5739076
+subj12_shorten_mono,Liam,many > not,n,301.7705705,332.5261842
+subj12_shorten_mono,wa,,y,281.5343475,287.4218544
+subj12_shorten_mono,ooku-nosotugyoosee,,y,330.9908426,367.1439703
+subj12_shorten_mono,o,,n,368.3893858,387.3447297
+subj12_shorten_mono,sirimasen,,y,234.7215525,258.5720358
+subj12_shorten_mono,Liam,not > mamy,n,288.6403416,328.8941513
+subj12_shorten_mono,wa,,y,278.4488015,284.8905143
+subj12_shorten_mono,ooku-no,,n,329.4070569,364.085604
+subj12_shorten_mono,sotugyoosee,,n,299.0365963,314.6473432
+subj12_shorten_mono,o,,y,358.3601243,393.1025293
+subj12_shorten_mono,sirimasen,,y,232.4572199,265.6325286
+subj12_shorten_mono,subete,all > not,n,343.8133945,373.3782138
+subj12_shorten_mono,no,,y,282.7869408,299.2309468
+subj12_shorten_mono,urazi,,n,276.2034386,300.4761864
+subj12_shorten_mono,wa,,y,352.5926517,366.3764902
+subj12_shorten_mono,hoturetei-masen,,n,256.6731253,352.0315633
+subj12_shorten_mono,desita,,y,211.9227212,223.4945976
+subj12_shorten_mono,subete,not > all,n,380.135742,393.4084577
+subj12_shorten_mono,no,,y,331.1955895,348.0609323
+subj12_shorten_mono,urazi,,n,337.0476418,353.181372
+subj12_shorten_mono,wa,,y,300.2832992,417.8386745
+subj12_shorten_mono,hoturete,,y,280.6456922,330.0059765
+subj12_shorten_mono,i-masen,,n,250.3120555,319.8740149
+subj12_shorten_mono,desita,,y,206.96685,222.5878324
+subj12_shorten_mono,Neil,most > not,n,297.1941143,323.9655281
+subj12_shorten_mono,wa,,y,286.4336983,289.0358207
+subj12_shorten_mono,hotondo-nomusical,,n,304.2016864,344.9850576
+subj12_shorten_mono,o,,y,315.9513543,350.2451778
+subj12_shorten_mono,kansyoo,,n,251.4706192,260.6682406
+subj12_shorten_mono,simasen,,y,219.3095214,257.4033097
+subj12_shorten_mono,Neil,not > most,n,306.152834,344.4293841
+subj12_shorten_mono,wa,,y,274.7432898,276.160174
+subj12_shorten_mono,hotondo,,n,354.8718319,395.2579949
+subj12_shorten_mono,no,,y,240.6271806,419.6103511
+subj12_shorten_mono,musical-o,,n,303.7748387,418.0410507
+subj12_shorten_mono,kansyoosimasen,,y,244.637566,317.1112488
+subj12_shorten_mono,subete-nookaasan,not > all,n,336.8889296,383.7834703
+subj12_shorten_mono,wa,,y,367.0129203,393.4655194
+subj12_shorten_mono,eyeliner-o,,n,270.3265879,385.5519459
+subj12_shorten_mono,yurusimasendesita,,y,234.7982052,345.0648828
+subj12_shorten_mono,subete-nookaasan,all > not,n,306.0826111,379.0548718
+subj12_shorten_mono,wa,,y,266.6274644,272.8394867
+subj12_shorten_mono,eyeliner,,n,261.0433965,279.9791612
+subj12_shorten_mono,o,,y,308.6383788,341.7579268
+subj12_shorten_mono,yurusimasendesita,,y,238.9208034,330.9355565
+subj13_shorten_mono,subete,all > not,y,290.9284803,311.6770413
+subj13_shorten_mono,nookaasan-waeyeliner,,n,194.1087759,265.5695995
+subj13_shorten_mono,o,,y,149.9979567,174.0353407
+subj13_shorten_mono,yurusimasen,,y,211.152167,397.3768709
+subj13_shorten_mono,desita,,y,187.03734,195.9013887
+subj13_shorten_mono,subete,not > all,y,261.5933514,320.5647985
+subj13_shorten_mono,no,,n,242.7573958,279.3301464
+subj13_shorten_mono,okaasan,,n,227.1178034,242.7529621
+subj13_shorten_mono,wa,,y,255.0559611,263.3452119
+subj13_shorten_mono,eyeliner-o,,n,203.237578,232.9199377
+subj13_shorten_mono,yurusimasendesita,,y,192.1308388,246.9214114
+subj13_shorten_mono,Neil-wahotondo-no,not > most,n,231.8176381,292.8447237
+subj13_shorten_mono,musical-o,,y,204.6849044,221.8102786
+subj13_shorten_mono,o,,n,211.7542371,218.2338344
+subj13_shorten_mono,kansyoo,,n,205.3017346,209.4870692
+subj13_shorten_mono,simasen,,y,203.0918488,229.5406845
+subj13_shorten_mono,Neil-wahotondo,most > not,y,234.5736496,277.2846663
+subj13_shorten_mono,no,,n,233.8648946,247.4142422
+subj13_shorten_mono,musical-o,,n,216.9798414,231.1471788
+subj13_shorten_mono,kansyoo,,n,190.1978178,197.4454479
+subj13_shorten_mono,simasen,,y,192.5429085,206.9762189
+subj13_shorten_mono,subete-nourazi,not > all,n,240.2346277,295.7791921
+subj13_shorten_mono,wa,,y,207.3540707,208.4744887
+subj13_shorten_mono,hoturete,,n,211.7196769,241.2619517
+subj13_shorten_mono,i-masendesita,,y,198.8706822,247.3474909
+subj13_shorten_mono,subete-no,all > not,y,249.2478225,279.8917108
+subj13_shorten_mono,urazi-wahoturete,,n,193.3659677,231.1646413
+subj13_shorten_mono,i-masen,,y,194.1246911,237.7172599
+subj13_shorten_mono,desita,,n,167.379138,200.4839529
+subj13_shorten_mono,Liam,not > many,n,242.1230193,264.9512725
+subj13_shorten_mono,wa,,y,182.0484395,193.0444503
+subj13_shorten_mono,ooku-no,,y,254.5257073,274.2303841
+subj13_shorten_mono,sotugyoosee-o,,n,243.9465741,277.7935189
+subj13_shorten_mono,sirimasen,,y,185.9146119,210.1740652
+subj13_shorten_mono,Liam-wa,many > not,y,224.9669468,277.2801831
+subj13_shorten_mono,ooku-no,,n,232.9482917,268.3257914
+subj13_shorten_mono,sotugyoosee-osirimasen,,y,210.343633,253.1125035
+subj13_shorten_mono,subete,all > not,y,259.8478572,277.9995178
+subj13_shorten_mono,no,,n,192.3383886,211.8132269
+subj13_shorten_mono,magnolias-no-hana-wa,,n,205.1847275,217.6126035
+subj13_shorten_mono,sakanaidesyoo,,y,198.7356099,219.2775852
+subj13_shorten_mono,subete-no,not > all,y,252.10934,294.4290459
+subj13_shorten_mono,magnolias-no-hana,,n,217.2063106,226.2779659
+subj13_shorten_mono,wa,,y,230.586592,236.1065973
+subj13_shorten_mono,sak,,n,199.3994047,206.1216089
+subj13_shorten_mono,anai,,n,203.8511302,212.8250895
+subj13_shorten_mono,desyoo,,y,176.4921979,181.3813533
+subj14_shorten_mono,subete,not > all,n,294.7654066,318.5836518
+subj14_shorten_mono,no,,y,249.3991821,252.7811858
+subj14_shorten_mono,magnolias-no-hana,,n,255.9650965,274.5389117
+subj14_shorten_mono,wa sakanai,,y,258.1358893,301.3110927
+subj14_shorten_mono,desyoo,,y,234.8901734,254.2016518
+subj14_shorten_mono,subete,all > not,y,330.536488,347.356498
+subj14_shorten_mono,no,,n,263.4850836,293.1717754
+subj14_shorten_mono,magnolias-no,,n,252.7666546,286.167463
+subj14_shorten_mono,hana-wa,,y,249.2154194,264.25098
+subj14_shorten_mono,sakanai,,n,249.6407412,271.3117324
+subj14_shorten_mono,desyoo,,y,191.8710623,248.8130762
+subj14_shorten_mono,Liam,many > not,n,257.0129717,294.2230698
+subj14_shorten_mono,wa,,y,253.1652648,268.0529653
+subj14_shorten_mono,ooku-no,,n,262.4565616,301.448393
+subj14_shorten_mono,sotugyoosee,,y,254.1734697,266.0445569
+subj14_shorten_mono,o,,n,266.202991,280.853723
+subj14_shorten_mono,sirimasen,,y,248.6888477,278.0076643
+subj14_shorten_mono,Liam,not > many,n,276.6966088,315.4562481
+subj14_shorten_mono,wa,,y,225.0824454,229.5859567
+subj14_shorten_mono,ooku,,y,295.0648823,321.7882494
+subj14_shorten_mono,no,,y,339.2093589,347.755305
+subj14_shorten_mono,sotugyoosee-o,,n,249.7153279,348.4626483
+subj14_shorten_mono,sirimasen,,y,225.0055624,268.1414537
+subj14_shorten_mono,subete-nourazi-wahoturetei-masen,all > not,n,263.8982895,330.3311435
+subj14_shorten_mono,desita,,y,217.1318304,218.1560819
+subj14_shorten_mono,subete,not > all,n,310.6767576,342.8384465
+subj14_shorten_mono,no,,y,252.3384425,278.52364
+subj14_shorten_mono,urazi,,n,256.4671833,262.1622563
+subj14_shorten_mono,wa,,y,262.0896186,265.523355
+subj14_shorten_mono,hoturete,,n,269.4165822,313.0448653
+subj14_shorten_mono,i-masen,,y,244.1969155,288.7205837
+subj14_shorten_mono,desita,,y,241.0303826,248.3625831
+subj14_shorten_mono,Neil,most > not,y,249.7854569,300.4320576
+subj14_shorten_mono,wahotondo-nomusical-o,,n,245.5904454,301.8058708
+subj14_shorten_mono,kansyoo,,n,253.5811391,268.122021
+subj14_shorten_mono,simasen,,y,237.9071983,268.0720651
+subj14_shorten_mono,Neil,not > most,n,273.3946564,304.8223645
+subj14_shorten_mono,wa,,y,229.1829368,236.3739516
+subj14_shorten_mono,hotondo-no,,y,274.8255271,322.3780158
+subj14_shorten_mono,musical-o,,n,237.5267177,275.1079856
+subj14_shorten_mono,kansyoo,,n,256.9762687,288.2984414
+subj14_shorten_mono,simasen,,y,249.4070678,278.7060863
+subj14_shorten_mono,subete-no,not > all,n,292.2309311,323.3400798
+subj14_shorten_mono,okaasan,,y,279.3063198,330.5310136
+subj14_shorten_mono,wa,,y,318.9713753,333.8855843
+subj14_shorten_mono,eyeliner-oyurusimasen,,n,240.1381096,264.9712871
+subj14_shorten_mono,desita,,y,186.9647077,325.4501237
+subj14_shorten_mono,subete-nookaasan-wa,all > not,n,254.660996,317.6632644
+subj14_shorten_mono,wa,,y,246.2903663,248.8171913
+subj14_shorten_mono,eyeliner-o,,n,256.0090279,293.8065889
+subj14_shorten_mono,yurusimasen,,y,248.7472062,286.6403973
+subj14_shorten_mono,desita,,y,229.1867158,241.2932477
+subj15_shorten_mono,,,,--undefined--,--undefined--
+subj15_shorten_mono,subete-nomagnolias-no-hana,not > all,n,195.4944473,282.0273487
+subj15_shorten_mono,wa,,y,212.1326216,217.5031417
+subj15_shorten_mono,sakanai,,n,191.0556277,217.2427407
+subj15_shorten_mono,desyoo,,y,181.4273493,184.4817095
+subj15_shorten_mono,subete-no,all > not,y,264.1660389,298.5285447
+subj15_shorten_mono,magnolias-no-hana-wasakanai,,n,205.7967966,241.9980816
+subj15_shorten_mono,desyoo,,y,209.7702483,225.3924136
+subj15_shorten_mono,Liam,many > not,n,234.9136805,294.6017424
+subj15_shorten_mono,wa,,y,152.4936435,202.1326777
+subj15_shorten_mono,,,,--undefined--,--undefined--
+subj15_shorten_mono,ooku,,n,249.6006613,275.6242043
+subj15_shorten_mono,no,,y,216.2712078,263.6140472
+subj15_shorten_mono,sotugyoosee-o,,n,205.3772906,229.5070378
+subj15_shorten_mono,sirimasen,,y,183.3769142,221.1028536
+subj15_shorten_mono,Liam-waooku-nosotugyoosee-o,not > mamy,n,218.8612706,269.9286472
+subj15_shorten_mono,sirimasen,,y,197.7492848,232.5075647
+subj15_shorten_mono,subete-nourazi,all > not,n,220.954672,292.1515513
+subj15_shorten_mono,wa,,y,202.2282076,209.6179031
+subj15_shorten_mono,hoturetei-masen,,n,206.8963556,234.2480664
+subj15_shorten_mono,desita,,y,181.1986861,185.0981193
+subj15_shorten_mono,subete-no,not > all,y,250.6382224,310.6889114
+subj15_shorten_mono,urazi-wahoturetei-masen,,n,201.7349482,224.8119851
+subj15_shorten_mono,desita,,y,134.2575266,198.7321513
+subj15_shorten_mono,Neil-wahotondo-nomusical,most > not,n,223.3572204,280.1256701
+subj15_shorten_mono,o,,y,195.1466877,202.4234624
+subj15_shorten_mono,kansyoo,,y,212.0823624,233.5608658
+subj15_shorten_mono,simasen,,y,201.9250551,232.2460976
+subj15_shorten_mono,Neil-wa,not > most,n,227.8202188,266.1520688
+subj15_shorten_mono,hotondo-no,,y,251.3242167,300.7673056
+subj15_shorten_mono,musical-Acc,,n,216.6628155,241.7503273
+subj15_shorten_mono,kansyoo,,n,206.8978471,234.1209703
+subj15_shorten_mono,simasen,,y,185.6373458,221.8865131
+subj15_shorten_mono,subete-nookaasan,not > all,n,217.4202087,274.3509786
+subj15_shorten_mono,wa,,y,201.8116055,203.6354648
+subj15_shorten_mono,eyeliner,,n,207.0843533,223.2021205
+subj15_shorten_mono,o,,y,235.420175,245.2477529
+subj15_shorten_mono,yurusimasen,,n,218.2419671,335.2445013
+subj15_shorten_mono,desita,,y,185.0591516,190.6435444
+subj15_shorten_mono,subete-no,all > not,y,255.5690876,292.4838594
+subj15_shorten_mono,okaasan,,n,203.2859314,232.2925778
+subj15_shorten_mono,wa,,y,224.6141852,230.5386801
+subj15_shorten_mono,eyeliner-o,,n,203.3496032,253.4925919
+subj15_shorten_mono,yurusimasen,,y,205.8898063,245.9380481
+subj15_shorten_mono,desita,,y,181.5787813,189.3723814
+subj18_shorten_mono,subete-no,all > not,n,273.3540157,339.5842263
+subj18_shorten_mono,okaasan,,y,199.5905284,218.9409149
+subj18_shorten_mono,wa,,y,180.842301,185.2527201
+subj18_shorten_mono,eyeliner-oyurusimasen,,n,214.1837902,262.1248852
+subj18_shorten_mono,desita,,y,100.388605,102.2530535
+subj18_shorten_mono,subete-nookaasan,not > all,n,250.5956798,324.5016176
+subj18_shorten_mono,wa,,y,184.4838274,192.1855131
+subj18_shorten_mono,eyeliner,,n,260.8014654,297.4906483
+subj18_shorten_mono,o,,y,205.2502493,325.1853221
+subj18_shorten_mono,yurusimasen,,n,195.2778433,237.417751
+subj18_shorten_mono,desita,,y,187.0685852,212.8645598
+subj18_shorten_mono,Neil,not > most,n,250.7243248,275.1685018
+subj18_shorten_mono,wa,,y,192.6454472,196.7243361
+subj18_shorten_mono,hotondo-nomusical-o,,n,246.3815996,316.8512639
+subj18_shorten_mono,o,,y,174.3899683,185.5449058
+subj18_shorten_mono,kansyoo,,n,206.2879355,213.2536033
+subj18_shorten_mono,simasen,,y,206.7332537,230.9725022
+subj18_shorten_mono,Neil,most > not,n,264.1382798,288.6078418
+subj18_shorten_mono,wa,,y,196.3872604,234.1564878
+subj18_shorten_mono,hotondo,,n,268.8507186,312.0554827
+subj18_shorten_mono,no,,y,150.6960613,209.3417294
+subj18_shorten_mono,musical,,n,265.2305233,306.6678178
+subj18_shorten_mono,o,,y,181.3182839,202.0045269
+subj18_shorten_mono,kansyoosimasen,,y,211.8434747,235.0763307
+subj18_shorten_mono,subete-nourazi,not > all,n,243.0554621,312.8209575
+subj18_shorten_mono,wa,,y,184.9250951,187.4320902
+subj18_shorten_mono,hoturetei-masen,,n,234.5875617,275.8286619
+subj18_shorten_mono,desita,,y,210.0219064,244.7749315
+subj18_shorten_mono,subete-nourazi,all > not,n,268.9967837,361.896194
+subj18_shorten_mono,wa,,y,196.3569999,199.4774463
+subj18_shorten_mono,hoturetei-masen,,n,233.6168152,276.4203152
+subj18_shorten_mono,desita,,y,204.381398,234.8640691
+subj18_shorten_mono,Liam,not > many,n,249.1974503,285.8915568
+subj18_shorten_mono,wa,,y,191.8760233,204.291906
+subj18_shorten_mono,ooku,,n,299.1234966,330.4168823
+subj18_shorten_mono,no,,y,213.0671599,242.0170845
+subj18_shorten_mono,sotugyoosee,,n,250.5193892,266.2750811
+subj18_shorten_mono,o,,y,206.6183723,208.0791247
+subj18_shorten_mono,sirimasen,,y,205.6176679,236.2480743
+subj18_shorten_mono,Liam,many > not,n,259.6424357,277.8858421
+subj18_shorten_mono,wa,,y,189.715589,206.5797908
+subj18_shorten_mono,ooku-no,,n,295.1895577,342.5493706
+subj18_shorten_mono,sotugyoosee-o,,y,230.481747,266.1860099
+subj18_shorten_mono,sirimasen,,y,204.8937194,224.9800832
+subj18_shorten_mono,subete-no,all > not,n,292.0943777,328.4533773
+subj18_shorten_mono,magnolias-no,,n,250.7583387,274.0196694
+subj18_shorten_mono,hana-wa,,y,252.6662836,275.8354804
+subj18_shorten_mono,sak,,n,224.7088403,225.6035552
+subj18_shorten_mono,anai,,n,229.5109318,243.7034857
+subj18_shorten_mono,desyoo,,y,193.0653972,221.6125969
+subj18_shorten_mono,subete,not > all,n,303.5574624,354.9366335
+subj18_shorten_mono,no,,y,217.8338495,240.525907
+subj18_shorten_mono,magnolias-no-hana,,n,217.2294255,239.9844754
+subj18_shorten_mono,wa,,y,225.9144449,226.7269204
+subj18_shorten_mono,sakanai,,n,206.0314888,246.6380629
+subj18_shorten_mono,desyoo,,y,193.5561355,221.4184307
+subj19_shorten_mono,subete,not > all,n,289.2958248,351.3991851
+subj19_shorten_mono,no,,y,233.1807916,235.1725339
+subj19_shorten_mono,magnolias-no-hana,,n,217.4215631,252.2899903
+subj19_shorten_mono,wa,,y,270.4192183,284.7775209
+subj19_shorten_mono,sakanai,,n,207.2821004,229.0276342
+subj19_shorten_mono,desyoo,,y,142.3086727,208.5032523
+subj19_shorten_mono,subete,all > not,y,314.5265861,346.6831694
+subj19_shorten_mono,no,,y,225.1368306,238.4316236
+subj19_shorten_mono,magnolias-no-hana,,n,215.6627334,251.7781721
+subj19_shorten_mono,wa,,y,221.1365855,233.1083063
+subj19_shorten_mono,sakanai,,y,223.8727654,233.1083063
+subj19_shorten_mono,desyoo,,y,198.0517675,225.8719456
+subj19_shorten_mono,Liam,many > not,n,258.9117188,300.5218937
+subj19_shorten_mono,wa,,y,226.604286,231.967423
+subj19_shorten_mono,ooku,,y,286.2597031,302.4924282
+subj19_shorten_mono,no,,n,216.7579179,239.7841885
+subj19_shorten_mono,sotugyoosee,,n,211.9579236,232.4608745
+subj19_shorten_mono,o,,y,247.9679873,261.4008887
+subj19_shorten_mono,sirimasen,,y,205.6703396,238.8586475
+subj19_shorten_mono,Liam,not > many,n,248.3280322,289.1972913
+subj19_shorten_mono,wa,,y,221.1925856,226.9543196
+subj19_shorten_mono,ooku,,y,313.7069356,324.9109476
+subj19_shorten_mono,no,,n,233.4480618,277.3752565
+subj19_shorten_mono,sotugyoosee,,n,214.3996082,229.6065352
+subj19_shorten_mono,o,,y,260.0495853,286.3042759
+subj19_shorten_mono,sirimasen,,y,207.7029651,237.4433475
+subj19_shorten_mono,subete-nourazi,all > not,n,242.4007114,335.4841136
+subj19_shorten_mono,wa,,y,287.7366707,297.1945163
+subj19_shorten_mono,hoturete,,n,223.5839748,269.64247
+subj19_shorten_mono,i-masen,,y,200.6541823,251.600519
+subj19_shorten_mono,desita,,y,192.5493498,195.4546265
+subj19_shorten_mono,subete-nourazi,not > all,n,255.736692,387.5962814
+subj19_shorten_mono,wa,,y,255.2788631,261.0210586
+subj19_shorten_mono,hoturete,,y,240.1981664,290.608909
+subj19_shorten_mono,i-masen,,n,211.6871865,259.8607985
+subj19_shorten_mono,desita,,y,193.8626863,199.8591675
+subj19_shorten_mono,Neil,most > not,n,256.8132461,293.4303376
+subj19_shorten_mono,wa,,y,242.4117692,245.1399408
+subj19_shorten_mono,hotondo-no,,n,260.387572,327.5744469
+subj19_shorten_mono,musical,,y,211.4333839,231.4146445
+subj19_shorten_mono,o,,y,249.6206642,257.690926
+subj19_shorten_mono,kansyoo,,n,218.693402,257.2522395
+subj19_shorten_mono,simasen,,y,202.553297,240.9757489
+subj19_shorten_mono,Neil,not > most,n,249.989143,280.6920759
+subj19_shorten_mono,wa,,y,209.5723512,217.1844903
+subj19_shorten_mono,hodondo-no,,n,278.5646885,345.1313293
+subj19_shorten_mono,musical,,n,214.3771952,252.886212
+subj19_shorten_mono,o,,y,292.4363098,311.184474
+subj19_shorten_mono,kansyoo,,n,215.660266,241.086119
+subj19_shorten_mono,simasen,,y,204.2502687,240.6022464
+subj19_shorten_mono,subete-nookaasan,not > all,n,258.0632839,353.8867194
+subj19_shorten_mono,wa,,y,266.7158386,271.0953282
+subj19_shorten_mono,eyeliner,,y,231.6214631,246.7104462
+subj19_shorten_mono,o,,y,244.5698819,271.2152063
+subj19_shorten_mono,yurusimasen,,y,210.7742232,258.2017916
+subj19_shorten_mono,desita,,y,180.7429547,188.0812489
+subj19_shorten_mono,subete-nookaasan,all > not,n,256.5280721,355.8364588
+subj19_shorten_mono,wa,,y,251.8667997,266.2883825
+subj19_shorten_mono,eyeliner,,n,227.892132,250.9483005
+subj19_shorten_mono,o,,y,269.1356457,306.1085762
+subj19_shorten_mono,yurusimasen,,y,214.6082689,245.4114253
+subj19_shorten_mono,desita,,y,151.9415762,211.4608591
+subj1_shorten_mono,,,,--undefined--,--undefined--
+subj1_shorten_mono,subete-nomagnolia-no-hana-wasak-anai,not > all,n,154.3349868,345.9133079
+subj1_shorten_mono,desyoo,,y,106.4026808,108.8458382
+subj1_shorten_mono,subete-nomagnolia-no-hana-wasak-anai,all > not,n,144.86454,252.893649
+subj1_shorten_mono,desyoo,,y,98.44764921,110.4035483
+subj1_shorten_mono,Liam,many > not,n,178.5083648,207.4215523
+subj1_shorten_mono,wa,,y,114.9280285,131.847355
+subj1_shorten_mono,ooku-nosotugyoosee-o,,n,157.7938849,232.8255914
+subj1_shorten_mono,sirimasen,,y,116.9196737,123.543937
+subj1_shorten_mono,Liam,not > many,n,175.0115125,213.9779347
+subj1_shorten_mono,wa,,y,110.4302062,117.1007831
+subj1_shorten_mono,ooku-nosotugyoosee-o,,n,160.1125948,238.6318884
+subj1_shorten_mono,sirimasen,,y,119.0303487,228.5730882
+subj1_shorten_mono,subete-nourazi,all > not,n,170.144648,252.8732489
+subj1_shorten_mono,wa,,y,115.7461144,119.618298
+subj1_shorten_mono,hoturetei-masen,,n,120.6930999,165.7970394
+subj1_shorten_mono,desita,,y,--undefined--,--undefined--
+subj1_shorten_mono,subete-nourazi,not > all,n,162.2491716,252.2471902
+subj1_shorten_mono,wa,,y,103.5614635,110.222502
+subj1_shorten_mono,hoturetei-masen,,n,114.8903282,157.1539661
+subj1_shorten_mono,desita,,y,--undefined--,--undefined--
+subj1_shorten_mono,Neil,most > not,n,190.0292614,215.6305555
+subj1_shorten_mono,wa,,y,108.8309695,114.1872876
+subj1_shorten_mono,hotondo-nomusical-o,,n,168.2644034,282.5230101
+subj1_shorten_mono,kansyoo,,n,139.6326485,144.4525531
+subj1_shorten_mono,simasen,,y,115.3679537,126.4168898
+subj1_shorten_mono,Neil-wahotondo-nomusical-okansyoo,not > most,n,152.0904702,262.7646722
+subj1_shorten_mono,simasen,,y,139.1132791,212.3926482
+subj1_shorten_mono,subete,not > all,y,198.1261076,227.4672243
+subj1_shorten_mono,no,,n,106.846409,147.8657287
+subj1_shorten_mono,okaasan,,n,110.9197978,117.335995
+subj1_shorten_mono,wa,,y,91.44284004,95.22023515
+subj1_shorten_mono,eyeliner-oyurusimasen,,n,125.7736927,228.6715581
+subj1_shorten_mono,desita,,y,86.6221884,86.88103104
+subj1_shorten_mono,subete-nookaasan-waeyeliner-oyurusimasen,all > not,n,138.9721725,261.0382365
+subj1_shorten_mono,desita,,y,105.3729953,105.4137073
+subj20_shorten_mono,subete,all > not,y,288.4735929,301.118936
+subj20_shorten_mono,no,,n,235.7023625,265.053013
+subj20_shorten_mono,okaasan-wa,,n,223.0233139,237.3107063
+subj20_shorten_mono,eyeliner,,n,238.0182814,257.6208931
+subj20_shorten_mono,oyurusimasen,,y,217.2779028,248.271804
+subj20_shorten_mono,desita,,y,193.9236927,198.7033246
+subj20_shorten_mono,subete-no,not > all,y,278.1927509,305.5213104
+subj20_shorten_mono,okaasan-waeyeliner-o,,n,224.9111799,259.6221026
+subj20_shorten_mono,yurusimasen,,y,221.3167894,243.6419611
+subj20_shorten_mono,desita,,y,196.2174889,203.5751933
+subj20_shorten_mono,Neil-wahotondo-nomusical-o,not > most,n,234.3837011,283.6745081
+subj20_shorten_mono,kansyoosimasen,,y,222.5676168,249.0054766
+subj20_shorten_mono,Neil-wahotondo-nomusical-o,most > not,n,235.2780519,286.7783655
+subj20_shorten_mono,kansyoosimasen,,y,221.9933734,250.1878295
+subj20_shorten_mono,subete,not > all,y,286.3227919,301.3351091
+subj20_shorten_mono,nourazi-wahoturetei-masen,,n,229.4804309,286.2746175
+subj20_shorten_mono,desita,,y,208.5172668,222.7562693
+subj20_shorten_mono,subete,all > not,y,290.4671232,307.6799309
+subj20_shorten_mono,nourazi-wahoturetei-masen,,n,231.9490634,278.0917225
+subj20_shorten_mono,desita,,y,206.9702405,213.0934996
+subj20_shorten_mono,Liam-waooku-nosotugyoosee-o,not > many,n,242.0919788,278.9597381
+subj20_shorten_mono,sirimasen,,y,222.583987,253.3121574
+subj20_shorten_mono,Liam-waooku-nosotugyoosee-o,many > not,y,238.228556,291.5501481
+subj20_shorten_mono,sirimasen,,y,213.0470321,235.5561042
+subj20_shorten_mono,subete-no,all > not,n,263.1866303,285.2210844
+subj20_shorten_mono,magnolias-no-hana,,n,229.9397448,241.2069757
+subj20_shorten_mono,wa,,y,231.9533894,240.4653349
+subj20_shorten_mono,sakanai,,n,225.1626139,245.414506
+subj20_shorten_mono,desyoo,,y,201.2917522,213.7996697
+subj20_shorten_mono,subete,not > all,y,277.4851153,311.561736
+subj20_shorten_mono,nomagnolias-no-hana-wasakanai,,n,231.2769882,278.3475704
+subj20_shorten_mono,desyoo,,y,208.3299269,222.3071102
+subj21_shorten_mono,subete-nookaasan,all > not,n,240.4979602,326.6827018
+subj21_shorten_mono,wa,,y,214.0904803,219.155013
+subj21_shorten_mono,eyeliner-o,,n,223.5757133,258.7996612
+subj21_shorten_mono,yurusimasendesita,,y,199.1925119,228.6096319
+subj21_shorten_mono,subete-nookaasan-waeyeliner-o,not > all,n,229.9227367,367.5897101
+subj21_shorten_mono,yurusimasendesita,,y,197.6565531,239.2325524
+subj21_shorten_mono,Neil-wahotondo-nomusical-o,not > most,n,238.1790154,301.6691495
+subj21_shorten_mono,kansyoosimasen,,y,212.5415549,248.4189065
+subj21_shorten_mono,Neil-wa,most > not,n,242.0831199,272.0496247
+subj21_shorten_mono,hotondo,,y,284.2666762,349.2097707
+subj21_shorten_mono,nomusical-o,,n,233.7740267,310.9839216
+subj21_shorten_mono,kansyoosimasen,,y,225.1416839,253.0596165
+subj21_shorten_mono,subete-nourazi-wahoturete,not > all,n,247.0087564,365.8197072
+subj21_shorten_mono,i-masen,,y,203.0571519,227.9802445
+subj21_shorten_mono,desita,,y,180.3670318,190.899327
+subj21_shorten_mono,subete-nourazi-wahoturete,all > not,n,263.042382,377.9403183
+subj21_shorten_mono,i-masen,,y,235.0233064,299.6631489
+subj21_shorten_mono,desita,,y,203.2301369,235.2211351
+subj21_shorten_mono,Liam,not > many,n,267.4979644,311.48188
+subj21_shorten_mono,wa,,y,216.982109,220.4032029
+subj21_shorten_mono,ooku-nosotugyoosee-o,,n,248.7767411,347.1546236
+subj21_shorten_mono,sirimasen,,y,196.8543359,226.8392512
+subj21_shorten_mono,Liam-wa,many > not,n,246.6478595,295.243248
+subj21_shorten_mono,ooku-no,,y,339.7394962,392.252148
+subj21_shorten_mono,sotugyoosee-o,,n,242.9875536,327.2017585
+subj21_shorten_mono,sirimasen,,y,231.823747,290.8617728
+subj21_shorten_mono,subete-nomagnolias-no-hana-wa,all > not,n,241.7806655,382.1732267
+subj21_shorten_mono,sakanaidesyoo,,y,207.6773511,237.823903
+subj21_shorten_mono,subete-no,not > all,y,264.002103,412.1332485
+subj21_shorten_mono,magnolias-no-hana-wa,,n,209.8432291,238.7148603
+subj21_shorten_mono,sakanai,,y,216.2191966,251.1364914
+subj21_shorten_mono,desyoo,,y,203.5484852,236.7050855
+subj22_shorten_mono,subete-nookaasan,all > not,n,156.3925727,211.8805855
+subj22_shorten_mono,wa,,n,89.77091972,128.189787
+subj22_shorten_mono,eyeliner,,n,196.2696894,224.172196
+subj22_shorten_mono,o,,y,165.0735932,225.3052974
+subj22_shorten_mono,yurusimasen,,y,129.9673209,144.2262609
+subj22_shorten_mono,desita,,y,110.1472781,116.4562446
+subj22_shorten_mono,subete-no,not > all,y,221.9198249,254.5659989
+subj22_shorten_mono,okaasan-waeyeliner-oyurusimasen,,n,134.0224698,166.3165658
+subj22_shorten_mono,desita,,y,107.3638411,110.1941521
+subj22_shorten_mono,Neil-wa,not > most,n,145.6739336,192.0584983
+subj22_shorten_mono,hotondo-no,,y,186.6487368,222.1119346
+subj22_shorten_mono,musical,,n,166.2370333,174.8983762
+subj22_shorten_mono,o,,y,193.7630642,201.3778408
+subj22_shorten_mono,kansyoo,,n,127.9192593,137.5815856
+subj22_shorten_mono,simasen,,y,116.5392584,126.8143902
+subj22_shorten_mono,Neil-wahotondo-nomusical,most > not,n,163.5192887,222.1221583
+subj22_shorten_mono,o,,y,163.9276507,169.2104138
+subj22_shorten_mono,kansyoo,,n,133.6423033,169.1882281
+subj22_shorten_mono,simasen,,y,118.5871283,129.2848447
+subj22_shorten_mono,subete-nourazi-wa,not > all,n,157.2542004,217.7618407
+subj22_shorten_mono,wa,,y,125.8145606,141.8971675
+subj22_shorten_mono,hoturete,,y,157.9514074,180.1787837
+subj22_shorten_mono,i-masen,,y,137.8284073,155.2091534
+subj22_shorten_mono,desita,,y,112.0107232,121.6488098
+subj22_shorten_mono,subete,all > not,y,221.4174591,242.5500537
+subj22_shorten_mono,nourazi-wahoturetei-masen,,n,153.9863365,224.3750724
+subj22_shorten_mono,desita,,y,107.6564648,111.4464621
+subj22_shorten_mono,Liam-waooku-nosotugyoosee,not > many,n,168.266099,217.663239
+subj22_shorten_mono,o,,y,147.1124835,176.0802025
+subj22_shorten_mono,sirimasen,,y,125.101689,150.0174805
+subj22_shorten_mono,Liam-waooku-nosotugyoosee,many > not,n,172.3467655,234.8873804
+subj22_shorten_mono,o,,y,195.2897268,204.0575291
+subj22_shorten_mono,sirimasen,,y,130.0418511,199.3816216
+subj22_shorten_mono,subete,all > not,y,218.2438521,238.1838382
+subj22_shorten_mono,no,,n,197.3238348,206.1565838
+subj22_shorten_mono,magnolias-no-hana,,n,152.3449916,200.3918357
+subj22_shorten_mono,wa,,y,166.7526077,175.2758046
+subj22_shorten_mono,sakanai,,n,138.1743117,173.5528502
+subj22_shorten_mono,desyoo,,y,113.8177273,120.1352936
+subj22_shorten_mono,subete,not > all,y,235.9893976,260.0039484
+subj22_shorten_mono,nomagnolias-no-hana-wasakanai,,n,157.2794255,392.8351593
+subj22_shorten_mono,desyoo,,y,115.2720077,128.8950611
+subj24_shorten_mono,subete,not > all,n,258.6413094,280.1604086
+subj24_shorten_mono,no,,y,231.7214801,238.6159847
+subj24_shorten_mono,magnolias-no-hana,,n,218.8634377,239.0849968
+subj24_shorten_mono,wa,,y,254.5704095,265.2066975
+subj24_shorten_mono,sakanai,,n,223.3333708,240.2107861
+subj24_shorten_mono,desyoo,,y,213.7586284,221.6368897
+subj24_shorten_mono,subete-no,all > not,y,260.298033,287.588116
+subj24_shorten_mono,magnolias-,,y,239.9074075,249.6910227
+subj24_shorten_mono,no-hana-wa,,n,231.8294274,245.6018806
+subj24_shorten_mono,sakanai,,y,219.7129233,242.6467176
+subj24_shorten_mono,desyoo,,y,187.247813,217.0859175
+subj24_shorten_mono,Liam-wa,many > not,n,238.220823,261.0523522
+subj24_shorten_mono,ooku-no,,y,212.9773462,231.6649389
+subj24_shorten_mono,sotugyoosee-o,,y,228.2720526,318.2310725
+subj24_shorten_mono,sirimasen,,y,221.8308217,317.8615014
+subj24_shorten_mono,Liam,not > many,n,276.9040561,295.0315413
+subj24_shorten_mono,wa,,y,279.0535953,293.450146
+subj24_shorten_mono,ooku-no,,n,266.6989587,298.0061742
+subj24_shorten_mono,sotugyoose,,y,255.7831972,267.9421442
+subj24_shorten_mono,o,,n,285.0617753,299.0654222
+subj24_shorten_mono,sirimasen,,y,265.5994253,305.9032561
+subj24_shorten_mono,subete-no,all > not,y,249.6497885,286.1793346
+subj24_shorten_mono,urazi-wahoturete,,n,223.2176169,258.9986948
+subj24_shorten_mono,i-masendesita,,y,258.7932262,320.3970351
+subj24_shorten_mono,subete-nourazi,not > all,n,264.9825726,309.4524918
+subj24_shorten_mono,wa,,y,345.3715753,365.0331959
+subj24_shorten_mono,hoturete,,n,226.7766262,358.5826427
+subj24_shorten_mono,i-masendesita,,y,235.1599728,283.8260349
+subj24_shorten_mono,Neil-wahotondo,most > not,y,266.9070967,289.3062758
+subj24_shorten_mono,no,,n,269.2307766,273.8809454
+subj24_shorten_mono,musical,,y,234.5016341,262.1686062
+subj24_shorten_mono,o,,n,261.4228286,279.6345192
+subj24_shorten_mono,kansyoosimasen,,y,222.0687692,266.7519709
+subj24_shorten_mono,Neil,not > most,n,291.2364253,308.4004102
+subj24_shorten_mono,wa,,y,292.6077356,303.7168864
+subj24_shorten_mono,hotondo,,y,315.5515446,355.3686079
+subj24_shorten_mono,no,,n,271.2312724,317.3640108
+subj24_shorten_mono,musical,,n,236.6882733,255.3915504
+subj24_shorten_mono,o,,y,284.7447364,297.3549999
+subj24_shorten_mono,kansyoo,,n,237.2638331,291.4865487
+subj24_shorten_mono,simasen,,y,241.0238705,288.7943616
+subj24_shorten_mono,subete-nookaasan-,not > all,y,249.6751763,288.8101959
+subj24_shorten_mono,wa,,y,253.3829776,264.6314458
+subj24_shorten_mono,eyeliner-o,,n,210.5016966,231.1898288
+subj24_shorten_mono,yurusimasendesita,,y,232.3428724,280.3457802
+subj24_shorten_mono,subete-no,all > not,n,286.6622549,313.1624344
+subj24_shorten_mono,okaasan,,y,249.2122747,264.2830637
+subj24_shorten_mono,wa,,y,290.6275328,302.911332
+subj24_shorten_mono,eyeliner-o,,n,226.46826,250.644471
+subj24_shorten_mono,yurusimasendesita,,y,267.2659471,339.3721952
+subj25_shorten_mono,subete-nookaasan,all > not,n,168.7001527,264.1433278
+subj25_shorten_mono,wa,,y,103.8986202,105.9367379
+subj25_shorten_mono,eyeliner,,n,160.0083476,183.1530574
+subj25_shorten_mono,o,,y,163.1447871,168.6026779
+subj25_shorten_mono,yursimasen,,n,119.2190095,127.8954107
+subj25_shorten_mono,desita,,y,98.67006489,116.8268889
+subj25_shorten_mono,subete-nookaasan-wa,not > all,n,145.9500689,253.549162
+subj25_shorten_mono,wa,,y,101.0699384,106.4479512
+subj25_shorten_mono,eyeliner-o,,n,134.5226214,164.7517458
+subj25_shorten_mono,yurusimasendesita,,y,105.8530945,116.9748475
+subj25_shorten_mono,Neil-wa,not > most,n,147.2810841,159.428163
+subj25_shorten_mono,hotondo-no,,y,147.6717407,183.967416
+subj25_shorten_mono,musical-okansyoo,,n,119.2830039,134.4953714
+subj25_shorten_mono,simasen,,y,105.8851866,116.0147056
+subj25_shorten_mono,Neil-wahotondo-nomusical-Acc,most > not,n,137.3248399,176.551794
+subj25_shorten_mono,kansyoosimasendesita(this is a mistake),,y,111.5220559,122.1458997
+subj25_shorten_mono,subete-nourazi,not > all,n,146.7321891,254.3362201
+subj25_shorten_mono,wa,,y,119.3195743,122.7063167
+subj25_shorten_mono,hoturetei-masen,,n,117.9500867,130.9829771
+subj25_shorten_mono,desita,,y,97.44080868,109.5608871
+subj25_shorten_mono,subete-nourazi-wa,all > not,n,136.7602731,237.9744296
+subj25_shorten_mono,wa,,y,114.0634567,116.5196123
+subj25_shorten_mono,hoturetei-masen,,n,130.0579757,157.7905989
+subj25_shorten_mono,desita,,y,115.8812702,115.8812702
+subj25_shorten_mono,Liam,not > many,n,141.4599941,164.0218659
+subj25_shorten_mono,wa,,y,99.57226725,116.225066
+subj25_shorten_mono,ooku-nosotugyoosee-o,,n,148.4113413,174.9793231
+subj25_shorten_mono,sirimasen,,y,104.6848997,117.7241686
+subj25_shorten_mono,Liam,many > not,n,143.3892158,159.9052672
+subj25_shorten_mono,wa,,y,115.7093662,118.9489633
+subj25_shorten_mono,ooku-nosotugyoosee-o,,n,135.7978008,164.4502924
+subj25_shorten_mono,sirimasen,,y,106.1525671,117.7834347
+subj25_shorten_mono,subete-nomagnolias-no-hana-wasakanai,all > not,n,127.1306287,178.4994664
+subj25_shorten_mono,desyoo,,y,54.19716821,96.92909969
+subj25_shorten_mono,subete-nomagnolias-no-hana,not > all,n,131.5391869,179.7087083
+subj25_shorten_mono,wa,,y,98.56659178,101.9266381
+subj25_shorten_mono,sakanai,,n,128.730907,143.6391876
+subj25_shorten_mono,desyoo,,y,102.0137891,124.6877845
+subj26_shorten_mono,subete,all > not,n,179.8437982,191.658082
+subj26_shorten_mono,no,,y,209.7924267,329.5983769
+subj26_shorten_mono,okaasan-wa,,n,140.5826389,326.2883735
+subj26_shorten_mono,wa,,y,224.8033309,366.1664687
+subj26_shorten_mono,eyeliner,,n,160.0159178,369.0421369
+subj26_shorten_mono,o,,y,175.2687104,193.9750848
+subj26_shorten_mono,yurusimasendesita,,y,140.1231873,299.1627148
+subj26_shorten_mono,subete-nookaasan,not > all,n,155.0091564,190.981479
+subj26_shorten_mono,wa,,y,118.4466329,125.4623401
+subj26_shorten_mono,eyeliner-o,,n,155.0901646,177.7840665
+subj26_shorten_mono,yurusimasen,,y,121.7379672,132.3379886
+subj26_shorten_mono,desita,,y,105.501674,107.7962375
+subj26_shorten_mono,Neil-wahotonodo,not > most,n,173.2955999,337.8765818
+subj26_shorten_mono,no,,y,167.8397437,171.5830201
+subj26_shorten_mono,musical,,n,158.9549247,171.3949557
+subj26_shorten_mono,o,,y,134.7528537,172.205925
+subj26_shorten_mono,kansyoo,,n,133.4149053,137.8921421
+subj26_shorten_mono,simasen,,y,112.9688473,133.7060473
+subj26_shorten_mono,Neil-wa,most > not,n,141.0384807,177.3365737
+subj26_shorten_mono,hotondo,,n,162.4973461,190.7060422
+subj26_shorten_mono,no,,y,156.6381452,314.4692138
+subj26_shorten_mono,musical,,n,160.2036644,294.6519713
+subj26_shorten_mono,okansyoo,,y,139.1373374,157.0017591
+subj26_shorten_mono,simasen,,y,133.7473944,152.4983592
+subj26_shorten_mono,subete,not > all,n,195.3893544,214.6764943
+subj26_shorten_mono,no,,y,158.5066464,163.4008211
+subj26_shorten_mono,urazi,,n,166.7059205,321.0047915
+subj26_shorten_mono,wa,,y,177.8086124,184.4751962
+subj26_shorten_mono,hoturete,,y,141.538907,162.249375
+subj26_shorten_mono,i-masen,,n,134.4325837,167.5567317
+subj26_shorten_mono,desita,,y,110.2144894,114.6046873
+subj26_shorten_mono,subete-no,all > not,y,154.8567047,180.911113
+subj26_shorten_mono,urazi,,n,132.532649,144.4454244
+subj26_shorten_mono,wa,,y,159.8375138,178.6414145
+subj26_shorten_mono,hoturetei-masen,,n,149.131704,323.7494846
+subj26_shorten_mono,desita,,y,106.2444895,106.814543
+subj26_shorten_mono,Liam,not > many,n,160.8300192,178.0807173
+subj26_shorten_mono,wa,,y,156.2440112,161.3650198
+subj26_shorten_mono,ooku,,n,194.8111395,210.6976004
+subj26_shorten_mono,nosotugyoosee,,y,180.7431218,200.557516
+subj26_shorten_mono,o,,y,189.3328848,203.4509096
+subj26_shorten_mono,sirimasen,,y,137.9040832,201.938199
+subj26_shorten_mono,Liam,many > not,n,162.1404991,177.7000125
+subj26_shorten_mono,wa,,y,140.8832348,147.641638
+subj26_shorten_mono,ooku-no,,n,163.8145665,181.8665087
+subj26_shorten_mono,sotugyoosee,,n,160.4812191,173.9435394
+subj26_shorten_mono,o,,y,156.5154621,160.0889141
+subj26_shorten_mono,sirimasen,,y,193.199111,349.7466959
+subj26_shorten_mono,subete-nomagnolias-no-hana,all > not,n,149.9283293,194.7398245
+subj26_shorten_mono,wa,,y,148.6333734,150.937372
+subj26_shorten_mono,sakanai,,y,127.6291064,151.396933
+subj26_shorten_mono,desyoo,,y,110.1824631,115.1083986
+subj26_shorten_mono,subete,not > all,n,184.2403311,201.6361044
+subj26_shorten_mono,no,,y,179.8049178,193.6829363
+subj26_shorten_mono,magnolias-no-hana,,n,146.329824,156.4455922
+subj26_shorten_mono,wa,,y,167.4414294,172.3012301
+subj26_shorten_mono,sakanai,,n,127.876008,166.7083703
+subj26_shorten_mono,desyoo,,y,115.0018944,118.6210277
+subj27_shorten_mono,subete-nomagnolias-no-hana-wasakanaidesyoo,not > all,n,134.9075526,160.0857029
+subj27_shorten_mono,subete,all > not,n,136.3681066,155.0508405
+subj27_shorten_mono,no,,y,111.286439,112.6173751
+subj27_shorten_mono,magnolias-no-hana-wa,,n,129.0009361,135.1449694
+subj27_shorten_mono,sakanai,,y,125.2935527,129.8347496
+subj27_shorten_mono,desyoo,,y,111.1292689,118.524147
+subj27_shorten_mono,Liam-waooku-nosotugyoosee-o,many > not,n,134.5152547,154.326328
+subj27_shorten_mono,sirimasen,,y,120.9889806,138.8388331
+subj27_shorten_mono,Liam-waooku-nosotugyoosee-o,not > many,n,134.1080876,167.4275747
+subj27_shorten_mono,sirimasen,,y,127.9380005,133.8582045
+subj27_shorten_mono,subete-nourazi-wa,all > not,n,137.7834018,164.3168913
+subj27_shorten_mono,hoturetei-masen,,y,131.5105902,151.0852565
+subj27_shorten_mono,desita,,n,109.8430699,113.5005638
+subj27_shorten_mono,subete-nourazi-wahoturetei-masen,not > all,n,135.5535783,171.0748907
+subj27_shorten_mono,desita,,y,121.0409531,132.7922283
+subj27_shorten_mono,Neil-wahotondo-nomusical-okansyoo,most > not,n,136.7202484,310.0821564
+subj27_shorten_mono,simasen,,y,129.9282728,133.7241358
+subj27_shorten_mono,Neil-wahotondo-nomusical-okansyoo,not > most,n,134.0395354,164.1454805
+subj27_shorten_mono,simasen,,y,133.4937003,139.881028
+subj27_shorten_mono,subete-nookaasan-waeyeliner-oyurusimasendesita,not > all,n,130.1964174,173.1752158
+subj27_shorten_mono,subete-nookaasan-waeyeliner-oyurusimasen,all > not,n,140.4149155,300.5270607
+subj27_shorten_mono,desita,,y,117.9610942,137.2234077
+subj28_shorten_mono,subete-nookaasan-wa,all > not,n,251.6438862,345.1972237
+subj28_shorten_mono,eyeliner,,y,241.6329822,263.7246765
+subj28_shorten_mono,o,,n,190.6674804,220.2441491
+subj28_shorten_mono,yurusimasen,,n,229.7515181,259.3167392
+subj28_shorten_mono,desita,,y,223.9216599,230.0569447
+subj28_shorten_mono,subete-nookaasan,not > all,n,259.614568,340.2796986
+subj28_shorten_mono,waeyeliner,,y,215.7325022,250.0409482
+subj28_shorten_mono,oyurusimasen,,n,217.6780581,262.5724548
+subj28_shorten_mono,desita,,y,194.6681173,215.824743
+subj28_shorten_mono,Neil-wahotondo-no,not > most,n,251.970493,304.1420875
+subj28_shorten_mono,musical,,y,199.766476,229.9381294
+subj28_shorten_mono,o,,n,158.0544303,218.7608942
+subj28_shorten_mono,kansyoo,,n,228.1740212,260.8064498
+subj28_shorten_mono,simasen,,y,232.3448088,260.0300608
+subj28_shorten_mono,Neil-wa,most > not,n,256.0716997,292.9444113
+subj28_shorten_mono,hotondo-no,,y,257.2129088,274.4194473
+subj28_shorten_mono,no,,n,232.0431187,259.6898716
+subj28_shorten_mono,musical-o,,y,213.0978219,236.9500065
+subj28_shorten_mono,kansyoo,,n,216.2462874,242.1640294
+subj28_shorten_mono,simasen,,y,229.5521596,253.4424843
+subj28_shorten_mono,subete-nourazi-wahoturetei-masen,not > all,n,234.2416352,334.4035195
+subj28_shorten_mono,desita,,y,220.7541964,237.8494131
+subj28_shorten_mono,subete-nourazi-wahoturete,all > not,n,242.8667981,334.8467172
+subj28_shorten_mono,i-masen,,y,193.8398507,274.4150645
+subj28_shorten_mono,desita,,y,206.8323839,220.3273507
+subj28_shorten_mono,Liam-waooku-nosotugyoosee-o,not > many,n,240.8712491,297.4748896
+subj28_shorten_mono,sirimasen,,y,207.9412,225.2010617
+subj28_shorten_mono,Liam-wa,many > not,n,263.0900845,310.9058459
+subj28_shorten_mono,ooku,,n,254.2296549,289.1447955
+subj28_shorten_mono,nosotugyoosee,,y,240.3982505,277.0305115
+subj28_shorten_mono,o,,n,223.9833028,275.6536478
+subj28_shorten_mono,sirimasen,,y,212.2252316,239.9632008
+subj28_shorten_mono,subete-no,all > not,n,277.9348218,323.1361014
+subj28_shorten_mono,magnolias-,,y,240.6912537,267.7214782
+subj28_shorten_mono,no-hana-wa,,n,220.9047393,254.2076987
+subj28_shorten_mono,sakanai,,y,221.4427229,265.4710583
+subj28_shorten_mono,desyoo,,y,218.2139626,230.9548964
+subj28_shorten_mono,subete-no,not > all,n,281.905222,331.1718055
+subj28_shorten_mono,magnolias-,,y,250.74947,284.5942347
+subj28_shorten_mono,no,,n,231.4496692,253.6715372
+subj28_shorten_mono,hana-wa,,y,210.1352482,234.3454899
+subj28_shorten_mono,sakanai,,n,225.2988521,237.0000262
+subj28_shorten_mono,desyoo,,y,210.5364795,237.3608765
+subj2_shorten_mono,subete-no,all > not,n,272.629792,331.5489123
+subj2_shorten_mono,okaasan-wa,,y,218.9289175,231.4321538
+subj2_shorten_mono,eyeliner-o,,y,242.0490676,282.4175946
+subj2_shorten_mono,yurusimasendesita,,y,232.9019714,257.9893743
+subj2_shorten_mono,subete-no,not > all,y,275.3813844,334.4954639
+subj2_shorten_mono,okaasan-waeyeliner,,n,238.7479792,286.7822247
+subj2_shorten_mono,o,,y,193.6213069,221.4213856
+subj2_shorten_mono,yurusimasen,,y,232.8511085,251.3330696
+subj2_shorten_mono,desita,,n,199.2439171,212.929234
+subj2_shorten_mono,Neil,not > most,n,280.2585824,308.0555151
+subj2_shorten_mono,wa,,y,195.0840936,216.0013641
+subj2_shorten_mono,hotondo-nomusical-okansyoo,,n,235.0038338,311.2554265
+subj2_shorten_mono,simasen,,y,206.5402956,235.1217555
+subj2_shorten_mono,Neil,most > not,n,267.9261778,303.586224
+subj2_shorten_mono,wa,,n,206.610752,213.7936401
+subj2_shorten_mono,hotondo-no,,y,258.4276941,339.9291854
+subj2_shorten_mono,musical-o,,n,236.7367679,262.3068666
+subj2_shorten_mono,kansyoosimasen,,y,211.7028635,253.8832581
+subj2_shorten_mono,subete-nourazi,not > all,n,246.0703186,314.2217123
+subj2_shorten_mono,wa,,y,241.2181707,244.4412842
+subj2_shorten_mono,hoturetei-masen,,n,221.2075934,265.8181582
+subj2_shorten_mono,desita,,y,187.8268548,195.7889785
+subj2_shorten_mono,subete,all > not,y,306.6189772,335.972966
+subj2_shorten_mono,no,,n,227.2142249,243.6857355
+subj2_shorten_mono,urazi-wa,,n,240.044604,276.4884018
+subj2_shorten_mono,hoturete,,y,238.1317938,273.8861963
+subj2_shorten_mono,i-masen,,n,205.9103002,234.1239547
+subj2_shorten_mono,desita,,y,198.8257605,214.2048516
+subj2_shorten_mono,Liam,not > many,n,258.862296,285.1182788
+subj2_shorten_mono,wa,,y,189.5909299,200.4214717
+subj2_shorten_mono,ooku,,n,289.5316012,300.5429337
+subj2_shorten_mono,nosotugyoosee,,y,226.9046741,290.9132515
+subj2_shorten_mono,o,,n,197.4224863,232.8649373
+subj2_shorten_mono,sirimasen,,y,194.5545302,218.3786113
+subj2_shorten_mono,Liam-wa,many > not,y,237.4152866,289.0134936
+subj2_shorten_mono,ooku-no,,n,275.0009567,336.2238775
+subj2_shorten_mono,sotugyoosee-o,,y,252.4738782,307.9467654
+subj2_shorten_mono,sirimasen,,y,197.639895,225.5869294
+subj2_shorten_mono,subete-no,all > not,y,286.8101912,344.0586039
+subj2_shorten_mono,magnolias-no,,n,224.9526169,256.0828911
+subj2_shorten_mono,hana-wa,,y,198.1398707,209.9670643
+subj2_shorten_mono,sakanai,,n,226.0500126,246.0869424
+subj2_shorten_mono,desyoo,,y,190.0407117,212.5844231
+subj2_shorten_mono,subete-no,not > all,y,297.3093485,360.5118531
+subj2_shorten_mono,magnolias-no-hana,,n,238.1664001,280.6294931
+subj2_shorten_mono,wa,,y,222.2745888,279.7862145
+subj2_shorten_mono,sakanai,,n,222.4895797,239.5001501
+subj2_shorten_mono,desyoo,,y,202.0687331,218.5787891
+subj4_shorten_mono,subete-no,not > all,y,180.0749714,278.1441778
+subj4_shorten_mono,magnolias-no-hana,,n,130.4559946,160.596165
+subj4_shorten_mono,wa,,y,105.4063897,109.8137548
+subj4_shorten_mono,sakanai,,n,130.2326939,140.0241089
+subj4_shorten_mono,desyoo,,y,108.1119647,112.3143376
+subj4_shorten_mono,subete-nomagnolias-no-hana,all > not,n,125.071305,188.9485114
+subj4_shorten_mono,wa,,y,104.2351206,104.8264779
+subj4_shorten_mono,sakanai,,n,131.950934,138.9149325
+subj4_shorten_mono,desyoo,,y,138.035848,253.7854439
+subj4_shorten_mono,Liam-waooku-nosotugyoosee-o,many > not,n,128.8750565,234.4626744
+subj4_shorten_mono,sirimasen,,y,107.6593978,112.722975
+subj4_shorten_mono,Liam-waooku-nosotugyoosee-o,not > many,n,133.7379243,238.6773915
+subj4_shorten_mono,sirimasen,,y,117.7050112,121.8613019
+subj4_shorten_mono,subete-no,all > not,n,185.3302364,231.162044
+subj4_shorten_mono,urazi-wa,,y,104.7183872,121.3945776
+subj4_shorten_mono,hoturete,,n,152.5121569,174.9364524
+subj4_shorten_mono,i-masen,,y,124.8013955,154.4395483
+subj4_shorten_mono,desita,,y,111.9693037,115.2318135
+subj4_shorten_mono,subete,not > all,n,204.1564954,216.1440715
+subj4_shorten_mono,no-urazi-wahoturete,,y,129.8647971,173.2770671
+subj4_shorten_mono,i-masen,,y,123.747575,144.0757855
+subj4_shorten_mono,desita,,y,110.0363441,114.6139887
+subj4_shorten_mono,Neil,most > not,n,161.8262431,201.8719974
+subj4_shorten_mono,wa,,y,105.6600942,121.6365713
+subj4_shorten_mono,hotondo-nomusical,,n,136.7212024,181.2736812
+subj4_shorten_mono,o,,y,107.9098703,108.7893592
+subj4_shorten_mono,kansyoo,,n,130.8430531,141.8142745
+subj4_shorten_mono,simasen,,y,123.4301597,130.8065584
+subj4_shorten_mono,Neil-wahotondo,not > most,n,169.2188324,373.9187902
+subj4_shorten_mono,no,,y,120.2045409,121.7428055
+subj4_shorten_mono,musical,,n,116.1430263,125.3710671
+subj4_shorten_mono,o,,y,106.4509865,116.0800403
+subj4_shorten_mono,kansyoo,,n,149.664553,274.0335966
+subj4_shorten_mono,simasen,,y,125.7989519,138.4437437
+subj4_shorten_mono,subete-nookaasan,not > all,n,147.4564142,229.919219
+subj4_shorten_mono,wa,,y,109.4306157,110.8671476
+subj4_shorten_mono,eyeliner,,n,168.2453602,226.158555
+subj4_shorten_mono,o,,y,115.9261936,125.5025311
+subj4_shorten_mono,yurusimasen,,y,143.1622426,241.0598221
+subj4_shorten_mono,desita,,y,162.6895173,233.9968713
+subj4_shorten_mono,subete-nookaasann,all > not,n,142.4934665,189.0774327
+subj4_shorten_mono,wa,,y,94.4033212,112.0881735
+subj4_shorten_mono,eyeliner-o,,y,132.4090177,153.2085111
+subj4_shorten_mono,yurusimasen,,y,127.1177122,247.761376
+subj4_shorten_mono,desita,,y,232.4081661,244.3168255
+subj5_shorten_mono,subete-no,not > all,y,300.4439534,347.5872578
+subj5_shorten_mono,magnolias-no-hana-wasak,,n,250.1883504,285.4064803
+subj5_shorten_mono,anaidesyoo,,y,250.0500074,289.4292602
+subj5_shorten_mono,subete-nomagnolias-no-hana,all > not,n,271.7403452,334.3105012
+subj5_shorten_mono,wa,,y,284.4047032,294.0636606
+subj5_shorten_mono,sakanai,,n,266.3079845,303.0733028
+subj5_shorten_mono,desyoo,,y,226.2897387,260.302087
+subj5_shorten_mono,Liam-waooku-nosotugyoosee-o,many > not,n,266.4175165,324.4759851
+subj5_shorten_mono,sirimasen,,y,235.6299855,280.478218
+subj5_shorten_mono,Liam-waooku-no,not > many,n,282.1196765,342.9622525
+subj5_shorten_mono,sotugyoosee-o,,y,266.0097023,288.5971279
+subj5_shorten_mono,sirimasen,,y,237.967205,293.101481
+subj5_shorten_mono,subete-nourazi,all > not,n,278.4286708,339.539129
+subj5_shorten_mono,wa,,y,230.9640658,234.2825975
+subj5_shorten_mono,hoturete,,n,272.9462987,294.8681918
+subj5_shorten_mono,i-masendesita,,y,243.4190951,293.2222006
+subj5_shorten_mono,subete-no,not > all,y,309.9564359,345.7217966
+subj5_shorten_mono,urazi-wa,,y,259.1704711,291.1095593
+subj5_shorten_mono,hoturete,,n,252.0501157,269.0841839
+subj5_shorten_mono,i-masendesita,,y,235.7766615,282.8654445
+subj5_shorten_mono,Neil-wahotondo-no,most > not,n,278.8932573,344.1786911
+subj5_shorten_mono,musical-o,,y,242.2041077,263.633476
+subj5_shorten_mono,kansyoo,,n,271.1339927,288.2693572
+subj5_shorten_mono,simasen,,y,250.964343,271.6209418
+subj5_shorten_mono,Neil-wahotondo-nomusical-okansyoo,not > most,n,267.5787228,321.7087368
+subj5_shorten_mono,simasen,,y,236.4204188,257.7360384
+subj5_shorten_mono,subete-nookaasan,not > all,n,276.0018609,346.1768077
+subj5_shorten_mono,wa,,y,227.1555539,232.9243842
+subj5_shorten_mono,eyeliner-o,,n,262.3373303,291.1600742
+subj5_shorten_mono,yurusimasen,,y,254.169839,290.946614
+subj5_shorten_mono,desita,,y,226.7549243,234.728402
+subj5_shorten_mono,subete-no,all > not,y,312.7944057,334.6228602
+subj5_shorten_mono,okaasan,,n,260.6139175,288.9159514
+subj5_shorten_mono,wa,,y,256.857292,264.324759
+subj5_shorten_mono,eyeliner-oyurusimasen,,n,246.8696555,282.9189829
+subj5_shorten_mono,desita,,y,223.6023155,236.8485545
+subj9_shorten_mono,subete-nomagnolias,not > all,y,289.3084358,411.1073895
+subj9_shorten_mono,no hana,,n,260.4152523,310.1120768
+subj9_shorten_mono,wa,,y,366.8815834,397.0839193
+subj9_shorten_mono,sakanai,,y,204.0590119,252.4977134
+subj9_shorten_mono,desyoo,,y,172.8298206,173.3874109
+subj9_shorten_mono,subete-no,all > not,y,238.0547148,282.7566505
+subj9_shorten_mono,magnolias,,y,227.8171393,268.5932639
+subj9_shorten_mono,no hana,,n,227.0410557,243.3094874
+subj9_shorten_mono,wa,,y,208.5958468,226.6424139
+subj9_shorten_mono,sakanai,,n,195.9840597,203.4169176
+subj9_shorten_mono,desyoo,,y,186.5379042,207.8771291
+subj9_shorten_mono,Liam-waooku-no,many > not,n,243.9068293,348.441473
+subj9_shorten_mono,sotugyoosee-o,,y,217.7357098,266.9816547
+subj9_shorten_mono,sirimasen,,y,214.9774007,256.0893993
+subj9_shorten_mono,Liam-wa,not > many,y,260.695902,374.8031901
+subj9_shorten_mono,ooku-no,,n,285.0047254,416.9097511
+subj9_shorten_mono,sotugyoosee,,y,302.5517377,344.828144
+subj9_shorten_mono,o,,n,344.5472951,359.3848764
+subj9_shorten_mono,sirimasen,,y,188.4055939,335.8065597
+subj9_shorten_mono,subete,all > not,y,347.7134621,390.5038538
+subj9_shorten_mono,nourazi,,n,247.0772543,348.5003633
+subj9_shorten_mono,wa,,y,201.733238,205.178517
+subj9_shorten_mono,hoturete,,y,180.5673786,209.6299537
+subj9_shorten_mono,i-masen,,y,187.7042559,253.2666318
+subj9_shorten_mono,desita,,n,186.1940249,196.6900355
+subj9_shorten_mono,subete-no,not > all,y,311.1830916,423.7929099
+subj9_shorten_mono,urazi,,n,358.2779932,383.9128385
+subj9_shorten_mono,wa,,y,244.5668555,417.7275325
+subj9_shorten_mono,hoturete,,n,209.9630402,254.3510233
+subj9_shorten_mono,i-masen,,y,173.3787032,224.8238261
+subj9_shorten_mono,desita,,y,174.0871215,175.7846281
+subj9_shorten_mono,Neil-wa,most > not,y,224.1111087,239.5830015
+subj9_shorten_mono,wa,,n,194.6847708,203.1345983
+subj9_shorten_mono,hotonodo-nomusical-o,,y,310.0536834,388.0609523
+subj9_shorten_mono,kansyoo,,n,244.3252786,277.965325
+subj9_shorten_mono,simasen,,y,208.9598121,225.114893
+subj9_shorten_mono,Neil-wa,not > most,n,250.9663008,311.4854343
+subj9_shorten_mono,hotonodo,,y,331.5392794,399.1712496
+subj9_shorten_mono,no musical-o,,n,285.3094526,366.8240164
+subj9_shorten_mono,kansyoosimasen,,y,197.2523233,298.9829328
+subj9_shorten_mono,subete-no,not > all,y,272.6929622,333.6160277
+subj9_shorten_mono,okaasanwa,,n,210.9235058,247.3573477
+subj9_shorten_mono,eyeliner-oyurusimasen,,n,196.700521,292.727435
+subj9_shorten_mono,desita,,y,208.4585702,227.6192259
+subj9_shorten_mono,subete-nookaasan,all > not,y,242.5942453,327.2235596
+subj9_shorten_mono,wa,,y,175.1221775,181.8037773
+subj9_shorten_mono,eyeliner-o,,y,183.4099595,207.9294942
+subj9_shorten_mono,yurusimasendesita,,y,210.1487082,319.1262994
