@@ -6,10 +6,11 @@ library(lmerTest)
 ###### Prepare data
 
 ### Import all the data
-GLenEng <- read_csv("data\\GestureLengthEnglish.csv")
-GLenJap <- read_csv("data\\GestureLengthJapanese.csv")
 SLenEng <- read_csv("data\\SentenceLengthEnglish.csv")
 SLenJap <- read_csv("data\\SentenceLengthJapanese.csv")
+
+GLenEng <- read_csv("data\\GestureLengthEnglish.csv")
+GLenJap <- read_csv("data\\GestureLengthJapanese.csv")
 
 
 ### Clean column names, check each of their type and change them if needed
@@ -22,9 +23,9 @@ colnames(SLenJap) <- uniformed.colnames
 sapply(SLenEng, class)
 sapply(SLenJap, class)
 
-cols  <- c("subject", "sentence", "context", "keyword")
-SLenEng[cols] <- lapply(SLenEng[cols], as.factor)
-SLenJap[cols] <- lapply(SLenJap[cols], as.factor)
+col_target <- c("subject", "sentence", "context", "keyword")
+SLenEng[col_target] <- lapply(SLenEng[col_target], as.factor)
+SLenJap[col_target] <- lapply(SLenJap[col_target], as.factor)
 
 str(SLenEng)
 str(SLenJap)
@@ -36,28 +37,64 @@ str(SLenJap)
 ### Mixed Effect for Length data sets, using "lmer" function as the dependent variable is continuous
 
 ## English Sentence Length 
+#Random Slope and Random Intercept
 
 # Sentence Length as R.V.
 
 sapply(SLenEng, levels)
 
-#Random Slope and Random Intercept
-model.EngSent.Len <- lmer(sentence_length ~ context  + (1|keyword)  + (1|subject), data = SLenEng)
+# model.EngSent.Len <- lmer(sentence_length ~ context  + (1|keyword)  + (1|subject), data = SLenEng)
+# model.EngSent.Len <- lmer(sentence_length ~ context  + (1 + context|keyword/subject), data = SLenEng)
+
+model.EngSent.Len <- lmer(sentence_length ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                          data = SLenEng, 
+                          REML = FALSE,
+                          control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+
 
 summary(model.EngSent.Len)
 
-model.EngSent.maxF0 <- lmer(maxF0 ~ context  + (1|keyword)  + (1|subject), data = SLenEng)
+# maxF0 as R.V.
+model.EngSent.maxF0 <- lmer(maxF0 ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                          data = SLenEng, 
+                          REML = FALSE,
+                          control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
 
 summary(model.EngSent.maxF0)
 
-model.EngSent.meanF0 <- lmer(meanF0 ~ context  + (1|keyword)  + (1|subject), data = SLenEng)
-
+# meanF0 as R.V.
+model.EngSent.meanF0 <- lmer(meanF0 ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                            data = SLenEng, 
+                            REML = FALSE,
+                            control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
 summary(model.EngSent.meanF0)
 
-model.EngSent.meanF0 <- lmer(meanF0 ~ (1|keyword) + (1|subject) + context, data = SLenEng)
+
+## Japanese Sentence Length 
+
+# Sentence_length as R.V.
+model.JapSent.Len <- lmer(sentence_length ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                          data = SLenJap, 
+                          REML = FALSE,
+                          control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
 
 
+summary(model.JapSent.Len)
 
+# maxF0 as R.V.
+model.JapSent.maxF0 <- lmer(maxF0 ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                            data = SLenJap, 
+                            REML = FALSE,
+                            control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
 
+summary(model.JapSent.maxF0)
+
+# meanF0 as R.V.
+model.JapSent.meanF0 <- lmer(meanF0 ~ context  + (1 + context||keyword)  + (1 + context||subject), 
+                             data = SLenJap, 
+                             REML = FALSE,
+                             control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+
+summary(model.JapSent.meanF0)
 
 
