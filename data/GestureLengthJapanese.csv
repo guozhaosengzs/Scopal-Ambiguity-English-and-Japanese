@@ -1,56 +1,18 @@
 subject,keyword,context,duration,meanF0,maxF0,sentence,gestured
-subj10_shorten_mono,magnolia,not > all,242.406,238.8024734,254.1036401,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj10_shorten_mono,magnolia,not > all,358.639,46.75621962,46.89793135,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj10_shorten_mono,magnolia,all > not,596.536,223.1533902,285.0445066,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj10_shorten_mono,magnolia,all > not,549.671,183.3307292,195.6695568,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj10_shorten_mono,magnolia,all > not,601.683,174.0836728,210.3957584,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj10_shorten_mono,magnolia,all > not,290.468,264.5796583,269.1824204,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj10_shorten_mono,alumnus,most/many > not,335.045,171.9371009,177.3678607,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj10_shorten_mono,alumnus,most/many > not,770.628,206.6644305,252.0501817,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj10_shorten_mono,alumnus,not > most/many,397.219,196.9939069,236.0826752,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj10_shorten_mono,alumnus,not > most/many,320.06,236.6451502,311.517072,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj10_shorten_mono,alumnus,not > most/many,666.89,214.0073404,313.0583755,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj10_shorten_mono,wool,all > not,299.597,226.1196836,238.5641674,Subete no urazi wa hoturete imasen desita,y
 subj10_shorten_mono,wool,all > not,328.235,226.2188222,235.0399709,Subete no urazi wa hoturete imasen desita,y
-subj10_shorten_mono,wool,not >all,582.028,276.4580599,339.5662839,Subete no urazi wa hoturete imasen desita,y
-subj10_shorten_mono,wool,not > all,260.925,316.9716588,331.951104,Subete no urazi wa hoturete imasen desita,y
-subj10_shorten_mono,wool,not > all,456.449,180.6609223,237.5614261,Subete no urazi wa hoturete imasen desita,y
-subj10_shorten_mono,wool,not > all,307.155,248.8799554,276.9803334,Subete no urazi wa hoturete imasen desita,y
-subj10_shorten_mono,musical,most/many > not,276.283,188.7492362,192.5251051,Neil wa hotondo no musical o kansyoo simasen,y
-subj10_shorten_mono,musical,most/many > not,532.273,249.8038052,261.4953814,Neil wa hotondo no musical o kansyoo simasen,y
-subj10_shorten_mono,musical,not > most/many,366.947,194.906248,221.7372992,Neil wa hotondo no musical o kansyoo simasen,y
-subj10_shorten_mono,musical,not > most/many,643.91,198.7969957,237.2849285,Neil wa hotondo no musical o kansyoo simasen,y
-subj10_shorten_mono,eyeliner,not > all,330.342,187.7691496,204.3088795,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj10_shorten_mono,eyeliner,not > all,344.829,231.2775356,232.499164,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj10_shorten_mono,eyeliner,all > not,311.572,181.5955891,182.6532773,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj10_shorten_mono,eyeliner,all > not,335.633,265.5506125,270.2693866,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj12_shorten_mono,magnolia,not > all,161.784,318.0688804,335.5308835,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj12_shorten_mono,magnolia,not > all,255.287,364.996352,391.6655749,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj12_shorten_mono,magnolia,not > all,447.957,219.7254399,230.682116,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj12_shorten_mono,magnolia,all > not,391.758,328.6170006,345.0538249,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj12_shorten_mono,magnolia,all > not,401.387,299.1519439,315.6200559,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj12_shorten_mono,magnolia,all > not,451.372,203.2056557,229.5739076,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj12_shorten_mono,alumnus,most/many > not,414.584,281.5343475,287.4218544,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj12_shorten_mono,alumnus,most/many > not,1215.848,330.9908426,367.1439703,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj12_shorten_mono,alumnus,most/many > not,729.156,234.7215525,258.5720358,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj12_shorten_mono,alumnus,not > mamy,408.438,278.4488015,284.8905143,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj12_shorten_mono,alumnus,not > most/many,370.196,358.3601243,393.1025293,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj12_shorten_mono,alumnus,not > most/many,761.854,232.4572199,265.6325286,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj12_shorten_mono,wool,all > not,134.762,282.7869408,299.2309468,Subete no urazi wa hoturete imasen desita,y
 subj12_shorten_mono,wool,all > not,388.609,352.5926517,366.3764902,Subete no urazi wa hoturete imasen desita,y
 subj12_shorten_mono,wool,all > not,438.148,211.9227212,223.4945976,Subete no urazi wa hoturete imasen desita,y
-subj12_shorten_mono,wool,not > all,156.931,331.1955895,348.0609323,Subete no urazi wa hoturete imasen desita,y
-subj12_shorten_mono,wool,not > all,335.828,300.2832992,417.8386745,Subete no urazi wa hoturete imasen desita,y
-subj12_shorten_mono,wool,not > all,673.571,280.6456922,330.0059765,Subete no urazi wa hoturete imasen desita,y
-subj12_shorten_mono,wool,not > all,428.339,206.96685,222.5878324,Subete no urazi wa hoturete imasen desita,y
-subj12_shorten_mono,musical,most/many > not,388.514,286.4336983,289.0358207,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,musical,most/many > not,545.26,315.9513543,350.2451778,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,musical,most/many > not,679.984,219.3095214,257.4033097,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,musical,not > most/many,397.932,274.7432898,276.160174,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,musical,not > most/many,380.161,240.6271806,419.6103511,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,musical,not > most/many,1149.326,244.637566,317.1112488,Neil wa hotondo no musical o kansyoo simasen,y
-subj12_shorten_mono,eyeliner,not > all,422.84,367.0129203,393.4655194,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj12_shorten_mono,eyeliner,not > all,1177.114,234.7982052,345.0648828,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj12_shorten_mono,eyeliner,all > not,339.242,266.6274644,272.8394867,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj12_shorten_mono,eyeliner,all > not,170.243,308.6383788,341.7579268,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj12_shorten_mono,eyeliner,all > not,1347.141,238.9208034,330.9355565,Subete no okaasan wa eyeliner o yurusimasen desita,y
@@ -58,76 +20,21 @@ subj13_shorten_mono,eyeliner,all > not,411.531,290.9284803,311.6770413,Subete no
 subj13_shorten_mono,eyeliner,all > not,197.155,149.9979567,174.0353407,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj13_shorten_mono,eyeliner,all > not,565.093,211.152167,397.3768709,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj13_shorten_mono,eyeliner,all > not,431.683,187.03734,195.9013887,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj13_shorten_mono,eyeliner,not > all,350.743,261.5933514,320.5647985,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj13_shorten_mono,eyeliner,not > all,282.254,255.0559611,263.3452119,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj13_shorten_mono,eyeliner,not > all,982.353,192.1308388,246.9214114,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj13_shorten_mono,musical,not > most/many,505.72,204.6849044,221.8102786,Neil wa hotondo no musical o kansyoo simasen,y
-subj13_shorten_mono,musical,not > most/many,597.684,203.0918488,229.5406845,Neil wa hotondo no musical o kansyoo simasen,y
-subj13_shorten_mono,musical,most/many > not,891.93,234.5736496,277.2846663,Neil wa hotondo no musical o kansyoo simasen,y
-subj13_shorten_mono,musical,most/many > not,580.565,192.5429085,206.9762189,Neil wa hotondo no musical o kansyoo simasen,y
-subj13_shorten_mono,wool,not > all,290.118,207.3540707,208.4744887,Subete no urazi wa hoturete imasen desita,y
-subj13_shorten_mono,wool,not > all,770.387,198.8706822,247.3474909,Subete no urazi wa hoturete imasen desita,y
 subj13_shorten_mono,wool,all > not,630.781,249.2478225,279.8917108,Subete no urazi wa hoturete imasen desita,y
 subj13_shorten_mono,wool,all > not,375.552,194.1246911,237.7172599,Subete no urazi wa hoturete imasen desita,y
-subj13_shorten_mono,alumnus,not > most/many,259.01,182.0484395,193.0444503,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj13_shorten_mono,alumnus,not > most/many,444.828,254.5257073,274.2303841,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj13_shorten_mono,alumnus,not >many,630.731,185.9146119,210.1740652,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj13_shorten_mono,alumnus,most/many > not,652.658,224.9669468,277.2801831,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj13_shorten_mono,alumnus,most/many > not,1366.887,210.343633,253.1125035,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj13_shorten_mono,magnolia,all > not,421.12,259.8478572,277.9995178,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj13_shorten_mono,magnolia,all > not,918.826,198.7356099,219.2775852,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj13_shorten_mono,magnolia,not > all,492.228,252.10934,294.4290459,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj13_shorten_mono,magnolia,not > all,255.689,230.586592,236.1065973,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj13_shorten_mono,magnolia,not > all,383.034,176.4921979,181.3813533,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj14_shorten_mono,magnolia,not > all,99.122,249.3991821,252.7811858,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj14_shorten_mono,magnolia,not > all,716.469,258.1358893,301.3110927,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj14_shorten_mono,magnolia,not > all,332.409,234.8901734,254.2016518,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj14_shorten_mono,magnolia,all > not,542.212,330.536488,347.356498,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj14_shorten_mono,magnolia,all > not,337.006,249.2154194,264.25098,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj14_shorten_mono,magnolia,all > not,406.25,191.8710623,248.8130762,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj14_shorten_mono,alumnus,most/many > not,281.838,253.1652648,268.0529653,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,most/many > not,582.851,254.1734697,266.0445569,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,most/many > not,758.161,248.6888477,278.0076643,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,not > most/many,364.343,225.0824454,229.5859567,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,not > most/many,455.854,295.0648823,321.7882494,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,not > most/many,152.227,339.2093589,347.755305,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj14_shorten_mono,alumnus,not > most/many,651.005,225.0055624,268.1414537,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj14_shorten_mono,wool,all > not,395.9,217.1318304,218.1560819,Subete no urazi wa hoturete imasen desita,y
-subj14_shorten_mono,wool,not > all,170.619,252.3384425,278.52364,Subete no urazi wa hoturete imasen desita,y
-subj14_shorten_mono,wool,not > all,153.769,262.0896186,265.523355,Subete no urazi wa hoturete imasen desita,y
-subj14_shorten_mono,wool,not > all,395.9,244.1969155,288.7205837,Subete no urazi wa hoturete imasen desita,y
-subj14_shorten_mono,wool,not > all,370.024,241.0303826,248.3625831,Subete no urazi wa hoturete imasen desita,y
-subj14_shorten_mono,musical,most/many > not,560.502,249.7854569,300.4320576,Neil wa hotondo no musical o kansyoo simasen,y
-subj14_shorten_mono,musical,most/many > not,587.188,237.9071983,268.0720651,Neil wa hotondo no musical o kansyoo simasen,y
-subj14_shorten_mono,musical,not > most/many,272.63,229.1829368,236.3739516,Neil wa hotondo no musical o kansyoo simasen,y
-subj14_shorten_mono,musical,not > most/many,465.764,274.8255271,322.3780158,Neil wa hotondo no musical o kansyoo simasen,y
-subj14_shorten_mono,musical,not > most/many,591.767,249.4070678,278.7060863,Neil wa hotondo no musical o kansyoo simasen,y
-subj14_shorten_mono,eyeliner,not > all,523.049,279.3063198,330.5310136,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj14_shorten_mono,eyeliner,not > all,263.575,318.9713753,333.8855843,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj14_shorten_mono,eyeliner,not > all,405.118,186.9647077,325.4501237,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj14_shorten_mono,eyeliner,all > not,274.008,246.2903663,248.8171913,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj14_shorten_mono,eyeliner,all > not,558.917,248.7472062,286.6403973,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj14_shorten_mono,eyeliner,all > not,445.064,229.1867158,241.2932477,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj15_shorten_mono,magnolia,not > all,464.913,212.1326216,217.5031417,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj15_shorten_mono,magnolia,not > all,401.556,181.4273493,184.4817095,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj15_shorten_mono,magnolia,all > not,968.749,264.1660389,298.5285447,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj15_shorten_mono,magnolia,all > not,288.903,209.7702483,225.3924136,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj15_shorten_mono,alumnus,most/many > not,420.944,152.4936435,202.1326777,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj15_shorten_mono,alumnus,most/many > not,344.403,216.2712078,263.6140472,Liam wa ookuno sotugyoosee o sirimasen,y
-subj15_shorten_mono,alumnus,most/many > not,723.434,183.3769142,221.1028536,Liam wa ookuno sotugyoosee o sirimasen,y
-subj15_shorten_mono,alumnus,not > mamy,868.761,197.7492848,232.5075647,Liam wa ookuno sotugyoosee o sirimasen,y
 subj15_shorten_mono,wool,all > not,289.496,202.2282076,209.6179031,Subete no urazi wa hoturete imasen desita,y
 subj15_shorten_mono,wool,all > not,370.518,181.1986861,185.0981193,Subete no urazi wa hoturete imasen desita,y
-subj15_shorten_mono,wool,not > all,810.489,250.6382224,310.6889114,Subete no urazi wa hoturete imasen desita,y
-subj15_shorten_mono,wool,not >all,437.966,134.2575266,198.7321513,Subete no urazi wa hoturete imasen desita,y
-subj15_shorten_mono,musical,most/many > not,232.527,195.1466877,202.4234624,Neil wa hotondo no musical o kansyoo simasen,y
-subj15_shorten_mono,musical,most/many > not,454.844,212.0823624,233.5608658,Neil wa hotondo no musical o kansyoo simasen,y
-subj15_shorten_mono,musical,most/many > not,763.406,201.9250551,232.2460976,Neil wa hotondo no musical o kansyoo simasen,y
-subj15_shorten_mono,musical,not > most/many,872.883,251.3242167,300.7673056,Neil wa hotondo no musical o kansyoo simasen,y
-subj15_shorten_mono,musical,not > most/many,666.449,185.6373458,221.8865131,Neil wa hotondo no musical o kansyoo simasen,y
-subj15_shorten_mono,eyeliner,not > all,244.333,201.8116055,203.6354648,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj15_shorten_mono,eyeliner,not > all,164.44,235.420175,245.2477529,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj15_shorten_mono,eyeliner,not > all,427.898,185.0591516,190.6435444,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj15_shorten_mono,eyeliner,all > not,905.375,255.5690876,292.4838594,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj15_shorten_mono,eyeliner,all > not,318.781,224.6141852,230.5386801,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj15_shorten_mono,eyeliner,all > not,850.761,205.8898063,245.9380481,Subete no okaasan wa eyeliner o yurusimasen desita,y
@@ -135,176 +42,51 @@ subj15_shorten_mono,eyeliner,all > not,412.713,181.5787813,189.3723814,Subete no
 subj18_shorten_mono,eyeliner,all > not,437.479,199.5905284,218.9409149,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj18_shorten_mono,eyeliner,all > not,248.465,180.842301,185.2527201,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj18_shorten_mono,eyeliner,all > not,377.674,100.388605,102.2530535,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj18_shorten_mono,eyeliner,not > all,219.162,184.4838274,192.1855131,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj18_shorten_mono,eyeliner,not > all,271.023,205.2502493,325.1853221,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj18_shorten_mono,eyeliner,not > all,369.132,187.0685852,212.8645598,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj18_shorten_mono,musical,not > most/many,284.989,192.6454472,196.7243361,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,not > most/many,229.999,174.3899683,185.5449058,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,not > most/many,479.797,206.7332537,230.9725022,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,most/many > not,341.634,196.3872604,234.1564878,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,most/many > not,243.421,150.6960613,209.3417294,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,most/many > not,245.434,181.3182839,202.0045269,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,musical,most/many > not,943.153,211.8434747,235.0763307,Neil wa hotondo no musical o kansyoo simasen,y
-subj18_shorten_mono,wool,not > all,265.651,184.9250951,187.4320902,Subete no urazi wa hoturete imasen desita,y
-subj18_shorten_mono,wool,not > all,474.233,210.0219064,244.7749315,Subete no urazi wa hoturete imasen desita,y
 subj18_shorten_mono,wool,all > not,288.623,196.3569999,199.4774463,Subete no urazi wa hoturete imasen desita,y
 subj18_shorten_mono,wool,all > not,435.756,204.381398,234.8640691,Subete no urazi wa hoturete imasen desita,y
-subj18_shorten_mono,alumnus,not > most/many,298.496,191.8760233,204.291906,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,not > most/many,253.08,213.0671599,242.0170845,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,not > most/many,196.044,206.6183723,208.0791247,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,not > most/many,601.017,205.6176679,236.2480743,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,most/many > not,278.933,189.715589,206.5797908,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,most/many > not,858.136,230.481747,266.1860099,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj18_shorten_mono,alumnus,most/many > not,646.883,204.8937194,224.9800832,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj18_shorten_mono,magnolia,all > not,447.351,252.6662836,275.8354804,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj18_shorten_mono,magnolia,all > not,404.673,193.0653972,221.6125969,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj18_shorten_mono,magnolia,not > all,200.665,217.8338495,240.525907,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj18_shorten_mono,magnolia,not > all,229.003,225.9144449,226.7269204,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj18_shorten_mono,magnolia,not > all,405.851,193.5561355,221.4184307,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj19_shorten_mono,magnolia,not > all,155.258,233.1807916,235.1725339,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj19_shorten_mono,magnolia,not > all,201.454,270.4192183,284.7775209,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj19_shorten_mono,magnolia,not > all,374.117,142.3086727,208.5032523,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj19_shorten_mono,magnolia,all > not,429.194,314.5265861,346.6831694,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj19_shorten_mono,magnolia,all > not,113.539,225.1368306,238.4316236,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj19_shorten_mono,magnolia,all > not,276.783,221.1365855,233.1083063,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj19_shorten_mono,magnolia,all > not,474.233,223.8727654,233.1083063,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj19_shorten_mono,magnolia,all > not,490.041,198.0517675,225.8719456,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj19_shorten_mono,alumnus,most/many > not,199.04,226.604286,231.967423,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,mamy > not,309.017,286.2597031,302.4924282,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,most/many > not,154.319,247.9679873,261.4008887,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,most/many > not,774.58,205.6703396,238.8586475,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,not > most/many,249.152,221.1925856,226.9543196,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,not > most/many,272.187,313.7069356,324.9109476,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,not > most/many,268.962,260.0495853,286.3042759,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj19_shorten_mono,alumnus,not > most/many,730.549,207.7029651,237.4433475,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj19_shorten_mono,wool,all > not,336.543,287.7366707,297.1945163,Subete no urazi wa hoturete imasen desita,y
 subj19_shorten_mono,wool,all > not,426.81,200.6541823,251.600519,Subete no urazi wa hoturete imasen desita,y
 subj19_shorten_mono,wool,all > not,396.231,192.5493498,195.4546265,Subete no urazi wa hoturete imasen desita,y
-subj19_shorten_mono,wool,not > all,172.604,255.2788631,261.0210586,Subete no urazi wa hoturete imasen desita,y
-subj19_shorten_mono,wool,not > all,447.887,240.1981664,290.608909,Subete no urazi wa hoturete imasen desita,y
-subj19_shorten_mono,wool,not > all,419.129,193.8626863,199.8591675,Subete no urazi wa hoturete imasen desita,y
-subj19_shorten_mono,musical,most/many > not,192.597,242.4117692,245.1399408,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,most/many > not,684.861,211.4333839,231.4146445,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,most/many > not,142.412,249.6206642,257.690926,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,most/many > not,682.555,202.553297,240.9757489,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,not > most/many,193.38,209.5723512,217.1844903,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,not > most/many,338.239,292.4363098,311.184474,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,musical,not > most/many,547.905,204.2502687,240.6022464,Neil wa hotondo no musical o kansyoo simasen,y
-subj19_shorten_mono,eyeliner,not > all,202.616,266.7158386,271.0953282,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj19_shorten_mono,eyeliner,not > all,583.988,231.6214631,246.7104462,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj19_shorten_mono,eyeliner,not > all,148.438,244.5698819,271.2152063,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj19_shorten_mono,eyeliner,not > all,690.272,210.7742232,258.2017916,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj19_shorten_mono,eyeliner,not > all,429.773,180.7429547,188.0812489,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj19_shorten_mono,eyeliner,all > not,200.601,251.8667997,266.2883825,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj19_shorten_mono,eyeliner,all > not,384.808,269.1356457,306.1085762,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj19_shorten_mono,eyeliner,all > not,600.695,214.6082689,245.4114253,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj19_shorten_mono,eyeliner,all > not,398.614,151.9415762,211.4608591,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj1_shorten_mono,magnolia,not > all,317.479,106.4026808,108.8458382,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj1_shorten_mono,magnolia,all > not,360.508,98.44764921,110.4035483,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj1_shorten_mono,alumnus,most/many > not,334.081,114.9280285,131.847355,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj1_shorten_mono,alumnus,most/many > not,575.682,116.9196737,123.543937,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj1_shorten_mono,alumnus,not > most/many,385.097,110.4302062,117.1007831,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj1_shorten_mono,alumnus,not > mamy,572.435,119.0303487,228.5730882,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj1_shorten_mono,wool,all > not,343.686,115.7461144,119.618298,Subete no urazi wa hoturete imasen desita,y
 subj1_shorten_mono,wool,all > not,371.815,--undefined--,--undefined--,Subete no urazi wa hoturete imasen desita,y
-subj1_shorten_mono,wool,not > all,291.386,103.5614635,110.222502,Subete no urazi wa hoturete imasen desita,y
-subj1_shorten_mono,wool,not > all,380.115,--undefined--,--undefined--,Subete no urazi wa hoturete imasen desita,y
-subj1_shorten_mono,musical,most/many > not,326.102,108.8309695,114.1872876,Neil wa hotondo no musical o kansyoo simasen,y
-subj1_shorten_mono,musical,most/many > not,455.924,115.3679537,126.4168898,Neil wa hotondo no musical o kansyoo simasen,y
-subj1_shorten_mono,musical,not > most/many,454.544,139.1132791,212.3926482,Neil wa hotondo no musical o kansyoo simasen,y
-subj1_shorten_mono,eyeliner,not > all,471.017,198.1261076,227.4672243,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj1_shorten_mono,eyeliner,not > all,258.44,91.44284004,95.22023515,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj1_shorten_mono,eyeliner,not > all,256.95,86.6221884,86.88103104,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj1_shorten_mono,eyeliner,all > not,327.802,105.3729953,105.4137073,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj20_shorten_mono,eyeliner,all > not,449.033,288.4735929,301.118936,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj20_shorten_mono,eyeliner,all > not,819.817,217.2779028,248.271804,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj20_shorten_mono,eyeliner,all > not,303.268,193.9236927,198.7033246,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj20_shorten_mono,eyeliner,not > all,852.282,278.1927509,305.5213104,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj20_shorten_mono,eyeliner,not > all,694.506,221.3167894,243.6419611,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj20_shorten_mono,eyeliner,not > all,363.388,196.2174889,203.5751933,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj20_shorten_mono,musical,not > most/many,989.944,222.5676168,249.0054766,Neil wa hotondo no musical o kansyoo simasen,y
-subj20_shorten_mono,musical,most/many > not,1008.908,221.9933734,250.1878295,Neil wa hotondo no musical o kansyoo simasen,y
-subj20_shorten_mono,wool,not > all,389.887,286.3227919,301.3351091,Subete no urazi wa hoturete imasen desita,y
-subj20_shorten_mono,wool,not > all,366.488,208.5172668,222.7562693,Subete no urazi wa hoturete imasen desita,y
 subj20_shorten_mono,wool,all > not,445.567,290.4671232,307.6799309,Subete no urazi wa hoturete imasen desita,y
-subj20_shorten_mono,wool,all> not,327.406,206.9702405,213.0934996,Subete no urazi wa hoturete imasen desita,y
-subj20_shorten_mono,alumnus,not > most/many,714.648,222.583987,253.3121574,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj20_shorten_mono,alumnus,most/many > not,1703.667,238.228556,291.5501481,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj20_shorten_mono,alumnus,most/many > not,784.744,213.0470321,235.5561042,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj20_shorten_mono,magnolia,all > not,220.901,231.9533894,240.4653349,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj20_shorten_mono,magnolia,all > not,491.99,201.2917522,213.7996697,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj20_shorten_mono,magnolia,not > all,614.37,277.4851153,311.561736,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj20_shorten_mono,magnolia,not > all,512.32,208.3299269,222.3071102,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj21_shorten_mono,eyeliner,all > not,196.559,214.0904803,219.155013,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj21_shorten_mono,eyeliner,all > not,1043.791,199.1925119,228.6096319,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj21_shorten_mono,eyeliner,not > all,1026.731,197.6565531,239.2325524,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj21_shorten_mono,musical,not > most/many,867.136,212.5415549,248.4189065,Neil wa hotondo no musical o kansyoo simasen,y
-subj21_shorten_mono,musical,most/many > not,413.62,284.2666762,349.2097707,Neil wa hotondo no musical o kansyoo simasen,y
-subj21_shorten_mono,musical,most/many > not,946.934,225.1416839,253.0596165,Neil wa hotondo no musical o kansyoo simasen,y
-subj21_shorten_mono,wool,not > all,404.309,203.0571519,227.9802445,Subete no urazi wa hoturete imasen desita,y
-subj21_shorten_mono,wool,not > all,343.302,180.3670318,190.899327,Subete no urazi wa hoturete imasen desita,y
 subj21_shorten_mono,wool,all > not,420.268,235.0233064,299.6631489,Subete no urazi wa hoturete imasen desita,y
 subj21_shorten_mono,wool,all > not,420.268,203.2301369,235.2211351,Subete no urazi wa hoturete imasen desita,y
-subj21_shorten_mono,alumnus,not > most/many,261.434,216.982109,220.4032029,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj21_shorten_mono,alumnus,not > most/many,622.423,196.8543359,226.8392512,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj21_shorten_mono,alumnus,most/many > not,420.268,339.7394962,392.252148,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj21_shorten_mono,alumnus,most/many > not,726.489,231.823747,290.8617728,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj21_shorten_mono,magnolia,all > not,895.828,207.6773511,237.823903,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj21_shorten_mono,magnolia,not > all,547.945,264.002103,412.1332485,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj21_shorten_mono,magnolia,not > all,441.548,216.2191966,251.1364914,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj21_shorten_mono,magnolia,not > all,400.139,203.5484852,236.7050855,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj22_shorten_mono,eyeliner,all > not,340.114,165.0735932,225.3052974,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj22_shorten_mono,eyeliner,all > not,550.145,129.9673209,144.2262609,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj22_shorten_mono,eyeliner,all > not,363.03,110.1472781,116.4562446,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj22_shorten_mono,eyeliner,not > all,829.585,221.9198249,254.5659989,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj22_shorten_mono,eyeliner,not > all,383.64,107.3638411,110.1941521,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj22_shorten_mono,musical,not > most/many,527.036,186.6487368,222.1119346,Neil wa hotondo no musical o kansyoo simasen,y
-subj22_shorten_mono,musical,not > most/many,276.965,193.7630642,201.3778408,Neil wa hotondo no musical o kansyoo simasen,y
-subj22_shorten_mono,musical,not > most/many,494.775,116.5392584,126.8143902,Neil wa hotondo no musical o kansyoo simasen,y
-subj22_shorten_mono,musical,most/many > not,223.746,163.9276507,169.2104138,Neil wa hotondo no musical o kansyoo simasen,y
-subj22_shorten_mono,musical,most/many > not,491.454,118.5871283,129.2848447,Neil wa hotondo no musical o kansyoo simasen,y
-subj22_shorten_mono,wool,not > all,369.199,125.8145606,141.8971675,Subete no urazi wa hoturete imasen desita,y
-subj22_shorten_mono,wool,not > all,467.545,157.9514074,180.1787837,Subete no urazi wa hoturete imasen desita,y
-subj22_shorten_mono,wool,not > all,348.404,137.8284073,155.2091534,Subete no urazi wa hoturete imasen desita,y
-subj22_shorten_mono,wool,not > all,363.552,112.0107232,121.6488098,Subete no urazi wa hoturete imasen desita,y
 subj22_shorten_mono,wool,all > not,676.587,221.4174591,242.5500537,Subete no urazi wa hoturete imasen desita,y
 subj22_shorten_mono,wool,all > not,358.503,107.6564648,111.4464621,Subete no urazi wa hoturete imasen desita,y
-subj22_shorten_mono,alumnus,not > most/many,252.368,147.1124835,176.0802025,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj22_shorten_mono,alumnus,not > most/many,595.302,125.101689,150.0174805,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj22_shorten_mono,alumnus,most/many > not,248.093,195.2897268,204.0575291,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj22_shorten_mono,alumnus,most/many > not,610.969,130.0418511,199.3816216,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj22_shorten_mono,magnolia,all > not,487.516,218.2438521,238.1838382,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj22_shorten_mono,magnolia,all > not,137.862,166.7526077,175.2758046,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj22_shorten_mono,magnolia,all > not,384.238,113.8177273,120.1352936,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj22_shorten_mono,magnolia,not > all,516.76,235.9893976,260.0039484,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj22_shorten_mono,magnolia,not > all,368.601,115.2720077,128.8950611,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj24_shorten_mono,magnolia,not > all,170.711,231.7214801,238.6159847,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj24_shorten_mono,magnolia,not > all,206.859,254.5704095,265.2066975,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj24_shorten_mono,magnolia,not > all,418.755,213.7586284,221.6368897,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj24_shorten_mono,magnolia,all > not,504.813,260.298033,287.588116,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj24_shorten_mono,magnolia,all > not,491.815,239.9074075,249.6910227,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj24_shorten_mono,magnolia,all > not,396.079,219.7129233,242.6467176,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj24_shorten_mono,magnolia,all > not,437.401,187.247813,217.0859175,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj24_shorten_mono,alumnus,most/many > not,338.361,212.9773462,231.6649389,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj24_shorten_mono,alumnus,most/many > not,633.606,228.2720526,318.2310725,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj24_shorten_mono,alumnus,most/many > not,604.356,221.8308217,317.8615014,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj24_shorten_mono,alumnus,not > most/many,250.768,279.0535953,293.450146,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj24_shorten_mono,alumnus,not > most/many,480.216,255.7831972,267.9421442,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj24_shorten_mono,alumnus,not > most/many,652.164,265.5994253,305.9032561,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj24_shorten_mono,wool,all > not,519.898,249.6497885,286.1793346,Subete no urazi wa hoturete imasen desita,y
 subj24_shorten_mono,wool,all > not,685.281,258.7932262,320.3970351,Subete no urazi wa hoturete imasen desita,y
-subj24_shorten_mono,wool,not > all,258.32,345.3715753,365.0331959,Subete no urazi wa hoturete imasen desita,y
-subj24_shorten_mono,wool,not > all,692.986,235.1599728,283.8260349,Subete no urazi wa hoturete imasen desita,y
-subj24_shorten_mono,musical,most/many > not,767.61,266.9070967,289.3062758,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,most/many > not,421.548,234.5016341,262.1686062,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,most/many > not,844.463,222.0687692,266.7519709,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,not > most/many,215.105,292.6077356,303.7168864,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,not > most/many,379.289,315.5515446,355.3686079,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,not > most/many,104.156,284.7447364,297.3549999,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,musical,not > most/many,613.323,241.0238705,288.7943616,Neil wa hotondo no musical o kansyoo simasen,y
-subj24_shorten_mono,eyeliner,not > all,932.128,249.6751763,288.8101959,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj24_shorten_mono,eyeliner,not > all,208.477,253.3829776,264.6314458,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj24_shorten_mono,eyeliner,not > all,946.381,232.3428724,280.3457802,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj24_shorten_mono,eyeliner,all > not,471.406,249.2122747,264.2830637,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj24_shorten_mono,eyeliner,all > not,227.146,290.6275328,302.911332,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj24_shorten_mono,eyeliner,all > not,941.731,267.2659471,339.3721952,Subete no okaasan wa eyeliner o yurusimasen desita,y
@@ -313,188 +95,406 @@ subj25_shorten_mono,eyeliner,all > not,327.8,163.1447871,168.6026779,Subete no o
 subj25_shorten_mono,eyeliner,all > not,396.674,98.67006489,116.8268889,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj25_shorten_mono,eyeliner,all > not,291.72,101.0699384,106.4479512,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj25_shorten_mono,eyeliner,all > not,952.748,105.8530945,116.9748475,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj25_shorten_mono,musical,not > most/many,727.157,147.6717407,183.967416,Neil wa hotondo no musical o kansyoo simasen,y
-subj25_shorten_mono,musical,not > most/many,507.053,105.8851866,116.0147056,Neil wa hotondo no musical o kansyoo simasen,y
-subj25_shorten_mono,musical,most/many > not,1136.183,111.5220559,122.1458997,Neil wa hotondo no musical o kansyoo simasen,y
-subj25_shorten_mono,wool,not > all,282.254,119.3195743,122.7063167,Subete no urazi wa hoturete imasen desita,y
-subj25_shorten_mono,wool,not > all,337.693,97.44080868,109.5608871,Subete no urazi wa hoturete imasen desita,y
 subj25_shorten_mono,wool,all > not,222.483,114.0634567,116.5196123,Subete no urazi wa hoturete imasen desita,y
 subj25_shorten_mono,wool,all > not,352.909,115.8812702,115.8812702,Subete no urazi wa hoturete imasen desita,y
-subj25_shorten_mono,alumnus,not > most/many,282.254,99.57226725,116.225066,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj25_shorten_mono,alumnus,not > most/many,681.935,104.6848997,117.7241686,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj25_shorten_mono,alumnus,most/many > not,299.729,115.7093662,118.9489633,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj25_shorten_mono,alumnus,most/many > not,609.85,106.1525671,117.7834347,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj25_shorten_mono,magnolia,all > not,365.926,54.19716821,96.92909969,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj25_shorten_mono,magnolia,not > all,281.252,98.56659178,101.9266381,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj25_shorten_mono,magnolia,not > all,402.368,102.0137891,124.6877845,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj26_shorten_mono,eyeliner,all > not,231.955,209.7924267,329.5983769,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj26_shorten_mono,eyeliner,all > not,249.68,224.8033309,366.1664687,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj26_shorten_mono,eyeliner,all > not,355.282,175.2687104,193.9750848,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj26_shorten_mono,eyeliner,all > not,1060.437,140.1231873,299.1627148,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj26_shorten_mono,eyeliner,not > all,203.345,118.4466329,125.4623401,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj26_shorten_mono,eyeliner,not > all,596.254,121.7379672,132.3379886,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj26_shorten_mono,eyeliner,not > all,310.813,105.501674,107.7962375,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj26_shorten_mono,musical,not > most/many,205.282,167.8397437,171.5830201,Neil wa hotondo no musical o kansyoo simasen,y
-subj26_shorten_mono,musical,not > most/many,272.292,134.7528537,172.205925,Neil wa hotondo no musical o kansyoo simasen,y
-subj26_shorten_mono,musical,not > most/many,549.061,112.9688473,133.7060473,Neil wa hotondo no musical o kansyoo simasen,y
+subj26_shorten_mono,wool,all > not,606.334,154.8567047,180.911113,Subete no urazi wa hoturete imasen desita,y
+subj26_shorten_mono,wool,all > not,296.893,159.8375138,178.6414145,Subete no urazi wa hoturete imasen desita,y
+subj26_shorten_mono,wool,all > not,361.558,106.2444895,106.814543,Subete no urazi wa hoturete imasen desita,y
+subj26_shorten_mono,magnolia,all > not,152.161,148.6333734,150.937372,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj26_shorten_mono,magnolia,all > not,437.675,127.6291064,151.396933,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj26_shorten_mono,magnolia,all > not,348.872,110.1824631,115.1083986,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj27_shorten_mono,magnolia,all > not,207.689,111.286439,112.6173751,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj27_shorten_mono,magnolia,all > not,402.557,125.2935527,129.8347496,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj27_shorten_mono,magnolia,all > not,355.273,111.1292689,118.524147,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj27_shorten_mono,wool,all > not,1174.499,131.5105902,151.0852565,Subete no urazi wa hoturete imasen desita,y
+subj27_shorten_mono,eyeliner,all > not,432.078,117.9610942,137.2234077,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj28_shorten_mono,eyeliner,all > not,525.263,241.6329822,263.7246765,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj28_shorten_mono,eyeliner,all > not,452.591,223.9216599,230.0569447,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj28_shorten_mono,wool,all > not,388.639,193.8398507,274.4150645,Subete no urazi wa hoturete imasen desita,y
+subj28_shorten_mono,wool,all > not,347.536,206.8323839,220.3273507,Subete no urazi wa hoturete imasen desita,y
+subj28_shorten_mono,magnolia,all > not,655.308,240.6912537,267.7214782,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj28_shorten_mono,magnolia,all > not,503.238,221.4427229,265.4710583,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj28_shorten_mono,magnolia,all > not,513.203,218.2139626,230.9548964,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj2_shorten_mono,eyeliner,all > not,746.295,218.9289175,231.4321538,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj2_shorten_mono,eyeliner,all > not,867.876,242.0490676,282.4175946,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj2_shorten_mono,eyeliner,all > not,952.903,232.9019714,257.9893743,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj2_shorten_mono,wool,all > not,456.773,306.6189772,335.972966,Subete no urazi wa hoturete imasen desita,y
+subj2_shorten_mono,wool,all > not,373.872,238.1317938,273.8861963,Subete no urazi wa hoturete imasen desita,y
+subj2_shorten_mono,wool,all > not,438.428,198.8257605,214.2048516,Subete no urazi wa hoturete imasen desita,y
+subj2_shorten_mono,magnolia,all > not,427.465,286.8101912,344.0586039,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj2_shorten_mono,magnolia,all > not,530.476,198.1398707,209.9670643,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj2_shorten_mono,magnolia,all > not,421.526,190.0407117,212.5844231,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj4_shorten_mono,magnolia,all > not,241.285,104.2351206,104.8264779,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj4_shorten_mono,magnolia,all > not,366.602,138.035848,253.7854439,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj4_shorten_mono,wool,all > not,577.613,104.7183872,121.3945776,Subete no urazi wa hoturete imasen desita,y
+subj4_shorten_mono,wool,all > not,397.632,124.8013955,154.4395483,Subete no urazi wa hoturete imasen desita,y
+subj4_shorten_mono,wool,all > not,351.935,111.9693037,115.2318135,Subete no urazi wa hoturete imasen desita,y
+subj4_shorten_mono,eyeliner,all > not,380.121,94.4033212,112.0881735,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj4_shorten_mono,eyeliner,all > not,528.002,132.4090177,153.2085111,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj4_shorten_mono,eyeliner,all > not,535.932,127.1177122,247.761376,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj4_shorten_mono,eyeliner,all > not,426.468,232.4081661,244.3168255,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj5_shorten_mono,magnolia,all > not,270.788,284.4047032,294.0636606,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj5_shorten_mono,magnolia,all > not,484.904,226.2897387,260.302087,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj5_shorten_mono,wool,all > not,145.928,230.9640658,234.2825975,Subete no urazi wa hoturete imasen desita,y
+subj5_shorten_mono,wool,all > not,847.188,243.4190951,293.2222006,Subete no urazi wa hoturete imasen desita,y
+subj5_shorten_mono,eyeliner,all > not,764.983,312.7944057,334.6228602,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj5_shorten_mono,eyeliner,all > not,281.663,256.857292,264.324759,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj5_shorten_mono,eyeliner,all > not,511.943,223.6023155,236.8485545,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj9_shorten_mono,magnolia,all > not,892.313,238.0547148,282.7566505,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj9_shorten_mono,magnolia,all > not,833.479,227.8171393,268.5932639,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj9_shorten_mono,magnolia,all > not,240.577,208.5958468,226.6424139,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj9_shorten_mono,magnolia,all > not,484.936,186.5379042,207.8771291,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj9_shorten_mono,wool,all > not,470.364,347.7134621,390.5038538,Subete no urazi wa hoturete imasen desita,y
+subj9_shorten_mono,eyeliner,all > not,1481.168,242.5942453,327.2235596,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj9_shorten_mono,eyeliner,all > not,202.559,175.1221775,181.8037773,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj9_shorten_mono,eyeliner,all > not,789.449,183.4099595,207.9294942,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj9_shorten_mono,eyeliner,all > not,1108.425,210.1487082,319.1262994,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj9_shorten_mono,wool,all > not ,219.543,201.733238,205.178517,Subete no urazi wa hoturete imasen desita,y
+subj9_shorten_mono,wool,all > not ,519.294,180.5673786,209.6299537,Subete no urazi wa hoturete imasen desita,y
+subj9_shorten_mono,wool,all > not ,528.33,187.7042559,253.2666318,Subete no urazi wa hoturete imasen desita,y
+subj20_shorten_mono,wool,all > not,327.406,206.9702405,213.0934996,Subete no urazi wa hoturete imasen desita,y
+subj10_shorten_mono,alumnus,most/many > not,335.045,171.9371009,177.3678607,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,alumnus,most/many > not,770.628,206.6644305,252.0501817,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,musical,most/many > not,276.283,188.7492362,192.5251051,Neil wa hotondo no musical o kansyoo simasen,y
+subj10_shorten_mono,musical,most/many > not,532.273,249.8038052,261.4953814,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,alumnus,most/many > not,414.584,281.5343475,287.4218544,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,alumnus,most/many > not,1215.848,330.9908426,367.1439703,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,alumnus,most/many > not,729.156,234.7215525,258.5720358,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,musical,most/many > not,388.514,286.4336983,289.0358207,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,musical,most/many > not,545.26,315.9513543,350.2451778,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,musical,most/many > not,679.984,219.3095214,257.4033097,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,musical,most/many > not,891.93,234.5736496,277.2846663,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,musical,most/many > not,580.565,192.5429085,206.9762189,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,alumnus,most/many > not,652.658,224.9669468,277.2801831,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj13_shorten_mono,alumnus,most/many > not,1366.887,210.343633,253.1125035,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,most/many > not,281.838,253.1652648,268.0529653,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,most/many > not,582.851,254.1734697,266.0445569,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,most/many > not,758.161,248.6888477,278.0076643,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,musical,most/many > not,560.502,249.7854569,300.4320576,Neil wa hotondo no musical o kansyoo simasen,y
+subj14_shorten_mono,musical,most/many > not,587.188,237.9071983,268.0720651,Neil wa hotondo no musical o kansyoo simasen,y
+subj15_shorten_mono,alumnus,most/many > not,420.944,152.4936435,202.1326777,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj15_shorten_mono,alumnus,most/many > not,344.403,216.2712078,263.6140472,Liam wa ookuno sotugyoosee o sirimasen,y
+subj15_shorten_mono,alumnus,most/many > not,723.434,183.3769142,221.1028536,Liam wa ookuno sotugyoosee o sirimasen,y
+subj15_shorten_mono,musical,most/many > not,232.527,195.1466877,202.4234624,Neil wa hotondo no musical o kansyoo simasen,y
+subj15_shorten_mono,musical,most/many > not,454.844,212.0823624,233.5608658,Neil wa hotondo no musical o kansyoo simasen,y
+subj15_shorten_mono,musical,most/many > not,763.406,201.9250551,232.2460976,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,most/many > not,341.634,196.3872604,234.1564878,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,most/many > not,243.421,150.6960613,209.3417294,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,most/many > not,245.434,181.3182839,202.0045269,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,most/many > not,943.153,211.8434747,235.0763307,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,alumnus,most/many > not,278.933,189.715589,206.5797908,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj18_shorten_mono,alumnus,most/many > not,858.136,230.481747,266.1860099,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj18_shorten_mono,alumnus,most/many > not,646.883,204.8937194,224.9800832,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,most/many > not,199.04,226.604286,231.967423,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,most/many > not,309.017,286.2597031,302.4924282,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,most/many > not,154.319,247.9679873,261.4008887,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,most/many > not,774.58,205.6703396,238.8586475,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,musical,most/many > not,192.597,242.4117692,245.1399408,Neil wa hotondo no musical o kansyoo simasen,y
+subj19_shorten_mono,musical,most/many > not,684.861,211.4333839,231.4146445,Neil wa hotondo no musical o kansyoo simasen,y
+subj19_shorten_mono,musical,most/many > not,142.412,249.6206642,257.690926,Neil wa hotondo no musical o kansyoo simasen,y
+subj19_shorten_mono,musical,most/many > not,682.555,202.553297,240.9757489,Neil wa hotondo no musical o kansyoo simasen,y
+subj1_shorten_mono,alumnus,most/many > not,334.081,114.9280285,131.847355,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj1_shorten_mono,alumnus,most/many > not,575.682,116.9196737,123.543937,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj1_shorten_mono,musical,most/many > not,326.102,108.8309695,114.1872876,Neil wa hotondo no musical o kansyoo simasen,y
+subj1_shorten_mono,musical,most/many > not,455.924,115.3679537,126.4168898,Neil wa hotondo no musical o kansyoo simasen,y
+subj20_shorten_mono,musical,most/many > not,1008.908,221.9933734,250.1878295,Neil wa hotondo no musical o kansyoo simasen,y
+subj20_shorten_mono,alumnus,most/many > not,1703.667,238.228556,291.5501481,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj20_shorten_mono,alumnus,most/many > not,784.744,213.0470321,235.5561042,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj21_shorten_mono,musical,most/many > not,413.62,284.2666762,349.2097707,Neil wa hotondo no musical o kansyoo simasen,y
+subj21_shorten_mono,musical,most/many > not,946.934,225.1416839,253.0596165,Neil wa hotondo no musical o kansyoo simasen,y
+subj21_shorten_mono,alumnus,most/many > not,420.268,339.7394962,392.252148,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj21_shorten_mono,alumnus,most/many > not,726.489,231.823747,290.8617728,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj22_shorten_mono,musical,most/many > not,223.746,163.9276507,169.2104138,Neil wa hotondo no musical o kansyoo simasen,y
+subj22_shorten_mono,musical,most/many > not,491.454,118.5871283,129.2848447,Neil wa hotondo no musical o kansyoo simasen,y
+subj22_shorten_mono,alumnus,most/many > not,248.093,195.2897268,204.0575291,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj22_shorten_mono,alumnus,most/many > not,610.969,130.0418511,199.3816216,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,most/many > not,338.361,212.9773462,231.6649389,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,most/many > not,633.606,228.2720526,318.2310725,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,most/many > not,604.356,221.8308217,317.8615014,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,musical,most/many > not,767.61,266.9070967,289.3062758,Neil wa hotondo no musical o kansyoo simasen,y
+subj24_shorten_mono,musical,most/many > not,421.548,234.5016341,262.1686062,Neil wa hotondo no musical o kansyoo simasen,y
+subj24_shorten_mono,musical,most/many > not,844.463,222.0687692,266.7519709,Neil wa hotondo no musical o kansyoo simasen,y
+subj25_shorten_mono,musical,most/many > not,1136.183,111.5220559,122.1458997,Neil wa hotondo no musical o kansyoo simasen,y
+subj25_shorten_mono,alumnus,most/many > not,299.729,115.7093662,118.9489633,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj25_shorten_mono,alumnus,most/many > not,609.85,106.1525671,117.7834347,Liam wa ooku-no sotugyoosee o sirimasen,y
 subj26_shorten_mono,musical,most/many > not,168.05,156.6381452,314.4692138,Neil wa hotondo no musical o kansyoo simasen,y
 subj26_shorten_mono,musical,most/many > not,623.785,139.1373374,157.0017591,Neil wa hotondo no musical o kansyoo simasen,y
 subj26_shorten_mono,musical,most/many > not,587.631,133.7473944,152.4983592,Neil wa hotondo no musical o kansyoo simasen,y
+subj26_shorten_mono,alumnus,most/many > not,378.704,140.8832348,147.641638,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,alumnus,most/many > not,265.348,156.5154621,160.0889141,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,alumnus,most/many > not,664.43,193.199111,349.7466959,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj27_shorten_mono,alumnus,most/many > not,624.148,120.9889806,138.8388331,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj27_shorten_mono,musical,most/many > not,549.695,129.9282728,133.7241358,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,musical,most/many > not,411.767,257.2129088,274.4194473,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,musical,most/many > not,642.75,213.0978219,236.9500065,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,musical,most/many > not,484.813,229.5521596,253.4424843,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,alumnus,most/many > not,680.73,240.3982505,277.0305115,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj28_shorten_mono,alumnus,most/many > not,650.366,212.2252316,239.9632008,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,musical,most/many > not,582.698,258.4276941,339.9291854,Neil wa hotondo no musical o kansyoo simasen,y
+subj2_shorten_mono,musical,most/many > not,916.954,211.7028635,253.8832581,Neil wa hotondo no musical o kansyoo simasen,y
+subj2_shorten_mono,alumnus,most/many > not,621.789,237.4152866,289.0134936,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,alumnus,most/many > not,716.988,252.4738782,307.9467654,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,alumnus,most/many > not,609.642,197.639895,225.5869294,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj4_shorten_mono,alumnus,most/many > not,521.562,107.6593978,112.722975,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj4_shorten_mono,musical,most/many > not,160.165,105.6600942,121.6365713,Neil wa hotondo no musical o kansyoo simasen,y
+subj4_shorten_mono,musical,most/many > not,314.89,107.9098703,108.7893592,Neil wa hotondo no musical o kansyoo simasen,y
+subj4_shorten_mono,musical,most/many > not,479.853,123.4301597,130.8065584,Neil wa hotondo no musical o kansyoo simasen,y
+subj5_shorten_mono,alumnus,most/many > not,641.249,235.6299855,280.478218,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj5_shorten_mono,musical,most/many > not,821.345,242.2041077,263.633476,Neil wa hotondo no musical o kansyoo simasen,y
+subj5_shorten_mono,musical,most/many > not,647.86,250.964343,271.6209418,Neil wa hotondo no musical o kansyoo simasen,y
+subj9_shorten_mono,alumnus,most/many > not,1039.496,217.7357098,266.9816547,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj9_shorten_mono,alumnus,most/many > not,886.817,214.9774007,256.0893993,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj9_shorten_mono,musical,most/many > not,492.443,224.1111087,239.5830015,Neil wa hotondo no musical o kansyoo simasen,y
+subj9_shorten_mono,musical,most/many > not,1631.621,310.0536834,388.0609523,Neil wa hotondo no musical o kansyoo simasen,y
+subj9_shorten_mono,musical,most/many > not,554.145,208.9598121,225.114893,Neil wa hotondo no musical o kansyoo simasen,y
+subj10_shorten_mono,magnolia,not > all,242.406,238.8024734,254.1036401,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj10_shorten_mono,magnolia,not > all,358.639,46.75621962,46.89793135,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj10_shorten_mono,wool,not > all,582.028,276.4580599,339.5662839,Subete no urazi wa hoturete imasen desita,y
+subj10_shorten_mono,wool,not > all,260.925,316.9716588,331.951104,Subete no urazi wa hoturete imasen desita,y
+subj10_shorten_mono,wool,not > all,456.449,180.6609223,237.5614261,Subete no urazi wa hoturete imasen desita,y
+subj10_shorten_mono,wool,not > all,307.155,248.8799554,276.9803334,Subete no urazi wa hoturete imasen desita,y
+subj10_shorten_mono,eyeliner,not > all,330.342,187.7691496,204.3088795,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj10_shorten_mono,eyeliner,not > all,344.829,231.2775356,232.499164,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj12_shorten_mono,magnolia,not > all,161.784,318.0688804,335.5308835,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj12_shorten_mono,magnolia,not > all,255.287,364.996352,391.6655749,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj12_shorten_mono,magnolia,not > all,447.957,219.7254399,230.682116,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj12_shorten_mono,wool,not > all,156.931,331.1955895,348.0609323,Subete no urazi wa hoturete imasen desita,y
+subj12_shorten_mono,wool,not > all,335.828,300.2832992,417.8386745,Subete no urazi wa hoturete imasen desita,y
+subj12_shorten_mono,wool,not > all,673.571,280.6456922,330.0059765,Subete no urazi wa hoturete imasen desita,y
+subj12_shorten_mono,wool,not > all,428.339,206.96685,222.5878324,Subete no urazi wa hoturete imasen desita,y
+subj12_shorten_mono,eyeliner,not > all,422.84,367.0129203,393.4655194,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj12_shorten_mono,eyeliner,not > all,1177.114,234.7982052,345.0648828,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj13_shorten_mono,eyeliner,not > all,350.743,261.5933514,320.5647985,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj13_shorten_mono,eyeliner,not > all,282.254,255.0559611,263.3452119,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj13_shorten_mono,eyeliner,not > all,982.353,192.1308388,246.9214114,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj13_shorten_mono,wool,not > all,290.118,207.3540707,208.4744887,Subete no urazi wa hoturete imasen desita,y
+subj13_shorten_mono,wool,not > all,770.387,198.8706822,247.3474909,Subete no urazi wa hoturete imasen desita,y
+subj13_shorten_mono,magnolia,not > all,492.228,252.10934,294.4290459,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj13_shorten_mono,magnolia,not > all,255.689,230.586592,236.1065973,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj13_shorten_mono,magnolia,not > all,383.034,176.4921979,181.3813533,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj14_shorten_mono,magnolia,not > all,99.122,249.3991821,252.7811858,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj14_shorten_mono,magnolia,not > all,716.469,258.1358893,301.3110927,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj14_shorten_mono,magnolia,not > all,332.409,234.8901734,254.2016518,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj14_shorten_mono,wool,not > all,170.619,252.3384425,278.52364,Subete no urazi wa hoturete imasen desita,y
+subj14_shorten_mono,wool,not > all,153.769,262.0896186,265.523355,Subete no urazi wa hoturete imasen desita,y
+subj14_shorten_mono,wool,not > all,395.9,244.1969155,288.7205837,Subete no urazi wa hoturete imasen desita,y
+subj14_shorten_mono,wool,not > all,370.024,241.0303826,248.3625831,Subete no urazi wa hoturete imasen desita,y
+subj14_shorten_mono,eyeliner,not > all,523.049,279.3063198,330.5310136,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj14_shorten_mono,eyeliner,not > all,263.575,318.9713753,333.8855843,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj14_shorten_mono,eyeliner,not > all,405.118,186.9647077,325.4501237,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj15_shorten_mono,magnolia,not > all,464.913,212.1326216,217.5031417,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj15_shorten_mono,magnolia,not > all,401.556,181.4273493,184.4817095,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj15_shorten_mono,wool,not > all,810.489,250.6382224,310.6889114,Subete no urazi wa hoturete imasen desita,y
+subj15_shorten_mono,wool,not > all,437.966,134.2575266,198.7321513,Subete no urazi wa hoturete imasen desita,y
+subj15_shorten_mono,eyeliner,not > all,244.333,201.8116055,203.6354648,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj15_shorten_mono,eyeliner,not > all,164.44,235.420175,245.2477529,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj15_shorten_mono,eyeliner,not > all,427.898,185.0591516,190.6435444,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj18_shorten_mono,eyeliner,not > all,219.162,184.4838274,192.1855131,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj18_shorten_mono,eyeliner,not > all,271.023,205.2502493,325.1853221,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj18_shorten_mono,eyeliner,not > all,369.132,187.0685852,212.8645598,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj18_shorten_mono,wool,not > all,265.651,184.9250951,187.4320902,Subete no urazi wa hoturete imasen desita,y
+subj18_shorten_mono,wool,not > all,474.233,210.0219064,244.7749315,Subete no urazi wa hoturete imasen desita,y
+subj18_shorten_mono,magnolia,not > all,200.665,217.8338495,240.525907,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj18_shorten_mono,magnolia,not > all,229.003,225.9144449,226.7269204,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj18_shorten_mono,magnolia,not > all,405.851,193.5561355,221.4184307,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj19_shorten_mono,magnolia,not > all,155.258,233.1807916,235.1725339,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj19_shorten_mono,magnolia,not > all,201.454,270.4192183,284.7775209,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj19_shorten_mono,magnolia,not > all,374.117,142.3086727,208.5032523,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj19_shorten_mono,wool,not > all,172.604,255.2788631,261.0210586,Subete no urazi wa hoturete imasen desita,y
+subj19_shorten_mono,wool,not > all,447.887,240.1981664,290.608909,Subete no urazi wa hoturete imasen desita,y
+subj19_shorten_mono,wool,not > all,419.129,193.8626863,199.8591675,Subete no urazi wa hoturete imasen desita,y
+subj19_shorten_mono,eyeliner,not > all,202.616,266.7158386,271.0953282,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj19_shorten_mono,eyeliner,not > all,583.988,231.6214631,246.7104462,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj19_shorten_mono,eyeliner,not > all,148.438,244.5698819,271.2152063,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj19_shorten_mono,eyeliner,not > all,690.272,210.7742232,258.2017916,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj19_shorten_mono,eyeliner,not > all,429.773,180.7429547,188.0812489,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj1_shorten_mono,magnolia,not > all,317.479,106.4026808,108.8458382,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj1_shorten_mono,wool,not > all,291.386,103.5614635,110.222502,Subete no urazi wa hoturete imasen desita,y
+subj1_shorten_mono,wool,not > all,380.115,--undefined--,--undefined--,Subete no urazi wa hoturete imasen desita,y
+subj1_shorten_mono,eyeliner,not > all,471.017,198.1261076,227.4672243,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj1_shorten_mono,eyeliner,not > all,258.44,91.44284004,95.22023515,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj1_shorten_mono,eyeliner,not > all,256.95,86.6221884,86.88103104,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj20_shorten_mono,eyeliner,not > all,852.282,278.1927509,305.5213104,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj20_shorten_mono,eyeliner,not > all,694.506,221.3167894,243.6419611,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj20_shorten_mono,eyeliner,not > all,363.388,196.2174889,203.5751933,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj20_shorten_mono,wool,not > all,389.887,286.3227919,301.3351091,Subete no urazi wa hoturete imasen desita,y
+subj20_shorten_mono,wool,not > all,366.488,208.5172668,222.7562693,Subete no urazi wa hoturete imasen desita,y
+subj20_shorten_mono,magnolia,not > all,614.37,277.4851153,311.561736,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj20_shorten_mono,magnolia,not > all,512.32,208.3299269,222.3071102,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj21_shorten_mono,eyeliner,not > all,1026.731,197.6565531,239.2325524,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj21_shorten_mono,wool,not > all,404.309,203.0571519,227.9802445,Subete no urazi wa hoturete imasen desita,y
+subj21_shorten_mono,wool,not > all,343.302,180.3670318,190.899327,Subete no urazi wa hoturete imasen desita,y
+subj21_shorten_mono,magnolia,not > all,547.945,264.002103,412.1332485,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj21_shorten_mono,magnolia,not > all,441.548,216.2191966,251.1364914,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj21_shorten_mono,magnolia,not > all,400.139,203.5484852,236.7050855,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj22_shorten_mono,eyeliner,not > all,829.585,221.9198249,254.5659989,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj22_shorten_mono,eyeliner,not > all,383.64,107.3638411,110.1941521,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj22_shorten_mono,wool,not > all,369.199,125.8145606,141.8971675,Subete no urazi wa hoturete imasen desita,y
+subj22_shorten_mono,wool,not > all,467.545,157.9514074,180.1787837,Subete no urazi wa hoturete imasen desita,y
+subj22_shorten_mono,wool,not > all,348.404,137.8284073,155.2091534,Subete no urazi wa hoturete imasen desita,y
+subj22_shorten_mono,wool,not > all,363.552,112.0107232,121.6488098,Subete no urazi wa hoturete imasen desita,y
+subj22_shorten_mono,magnolia,not > all,516.76,235.9893976,260.0039484,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj22_shorten_mono,magnolia,not > all,368.601,115.2720077,128.8950611,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj24_shorten_mono,magnolia,not > all,170.711,231.7214801,238.6159847,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj24_shorten_mono,magnolia,not > all,206.859,254.5704095,265.2066975,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj24_shorten_mono,magnolia,not > all,418.755,213.7586284,221.6368897,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj24_shorten_mono,wool,not > all,258.32,345.3715753,365.0331959,Subete no urazi wa hoturete imasen desita,y
+subj24_shorten_mono,wool,not > all,692.986,235.1599728,283.8260349,Subete no urazi wa hoturete imasen desita,y
+subj24_shorten_mono,eyeliner,not > all,932.128,249.6751763,288.8101959,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj24_shorten_mono,eyeliner,not > all,208.477,253.3829776,264.6314458,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj24_shorten_mono,eyeliner,not > all,946.381,232.3428724,280.3457802,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj25_shorten_mono,wool,not > all,282.254,119.3195743,122.7063167,Subete no urazi wa hoturete imasen desita,y
+subj25_shorten_mono,wool,not > all,337.693,97.44080868,109.5608871,Subete no urazi wa hoturete imasen desita,y
+subj25_shorten_mono,magnolia,not > all,281.252,98.56659178,101.9266381,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj25_shorten_mono,magnolia,not > all,402.368,102.0137891,124.6877845,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj26_shorten_mono,eyeliner,not > all,203.345,118.4466329,125.4623401,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj26_shorten_mono,eyeliner,not > all,596.254,121.7379672,132.3379886,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj26_shorten_mono,eyeliner,not > all,310.813,105.501674,107.7962375,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj26_shorten_mono,wool,not > all,176.988,158.5066464,163.4008211,Subete no urazi wa hoturete imasen desita,y
 subj26_shorten_mono,wool,not > all,284.843,177.8086124,184.4751962,Subete no urazi wa hoturete imasen desita,y
 subj26_shorten_mono,wool,not > all,415.079,141.538907,162.249375,Subete no urazi wa hoturete imasen desita,y
 subj26_shorten_mono,wool,not > all,478.783,110.2144894,114.6046873,Subete no urazi wa hoturete imasen desita,y
-subj26_shorten_mono,wool,all > not,606.334,154.8567047,180.911113,Subete no urazi wa hoturete imasen desita,y
-subj26_shorten_mono,wool,all > not,296.893,159.8375138,178.6414145,Subete no urazi wa hoturete imasen desita,y
-subj26_shorten_mono,wool,all > not,361.558,106.2444895,106.814543,Subete no urazi wa hoturete imasen desita,y
-subj26_shorten_mono,alumnus,not > most/many,339.418,156.2440112,161.3650198,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,not > most/many,750.464,180.7431218,200.557516,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,not > most/many,147.641,189.3328848,203.4509096,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,not > most/many,634.312,137.9040832,201.938199,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,most/many > not,378.704,140.8832348,147.641638,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,most/many > not,265.348,156.5154621,160.0889141,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,alumnus,most/many > not,664.43,193.199111,349.7466959,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj26_shorten_mono,magnolia,all > not,152.161,148.6333734,150.937372,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj26_shorten_mono,magnolia,all > not,437.675,127.6291064,151.396933,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj26_shorten_mono,magnolia,all > not,348.872,110.1824631,115.1083986,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj26_shorten_mono,magnolia,not > all,353.542,179.8049178,193.6829363,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj26_shorten_mono,magnolia,not > all,208.131,167.4414294,172.3012301,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj26_shorten_mono,magnolia,not > all,348.872,115.0018944,118.6210277,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj27_shorten_mono,magnolia,all > not,207.689,111.286439,112.6173751,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj27_shorten_mono,magnolia,all > not,402.557,125.2935527,129.8347496,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj27_shorten_mono,magnolia,all > not,355.273,111.1292689,118.524147,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj27_shorten_mono,alumnus,most/many > not,624.148,120.9889806,138.8388331,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj27_shorten_mono,alumnus,not > most/many,668.466,127.9380005,133.8582045,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj27_shorten_mono,wool,all > not,1174.499,131.5105902,151.0852565,Subete no urazi wa hoturete imasen desita,y
 subj27_shorten_mono,wool,not > all,409.661,121.0409531,132.7922283,Subete no urazi wa hoturete imasen desita,y
-subj27_shorten_mono,musical,most/many > not,549.695,129.9282728,133.7241358,Neil wa hotondo no musical o kansyoo simasen,y
-subj27_shorten_mono,musical,not > most/many,599.599,133.4937003,139.881028,Neil wa hotondo no musical o kansyoo simasen,y
-subj27_shorten_mono,eyeliner,all > not,432.078,117.9610942,137.2234077,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj28_shorten_mono,eyeliner,all > not,525.263,241.6329822,263.7246765,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj28_shorten_mono,eyeliner,all > not,452.591,223.9216599,230.0569447,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj28_shorten_mono,eyeliner,not > all,717.257,215.7325022,250.0409482,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj28_shorten_mono,eyeliner,not > all,451.704,194.6681173,215.824743,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj28_shorten_mono,musical,not > most/many,452.567,199.766476,229.9381294,Neil wa hotondo no musical o kansyoo simasen,y
-subj28_shorten_mono,musical,not > most/many,547.486,232.3448088,260.0300608,Neil wa hotondo no musical o kansyoo simasen,y
-subj28_shorten_mono,musical,most/many > not,411.767,257.2129088,274.4194473,Neil wa hotondo no musical o kansyoo simasen,y
-subj28_shorten_mono,musical,most/many > not,642.75,213.0978219,236.9500065,Neil wa hotondo no musical o kansyoo simasen,y
-subj28_shorten_mono,musical,most/many > not,484.813,229.5521596,253.4424843,Neil wa hotondo no musical o kansyoo simasen,y
 subj28_shorten_mono,wool,not > all,313.005,220.7541964,237.8494131,Subete no urazi wa hoturete imasen desita,y
-subj28_shorten_mono,wool,all > not,388.639,193.8398507,274.4150645,Subete no urazi wa hoturete imasen desita,y
-subj28_shorten_mono,wool,all > not,347.536,206.8323839,220.3273507,Subete no urazi wa hoturete imasen desita,y
-subj28_shorten_mono,alumnus,not > most/many,677.159,207.9412,225.2010617,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj28_shorten_mono,alumnus,most/many > not,680.73,240.3982505,277.0305115,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj28_shorten_mono,alumnus,most/many > not,650.366,212.2252316,239.9632008,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj28_shorten_mono,magnolia,all > not,655.308,240.6912537,267.7214782,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj28_shorten_mono,magnolia,all > not,503.238,221.4427229,265.4710583,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj28_shorten_mono,magnolia,all > not,513.203,218.2139626,230.9548964,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj28_shorten_mono,magnolia,not > all,530.693,250.74947,284.5942347,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj28_shorten_mono,magnolia,not > all,475.841,210.1352482,234.3454899,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj28_shorten_mono,magnolia,not > all,465.406,210.5364795,237.3608765,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj2_shorten_mono,eyeliner,all > not,746.295,218.9289175,231.4321538,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj2_shorten_mono,eyeliner,all > not,867.876,242.0490676,282.4175946,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj2_shorten_mono,eyeliner,all > not,952.903,232.9019714,257.9893743,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj2_shorten_mono,eyeliner,not > all,542.924,275.3813844,334.4954639,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj2_shorten_mono,eyeliner,not > all,246.557,193.6213069,221.4213856,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj2_shorten_mono,eyeliner,not > all,555.659,232.8511085,251.3330696,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj2_shorten_mono,musical,not > most/many,227.367,195.0840936,216.0013641,Neil wa hotondo no musical o kansyoo simasen,y
-subj2_shorten_mono,musical,not > most/many,577.115,206.5402956,235.1217555,Neil wa hotondo no musical o kansyoo simasen,y
-subj2_shorten_mono,musical,most/many > not,582.698,258.4276941,339.9291854,Neil wa hotondo no musical o kansyoo simasen,y
-subj2_shorten_mono,musical,most/many > not,916.954,211.7028635,253.8832581,Neil wa hotondo no musical o kansyoo simasen,y
 subj2_shorten_mono,wool,not > all,186.51,241.2181707,244.4412842,Subete no urazi wa hoturete imasen desita,y
-subj2_shorten_mono,wool,not >all,359.837,187.8268548,195.7889785,Subete no urazi wa hoturete imasen desita,y
-subj2_shorten_mono,wool,all > not,456.773,306.6189772,335.972966,Subete no urazi wa hoturete imasen desita,y
-subj2_shorten_mono,wool,all > not,373.872,238.1317938,273.8861963,Subete no urazi wa hoturete imasen desita,y
-subj2_shorten_mono,wool,all > not,438.428,198.8257605,214.2048516,Subete no urazi wa hoturete imasen desita,y
-subj2_shorten_mono,alumnus,not > most/many,225.083,189.5909299,200.4214717,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,alumnus,not > most/many,601.568,226.9046741,290.9132515,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,alumnus,not > most/many,630.524,194.5545302,218.3786113,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,alumnus,most/many > not,621.789,237.4152866,289.0134936,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,alumnus,most/many > not,716.988,252.4738782,307.9467654,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,alumnus,most/many > not,609.642,197.639895,225.5869294,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj2_shorten_mono,magnolia,all > not,427.465,286.8101912,344.0586039,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj2_shorten_mono,magnolia,all > not,530.476,198.1398707,209.9670643,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj2_shorten_mono,magnolia,all > not,421.526,190.0407117,212.5844231,subete no magnolia-no-hana wa sakanaidesyoo,y
+subj2_shorten_mono,wool,not > all,359.837,187.8268548,195.7889785,Subete no urazi wa hoturete imasen desita,y
 subj2_shorten_mono,magnolia,not > all,592.874,297.3093485,360.5118531,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj2_shorten_mono,magnolia,not > all,267.311,222.2745888,279.7862145,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj2_shorten_mono,magnolia,not > all,387.189,202.0687331,218.5787891,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj4_shorten_mono,magnolia,not > all,703.342,180.0749714,278.1441778,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj4_shorten_mono,magnolia,not > all,198.224,105.4063897,109.8137548,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj4_shorten_mono,magnolia,not > all,431.418,108.1119647,112.3143376,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj4_shorten_mono,magnolia,all > not,241.285,104.2351206,104.8264779,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj4_shorten_mono,magnolia,all > not,366.602,138.035848,253.7854439,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj4_shorten_mono,alumnus,most/many > not,521.562,107.6593978,112.722975,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj4_shorten_mono,alumnus,not > most/many,564.901,117.7050112,121.8613019,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj4_shorten_mono,wool,all > not,577.613,104.7183872,121.3945776,Subete no urazi wa hoturete imasen desita,y
-subj4_shorten_mono,wool,all > not,397.632,124.8013955,154.4395483,Subete no urazi wa hoturete imasen desita,y
-subj4_shorten_mono,wool,all > not,351.935,111.9693037,115.2318135,Subete no urazi wa hoturete imasen desita,y
 subj4_shorten_mono,wool,not > all,925.545,129.8647971,173.2770671,Subete no urazi wa hoturete imasen desita,y
 subj4_shorten_mono,wool,not > all,352.502,123.747575,144.0757855,Subete no urazi wa hoturete imasen desita,y
 subj4_shorten_mono,wool,not > all,325.205,110.0363441,114.6139887,Subete no urazi wa hoturete imasen desita,y
-subj4_shorten_mono,musical,most/many > not,160.165,105.6600942,121.6365713,Neil wa hotondo no musical o kansyoo simasen,y
-subj4_shorten_mono,musical,most/many > not,314.89,107.9098703,108.7893592,Neil wa hotondo no musical o kansyoo simasen,y
-subj4_shorten_mono,musical,most/many > not,479.853,123.4301597,130.8065584,Neil wa hotondo no musical o kansyoo simasen,y
-subj4_shorten_mono,musical,not > most/many,134.486,120.2045409,121.7428055,Neil wa hotondo no musical o kansyoo simasen,y
-subj4_shorten_mono,musical,not > most/many,255.01,106.4509865,116.0800403,Neil wa hotondo no musical o kansyoo simasen,y
-subj4_shorten_mono,musical,not > most/many,481.372,125.7989519,138.4437437,Neil wa hotondo no musical o kansyoo simasen,y
 subj4_shorten_mono,eyeliner,not > all,235.243,109.4306157,110.8671476,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj4_shorten_mono,eyeliner,not > all,230.87,115.9261936,125.5025311,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj4_shorten_mono,eyeliner,not > all,562.722,143.1622426,241.0598221,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj4_shorten_mono,eyeliner,not > all,452.423,162.6895173,233.9968713,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj4_shorten_mono,eyeliner,all > not,380.121,94.4033212,112.0881735,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj4_shorten_mono,eyeliner,all > not,528.002,132.4090177,153.2085111,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj4_shorten_mono,eyeliner,all > not,535.932,127.1177122,247.761376,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj4_shorten_mono,eyeliner,all > not,426.468,232.4081661,244.3168255,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj5_shorten_mono,magnolia,not > all,701.281,300.4439534,347.5872578,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj5_shorten_mono,magnolia,not > all,720.382,250.0500074,289.4292602,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj5_shorten_mono,magnolia,all > not,270.788,284.4047032,294.0636606,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj5_shorten_mono,magnolia,all > not,484.904,226.2897387,260.302087,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj5_shorten_mono,alumnus,most/many > not,641.249,235.6299855,280.478218,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj5_shorten_mono,alumnus,not > most/many,720.382,266.0097023,288.5971279,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj5_shorten_mono,alumnus,not > most/many,690.366,237.967205,293.101481,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj5_shorten_mono,wool,all > not,145.928,230.9640658,234.2825975,Subete no urazi wa hoturete imasen desita,y
-subj5_shorten_mono,wool,all > not,847.188,243.4190951,293.2222006,Subete no urazi wa hoturete imasen desita,y
 subj5_shorten_mono,wool,not > all,642.019,309.9564359,345.7217966,Subete no urazi wa hoturete imasen desita,y
 subj5_shorten_mono,wool,not > all,465.901,259.1704711,291.1095593,Subete no urazi wa hoturete imasen desita,y
 subj5_shorten_mono,wool,not > all,821.345,235.7766615,282.8654445,Subete no urazi wa hoturete imasen desita,y
-subj5_shorten_mono,musical,most/many > not,821.345,242.2041077,263.633476,Neil wa hotondo no musical o kansyoo simasen,y
-subj5_shorten_mono,musical,most/many > not,647.86,250.964343,271.6209418,Neil wa hotondo no musical o kansyoo simasen,y
-subj5_shorten_mono,musical,not > most/many,612.133,236.4204188,257.7360384,Neil wa hotondo no musical o kansyoo simasen,y
 subj5_shorten_mono,eyeliner,not > all,205.74,227.1555539,232.9243842,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj5_shorten_mono,eyeliner,not > all,673.121,254.169839,290.946614,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj5_shorten_mono,eyeliner,not > all,445.654,226.7549243,234.728402,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj5_shorten_mono,eyeliner,all > not,764.983,312.7944057,334.6228602,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj5_shorten_mono,eyeliner,all > not,281.663,256.857292,264.324759,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj5_shorten_mono,eyeliner,all > not,511.943,223.6023155,236.8485545,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj9_shorten_mono,magnolia,not > all,1872.958,289.3084358,411.1073895,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj9_shorten_mono,magnolia,not > all,432.3,366.8815834,397.0839193,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj9_shorten_mono,magnolia,not > all,473.9,204.0590119,252.4977134,subete no magnolia-no-hana wa sakanaidesyoo,y
 subj9_shorten_mono,magnolia,not > all,362.476,172.8298206,173.3874109,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj9_shorten_mono,magnolia,all > not,892.313,238.0547148,282.7566505,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj9_shorten_mono,magnolia,all > not,833.479,227.8171393,268.5932639,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj9_shorten_mono,magnolia,all > not,240.577,208.5958468,226.6424139,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj9_shorten_mono,magnolia,all > not,484.936,186.5379042,207.8771291,subete no magnolia-no-hana wa sakanaidesyoo,y
-subj9_shorten_mono,alumnus,most/many > not,1039.496,217.7357098,266.9816547,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj9_shorten_mono,alumnus,most/many > not,886.817,214.9774007,256.0893993,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj9_shorten_mono,alumnus,not > most/many,894.508,260.695902,374.8031901,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj9_shorten_mono,alumnus,not > most/many,861.307,302.5517377,344.828144,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj9_shorten_mono,alumnus,not > most/many,744.358,188.4055939,335.8065597,Liam wa ooku-no sotugyoosee o sirimasen,y
-subj9_shorten_mono,wool,all > not,470.364,347.7134621,390.5038538,Subete no urazi wa hoturete imasen desita,y
-subj9_shorten_mono,wool,all > not ,219.543,201.733238,205.178517,Subete no urazi wa hoturete imasen desita,y
-subj9_shorten_mono,wool,all > not ,519.294,180.5673786,209.6299537,Subete no urazi wa hoturete imasen desita,y
-subj9_shorten_mono,wool,all > not ,528.33,187.7042559,253.2666318,Subete no urazi wa hoturete imasen desita,y
 subj9_shorten_mono,wool,not > all,641.72,311.1830916,423.7929099,Subete no urazi wa hoturete imasen desita,y
 subj9_shorten_mono,wool,not > all,282.254,244.5668555,417.7275325,Subete no urazi wa hoturete imasen desita,y
 subj9_shorten_mono,wool,not > all,442.807,173.3787032,224.8238261,Subete no urazi wa hoturete imasen desita,y
 subj9_shorten_mono,wool,not > all,430.252,174.0871215,175.7846281,Subete no urazi wa hoturete imasen desita,y
-subj9_shorten_mono,musical,most/many > not,492.443,224.1111087,239.5830015,Neil wa hotondo no musical o kansyoo simasen,y
-subj9_shorten_mono,musical,most/many > not,1631.621,310.0536834,388.0609523,Neil wa hotondo no musical o kansyoo simasen,y
-subj9_shorten_mono,musical,most/many > not,554.145,208.9598121,225.114893,Neil wa hotondo no musical o kansyoo simasen,y
-subj9_shorten_mono,musical,not > most/many,417.259,331.5392794,399.1712496,Neil wa hotondo no musical o kansyoo simasen,y
-subj9_shorten_mono,musical,not > most/many,1017.272,197.2523233,298.9829328,Neil wa hotondo no musical o kansyoo simasen,y
 subj9_shorten_mono,eyeliner,not > all,1062.864,272.6929622,333.6160277,Subete no okaasan wa eyeliner o yurusimasen desita,y
 subj9_shorten_mono,eyeliner,not > all,424.775,208.4585702,227.6192259,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj9_shorten_mono,eyeliner,all > not,1481.168,242.5942453,327.2235596,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj9_shorten_mono,eyeliner,all > not,202.559,175.1221775,181.8037773,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj9_shorten_mono,eyeliner,all > not,789.449,183.4099595,207.9294942,Subete no okaasan wa eyeliner o yurusimasen desita,y
-subj9_shorten_mono,eyeliner,all > not,1108.425,210.1487082,319.1262994,Subete no okaasan wa eyeliner o yurusimasen desita,y
+subj1_shorten_mono,alumnus,not > most/many,572.435,119.0303487,228.5730882,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,alumnus,not > most/many,397.219,196.9939069,236.0826752,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,alumnus,not > most/many,320.06,236.6451502,311.517072,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,alumnus,not > most/many,666.89,214.0073404,313.0583755,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj10_shorten_mono,musical,not > most/many,366.947,194.906248,221.7372992,Neil wa hotondo no musical o kansyoo simasen,y
+subj10_shorten_mono,musical,not > most/many,643.91,198.7969957,237.2849285,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,alumnus,not > most/many,408.438,278.4488015,284.8905143,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,alumnus,not > most/many,370.196,358.3601243,393.1025293,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,alumnus,not > most/many,761.854,232.4572199,265.6325286,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj12_shorten_mono,musical,not > most/many,397.932,274.7432898,276.160174,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,musical,not > most/many,380.161,240.6271806,419.6103511,Neil wa hotondo no musical o kansyoo simasen,y
+subj12_shorten_mono,musical,not > most/many,1149.326,244.637566,317.1112488,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,musical,not > most/many,505.72,204.6849044,221.8102786,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,musical,not > most/many,597.684,203.0918488,229.5406845,Neil wa hotondo no musical o kansyoo simasen,y
+subj13_shorten_mono,alumnus,not > most/many,259.01,182.0484395,193.0444503,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj13_shorten_mono,alumnus,not > most/many,444.828,254.5257073,274.2303841,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj13_shorten_mono,alumnus,not > most/many,630.731,185.9146119,210.1740652,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,not > most/many,364.343,225.0824454,229.5859567,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,not > most/many,455.854,295.0648823,321.7882494,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,not > most/many,152.227,339.2093589,347.755305,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,alumnus,not > most/many,651.005,225.0055624,268.1414537,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj14_shorten_mono,musical,not > most/many,272.63,229.1829368,236.3739516,Neil wa hotondo no musical o kansyoo simasen,y
+subj14_shorten_mono,musical,not > most/many,465.764,274.8255271,322.3780158,Neil wa hotondo no musical o kansyoo simasen,y
+subj14_shorten_mono,musical,not > most/many,591.767,249.4070678,278.7060863,Neil wa hotondo no musical o kansyoo simasen,y
+subj15_shorten_mono,alumnus,not > most/many,868.761,197.7492848,232.5075647,Liam wa ookuno sotugyoosee o sirimasen,y
+subj15_shorten_mono,musical,not > most/many,872.883,251.3242167,300.7673056,Neil wa hotondo no musical o kansyoo simasen,y
+subj15_shorten_mono,musical,not > most/many,666.449,185.6373458,221.8865131,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,not > most/many,284.989,192.6454472,196.7243361,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,not > most/many,229.999,174.3899683,185.5449058,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,musical,not > most/many,479.797,206.7332537,230.9725022,Neil wa hotondo no musical o kansyoo simasen,y
+subj18_shorten_mono,alumnus,not > most/many,298.496,191.8760233,204.291906,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj18_shorten_mono,alumnus,not > most/many,253.08,213.0671599,242.0170845,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj18_shorten_mono,alumnus,not > most/many,196.044,206.6183723,208.0791247,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj18_shorten_mono,alumnus,not > most/many,601.017,205.6176679,236.2480743,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,not > most/many,249.152,221.1925856,226.9543196,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,not > most/many,272.187,313.7069356,324.9109476,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,not > most/many,268.962,260.0495853,286.3042759,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,alumnus,not > most/many,730.549,207.7029651,237.4433475,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj19_shorten_mono,musical,not > most/many,193.38,209.5723512,217.1844903,Neil wa hotondo no musical o kansyoo simasen,y
+subj19_shorten_mono,musical,not > most/many,338.239,292.4363098,311.184474,Neil wa hotondo no musical o kansyoo simasen,y
+subj19_shorten_mono,musical,not > most/many,547.905,204.2502687,240.6022464,Neil wa hotondo no musical o kansyoo simasen,y
+subj1_shorten_mono,alumnus,not > most/many,385.097,110.4302062,117.1007831,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj1_shorten_mono,musical,not > most/many,454.544,139.1132791,212.3926482,Neil wa hotondo no musical o kansyoo simasen,y
+subj20_shorten_mono,musical,not > most/many,989.944,222.5676168,249.0054766,Neil wa hotondo no musical o kansyoo simasen,y
+subj20_shorten_mono,alumnus,not > most/many,714.648,222.583987,253.3121574,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj21_shorten_mono,musical,not > most/many,867.136,212.5415549,248.4189065,Neil wa hotondo no musical o kansyoo simasen,y
+subj21_shorten_mono,alumnus,not > most/many,261.434,216.982109,220.4032029,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj21_shorten_mono,alumnus,not > most/many,622.423,196.8543359,226.8392512,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj22_shorten_mono,musical,not > most/many,527.036,186.6487368,222.1119346,Neil wa hotondo no musical o kansyoo simasen,y
+subj22_shorten_mono,musical,not > most/many,276.965,193.7630642,201.3778408,Neil wa hotondo no musical o kansyoo simasen,y
+subj22_shorten_mono,musical,not > most/many,494.775,116.5392584,126.8143902,Neil wa hotondo no musical o kansyoo simasen,y
+subj22_shorten_mono,alumnus,not > most/many,252.368,147.1124835,176.0802025,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj22_shorten_mono,alumnus,not > most/many,595.302,125.101689,150.0174805,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,not > most/many,250.768,279.0535953,293.450146,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,not > most/many,480.216,255.7831972,267.9421442,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,alumnus,not > most/many,652.164,265.5994253,305.9032561,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj24_shorten_mono,musical,not > most/many,215.105,292.6077356,303.7168864,Neil wa hotondo no musical o kansyoo simasen,y
+subj24_shorten_mono,musical,not > most/many,379.289,315.5515446,355.3686079,Neil wa hotondo no musical o kansyoo simasen,y
+subj24_shorten_mono,musical,not > most/many,104.156,284.7447364,297.3549999,Neil wa hotondo no musical o kansyoo simasen,y
+subj24_shorten_mono,musical,not > most/many,613.323,241.0238705,288.7943616,Neil wa hotondo no musical o kansyoo simasen,y
+subj25_shorten_mono,musical,not > most/many,727.157,147.6717407,183.967416,Neil wa hotondo no musical o kansyoo simasen,y
+subj25_shorten_mono,musical,not > most/many,507.053,105.8851866,116.0147056,Neil wa hotondo no musical o kansyoo simasen,y
+subj25_shorten_mono,alumnus,not > most/many,282.254,99.57226725,116.225066,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj25_shorten_mono,alumnus,not > most/many,681.935,104.6848997,117.7241686,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,musical,not > most/many,205.282,167.8397437,171.5830201,Neil wa hotondo no musical o kansyoo simasen,y
+subj26_shorten_mono,musical,not > most/many,272.292,134.7528537,172.205925,Neil wa hotondo no musical o kansyoo simasen,y
+subj26_shorten_mono,musical,not > most/many,549.061,112.9688473,133.7060473,Neil wa hotondo no musical o kansyoo simasen,y
+subj26_shorten_mono,alumnus,not > most/many,339.418,156.2440112,161.3650198,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,alumnus,not > most/many,750.464,180.7431218,200.557516,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,alumnus,not > most/many,147.641,189.3328848,203.4509096,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj26_shorten_mono,alumnus,not > most/many,634.312,137.9040832,201.938199,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj27_shorten_mono,alumnus,not > most/many,668.466,127.9380005,133.8582045,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj27_shorten_mono,musical,not > most/many,599.599,133.4937003,139.881028,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,musical,not > most/many,452.567,199.766476,229.9381294,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,musical,not > most/many,547.486,232.3448088,260.0300608,Neil wa hotondo no musical o kansyoo simasen,y
+subj28_shorten_mono,alumnus,not > most/many,677.159,207.9412,225.2010617,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,musical,not > most/many,227.367,195.0840936,216.0013641,Neil wa hotondo no musical o kansyoo simasen,y
+subj2_shorten_mono,musical,not > most/many,577.115,206.5402956,235.1217555,Neil wa hotondo no musical o kansyoo simasen,y
+subj2_shorten_mono,alumnus,not > most/many,225.083,189.5909299,200.4214717,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,alumnus,not > most/many,601.568,226.9046741,290.9132515,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj2_shorten_mono,alumnus,not > most/many,630.524,194.5545302,218.3786113,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj4_shorten_mono,alumnus,not > most/many,564.901,117.7050112,121.8613019,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj4_shorten_mono,musical,not > most/many,134.486,120.2045409,121.7428055,Neil wa hotondo no musical o kansyoo simasen,y
+subj4_shorten_mono,musical,not > most/many,255.01,106.4509865,116.0800403,Neil wa hotondo no musical o kansyoo simasen,y
+subj4_shorten_mono,musical,not > most/many,481.372,125.7989519,138.4437437,Neil wa hotondo no musical o kansyoo simasen,y
+subj5_shorten_mono,alumnus,not > most/many,720.382,266.0097023,288.5971279,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj5_shorten_mono,alumnus,not > most/many,690.366,237.967205,293.101481,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj5_shorten_mono,musical,not > most/many,612.133,236.4204188,257.7360384,Neil wa hotondo no musical o kansyoo simasen,y
+subj9_shorten_mono,alumnus,not > most/many,894.508,260.695902,374.8031901,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj9_shorten_mono,alumnus,not > most/many,861.307,302.5517377,344.828144,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj9_shorten_mono,alumnus,not > most/many,744.358,188.4055939,335.8065597,Liam wa ooku-no sotugyoosee o sirimasen,y
+subj9_shorten_mono,musical,not > most/many,417.259,331.5392794,399.1712496,Neil wa hotondo no musical o kansyoo simasen,y
+subj9_shorten_mono,musical,not > most/many,1017.272,197.2523233,298.9829328,Neil wa hotondo no musical o kansyoo simasen,y
