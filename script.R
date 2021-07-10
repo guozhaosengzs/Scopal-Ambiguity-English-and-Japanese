@@ -3,12 +3,13 @@ library(tidyverse)
 library(lme4)
 library(lmerTest)
 
-## Import all the data ----
-GLenEng <- read_csv("data\\GestureLengthEnglish.csv")
-GLenJap <- read_csv("data\\GestureLengthJapanese.csv")
 
-SLenEng <- read_csv("data\\SentenceLengthEnglish.csv")
-SLenJap <- read_csv("data\\SentenceLengthJapanese.csv")
+## Import all the data ----
+GLenEng <- read_csv("data/GestureLengthEnglish.csv")
+GLenJap <- read_csv("data/GestureLengthJapanese.csv")
+
+SLenEng <- read_csv("data/SentenceLengthEnglish.csv")
+SLenJap <- read_csv("data/SentenceLengthJapanese.csv")
 
 ## Clean 2 of the Gesture Length data sets ----
 # Remove used columns
@@ -161,7 +162,7 @@ summary(model.JapSent.meanF0)
 
 
 ## Last Word Length as R.V. in English ----
-LastLenEng <- read_csv("data\\LastLenEng.csv")
+LastLenEng <- read_csv("data/LastLenEng.csv")
 
 LastLenEng[c("subject", "context", "keyword")] <- lapply(LastLenEng[c("subject", "context", "keyword")], as.factor)
 
@@ -174,7 +175,7 @@ summary(model.LastLenEng)
 
 
 ## Last Word Length as R.V. in Japanese ----
-LastLenJap <- read_csv("data\\LastLenJap.csv")
+LastLenJap <- read_csv("data/LastLenJap.csv")
 
 LastLenJap[c("subject", "context", "keyword")] <- lapply(LastLenJap[c("subject", "context", "keyword")], as.factor)
 

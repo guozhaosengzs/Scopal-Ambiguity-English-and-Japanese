@@ -1,0 +1,23 @@
+---
+title: "Analysis"
+author: "Zhaosen Guo"
+date: "7/10/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro
+
+For the given psycholinguistics experiment data, I have generated this R Markdown file for easier access to the data, codes, and explanations. This file can also generate reports in html/pdf when pressing the "Knit" option in RStudio.
+
+```{r }
+
+```
+
+
+
