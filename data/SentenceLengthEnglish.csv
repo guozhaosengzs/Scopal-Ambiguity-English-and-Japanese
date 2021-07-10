@@ -1,251 +1,251 @@
-subject,sentence,context,sentence_length,maxF0,meanF0,keyword
-subj1_shorten_mono,all the moms didn't allow eyeliner,all > not,2099.089,153.4691183,114.878847,eyeliner
-subj1_shorten_mono,all the moms didn't allow eyeliner,not > all,2157.257,137.5101651,107.0231582,eyeliner
-subj1_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2341.139,232.3142542,123.7946085,musical 
-subj1_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2049.643,144.4563896,113.2123673,musical 
-subj1_shorten_mono,all the woollining wasn't worn,not > all,1814.085,156.9067564,115.1573829,wool
-subj1_shorten_mono,all the woollining wasn't worn,all > not,1768.958,140.6607223,113.5821897,wool
-subj1_shorten_mono,Liam doens't know many alumni,not > most/many,1788.922,234.3994691,116.934508,alumnus
-subj1_shorten_mono,Liam doesn't know many alumni,most/many > not,1916.634,247.5444291,116.5675151,alumnus
-subj1_shorten_mono,all the magnolias won't bloom,not > all,1564.361,125.4421714,110.425006,magnolia
-subj1_shorten_mono,all the magnolias won't bloom,all > not,1496.563,265.870124,120.0091443,magnolia
-subj2_shorten_mono,all the magnolias won't bloom,not > all,1942.716,274.6073686,153.0128091,magnolia
-subj2_shorten_mono,all the magnolias won't bloom,all > not,1924.387,263.0076103,155.7179643,magnolia
-subj2_shorten_mono,Liam doesn't know many alumni,most/many > not,2284.741,241.2676673,173.8786792,alumnus
-subj2_shorten_mono,Liam doesn't know many alumni,not > most/many,2033.393,241.1353453,172.1393064,alumnus
-subj2_shorten_mono,all the woollining wasn't worn,all > not,1985.759,229.319255,177.5900619,wool
-subj2_shorten_mono,all the woollining wasn't worn,not > all,1833.7,286.4765013,168.4202813,wool
-subj2_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2415.384,246.6261682,169.2898819,musical 
-subj2_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2382.256,255.9875273,174.3250768,musical 
-subj2_shorten_mono,all the moms didn't allow eyeliner,not > all,2101.686,269.444033,154.1017852,eyeliner
-subj2_shorten_mono,all the moms didn't allow eyeliner,all > not,2193.405,238.5270341,152.8767852,eyeliner
-subj3_shorten_mono,all the magnolias won't bloom,not > all,1808.047,199.709759,111.4512816,magnolia
-subj3_shorten_mono,all the magnolias won't bloom,all > not,2345.964,167.1202817,103.4476851,magnolia
-subj3_shorten_mono,Liam doesn't know many alumni,most/many > not,1999.976,164.2550583,110.1439263,alumnus
-subj3_shorten_mono,Liam doesn't know many alumni,not > most/many,2107.963,181.2314237,133.6102191,alumnus
-subj3_shorten_mono,all the woollining wasn't worn,all > not,2050.809,163.920167,119.7493183,wool
-subj3_shorten_mono,all the woollining wasn't worn,not > all,2204.673,210.8716592,111.3451581,wool
-subj3_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,3050.973,257.0855346,178.5669311,musical 
-subj3_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2457.324,220.3727435,127.8337254,musical 
-subj3_shorten_mono,all the moms didn't allow blank eyeliner,not > all,2598.048,237.4741195,112.8178799,eyeliner
-subj3_shorten_mono,all the moms didn't allow eyeliner,all > not,2415.847,166.3375648,117.0769099,eyeliner
-subj4_shorten_mono,all the magnolias won't bloom,not > all,1904.17,189.103663,121.9619626,magnolia
-subj4_shorten_mono,all the magnolias won't bloom,all > not,1687.149,137.2651674,111.4051603,magnolia
-subj4_shorten_mono,Liam doesn't know many alumni,most/many > not,2121.536,218.1248979,126.7585092,alumnus
-subj4_shorten_mono,Liam doesn't know many alumni,not > most/many,1722.521,201.8027541,136.2492703,alumnus
-subj4_shorten_mono,all the woollining wasn't worn,all > not,1911.802,190.0074904,122.4046272,wool
-subj4_shorten_mono,all the woolling wasn't worn,not > all,1824.244,180.2979191,121.9576445,wool
-subj4_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2169.13,192.5679381,139.0736048,musical 
-subj4_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2169.942,186.5733431,134.0983898,musical 
-subj4_shorten_mono,all the moms didn't allow eyeliner,not > all,2203.779,155.7207073,108.7443508,eyeliner
-subj4_shorten_mono,all the moms didn't allow eyeliner,all > not,2294.767,179.813621,117.5315529,eyeliner
-subj5_shorten_mono,all of the magnolias won't bloom,not > all,1987.817,295.2082904,213.0882736,magnolia
-subj5_shorten_mono,all the magnolias won't bloom,all > not,1468.496,365.3565958,226.4181773,magnolia
-subj5_shorten_mono,Liam doesn't know many alumni,most/many > not,1748.658,341.9343549,220.9702692,alumnus
-subj5_shorten_mono,Liam doesn't know many alumni,not > most/many,1969.772,395.2522983,258.8773267,alumnus
-subj5_shorten_mono,all the woolining wasn't worn,all > not,1734.128,303.582522,225.6283847,wool
-subj5_shorten_mono,all the woolling wasn't worn,not > all,1807.74,358.7333586,230.8644963,wool
-subj5_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1921.044,356.2882759,243.1464912,musical 
-subj5_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2238.158,350.1247174,249.6947183,musical 
-subj5_shorten_mono,all the moms didn't allow eyeliner,not > all,2104.84,314.753614,210.1704632,eyeliner
-subj5_shorten_mono,all the moms didn't allow eyeliner,all > not,1785.738,275.1737458,212.1276469,eyeliner
-subj6_shorten_mono,all the magnolias won't bloom,not > all,1496.998,200.7698086,116.6544915,magnolia
-subj6_shorten_mono,all the magnolias won't bloom,all > not,1633.777,335.6563277,158.9015277,magnolia
-subj6_shorten_mono,Liam doesn't know many alumnis,most/many > not,1652.405,303.8329962,222.9207182,alumnus
-subj6_shorten_mono,Liam doesn't know many alumni,not > most/many,1782.123,270.6868416,178.4226157,alumnus
-subj6_shorten_mono,all the woollining wasn't worn,all > not,1766.578,212.006249,136.3350747,wool
-subj6_shorten_mono,all the woollining wasn't worn,not > all,1524.521,197.5564468,124.2183078,wool
-subj6_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2072.973,260.1835252,169.4991437,musical 
-subj6_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2047.627,202.5285839,164.1857392,musical 
-subj6_shorten_mono,all the moms didn't allow eyeliner,not > all,1754.942,335.5321338,201.1494849,eyeliner
-subj6_shorten_mono,all the moms didn't allow eyeliner,all > not,2044.452,327.1105128,145.9341171,eyeliner
-subj7_shorten_mono,all the magnolias won't bloom,not > all,1581.772,248.9463189,185.426057,magnolia
-subj7_shorten_mono,all the magnolias won't bloom,all > not,1664.256,267.7214808,216.7024667,magnolia
-subj7_shorten_mono,Liam doesn't know many alumni,most/many > not,1714.471,272.4163821,218.2868821,alumnus
-subj7_shorten_mono,Liam doesn't know many alumni,not > most/many,1601.906,335.5865181,202.4281225,alumnus
-subj7_shorten_mono,all the woollining wasn't worn,all > not,1788.965,379.6057373,260.8234256,wool
-subj7_shorten_mono,all the woollining wasn't worn,not > all,1665.957,289.0011671,198.5129146,wool
-subj7_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1786.364,281.9863977,202.675057,musical 
-subj7_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1843.355,250.9770065,194.4589078,musical 
-subj7_shorten_mono,all the moms didn't allow eyeliner,not > all,1836.848,401.840051,191.8571708,eyeliner
-subj7_shorten_mono,all the moms didn't allow eyeliner,all > not,2194.177,271.6213426,188.56768,eyeliner
-subj9_shorten_mono,all the magnolias won't bloom,not > all,2642.67,200.0670871,147.649145,magnolia
-subj9_shorten_mono,all the magnolias won't bloom,all > not,2602.624,210.1933793,158.2946641,magnolia
-subj9_shorten_mono,Liam doesn't know many alumni,most/many > not,2240.763,318.7462945,170.3768862,alumnus
-subj9_shorten_mono,Liam doesn't know many alumni,not > most/many,2129.343,268.1889324,145.5030356,alumnus
-subj9_shorten_mono,all the woollining wasn't worn,all > not,2700.081,177.9364884,142.7180028,wool
-subj9_shorten_mono,all the woollining wasn't worn,not > all,2165.054,315.5704405,151.6585212,wool
-subj9_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,3018.719,248.8112943,149.9759631,musical 
-subj9_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2549.101,206.6020061,154.0312551,musical 
-subj9_shorten_mono,all the moms didn't allow eyeliner,not > all,2729.174,316.7279467,150.7212781,eyeliner
-subj9_shorten_mono,all the moms didn't allow eyeliner,all > not,2382.358,316.7377961,153.3564046,eyeliner
-subj11_shorten_mono,all the magnolias won't bloom,not > all,1646.858,138.6341167,113.8359361,magnolia
-subj11_shorten_mono,all the magnolias won't bloom,all > not,2084.519,147.5042863,116.2768352,magnolia
-subj11_shorten_mono,Liam doesn't know many alumni,most/many > not,1542.816,130.8187314,109.4833694,alumnus
-subj11_shorten_mono,Liam doesn't know many alumni,not > most/many,2088.348,134.1012399,110.8402689,alumnus
-subj11_shorten_mono,all the woollining wasn't worn,all > not,1941.192,142.3482414,119.1910068,wool
-subj11_shorten_mono,all the woollining wasn't worn,not > all,1886.706,135.7875409,117.4741707,wool
-subj11_shorten_mono,Neil doens't enjoy most musicals,most/many > not,2087.487,145.1230784,110.1625985,musical 
-subj11_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2787.149,142.0710706,125.0280784,musical 
-subj11_shorten_mono,all the moms didn't allow yeliner,not > all,1889.271,144.0410701,93.84237246,eyeliner
-subj11_shorten_mono,all the moms didn't allow eyeliner,all > not,2973.6,158.0280925,116.6948699,eyeliner
-subj12_shorten_mono,all the magnolias won't bloom,not > all,1890.156,229.9310202,185.2204345,magnolia
-subj12_shorten_mono,all the magnolias won't bloom,all > not,1778.585,282.2154207,184.3934381,magnolia
-subj12_shorten_mono,Liam doesn't know many alumni,most/many > not,1927.347,337.2668409,203.8803084,alumnus
-subj12_shorten_mono,Liam doesn't know many alumni,not > most/many,1586.069,252.1726238,221.8283574,alumnus
-subj12_shorten_mono,all the woollining wasn't worn,all > not,1625.447,241.7689981,201.2695488,wool
-subj12_shorten_mono,all the woollining wasn't worn,not > all,2362.702,288.9028548,229.6672673,wool
-subj12_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2817.733,251.3711484,198.4081144,musical 
-subj12_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2349.57,230.3616168,198.1018483,musical 
-subj12_shorten_mono,all the moms didn't allow eyeliner,not > all,2197.574,236.3121175,185.5200242,eyeliner
-subj12_shorten_mono,all the moms didn't allow eyeliner,all > not,2288.314,210.3630396,172.6055733,eyeliner
-subj13_shorten_mono,all the magnolias won't bloom,not > all,1210.776,385.4834043,235.1796082,magnolia
-subj13_shorten_mono,all the magnolias won't bloom,all > not,1378.38,255.7188662,207.7464833,magnolia
-subj13_shorten_mono,Liam doesn't know many alumni,most/many > not,1533.124,299.6217297,210.1486953,alumnus
-subj13_shorten_mono,Liam doesn't know many alumni,not > most/many,1402.939,412.559538,233.225231,alumnus
-subj13_shorten_mono,all the woollining wasn't worn,all > not,1721.634,413.2358562,287.7685447,wool
-subj13_shorten_mono,all the woollining wasn't worn,not > all,1593.905,330.2119486,224.2871637,wool
-subj13_shorten_mono,Neil doesn't enjoymost musicals,most/many > not,1678.728,292.6951114,218.1589448,musical 
-subj13_shorten_mono,Neil doesn't enjoymost musicals,not > most/many,1625.699,423.3117472,241.2165434,musical 
-subj13_shorten_mono,all the moms didn't allow eyeliner,not > all,1619.731,274.9752707,223.7545654,eyeliner
-subj13_shorten_mono,all the moms didn't allow eyeliner,all > not,1517.827,273.8802287,211.3915931,eyeliner
-subj14_shorten_mono,all the magnolias won't bloom,not > all,6259.863,197.2890738,152.5999331,magnolia
-subj14_shorten_mono,all the magnolias won't bloom,all > not,1871.526,180.493114,151.7759657,magnolia
-subj14_shorten_mono,Liam doesn't know any alumni,most/many > not,1703.486,310.1532317,181.6915428,alumnus
-subj14_shorten_mono,Liam doesn't know many alumni,not > most/many,1710.626,314.4116465,195.7021565,alumnus
-subj14_shorten_mono,all the woollining wasn't worn,all > not,2388.101,327.0824842,194.2892329,wool
-subj14_shorten_mono,all the woollining wasn't worn,not > all,1824.949,261.8175646,171.1675347,wool
-subj14_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2210.264,216.2624488,170.3647807,musical 
-subj14_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1778.373,277.9874323,188.5104147,musical 
-subj14_shorten_mono,all the moms didn't allow eyeliner,not > all,1956.21,220.3216265,162.5551677,eyeliner
-subj14_shorten_mono,all the moms didn't allow eyeliner,all > not,2007.021,210.3307656,164.2083857,eyeliner
-subj15_shorten_mono,all the magnolias won't bloom,not > all,2106.498,331.7208401,110.4418296,magnolia
-subj15_shorten_mono,all the magnolias won't bloom,all > not,1877.172,152.9675049,109.1527834,magnolia
-subj15_shorten_mono,Liam doesn't know many alumni,most/many > not,1879.524,154.7940553,115.0755241,alumnus
-subj15_shorten_mono,Liam doesn't know many alumni,not > most/many,1806.601,188.8305854,121.7512993,alumnus
-subj15_shorten_mono,all the woollining wasn't worn,all > not,2180.624,335.6046795,129.7358542,wool
-subj15_shorten_mono,all the woollining wasn't worn,not > all,2013.603,177.0715465,108.4145932,wool
-subj15_shorten_mono,Neil doesn't enjoy musicals,most/many > not,1856,161.224249,129.319329,musical 
-subj15_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2211.213,191.9136375,112.1918705,musical 
-subj15_shorten_mono,all the moms didn't allow eyeliner,not > all,2954.57,159.956586,113.9638526,eyeliner
-subj15_shorten_mono,all the moms didn't allow eyeliner,all > not,2653.27,298.8486514,127.251628,eyeliner
-subj16_shorten_mono,all the magnolias won't bloom,not > all,1642.309,331.873942,224.6229195,magnolia
-subj16_shorten_mono,all the magnolias won't bloom,all > not,1727.562,277.5939006,237.8473327,magnolia
-subj16_shorten_mono,Liam doesn't know many alumni,most/many > not,1933.317,416.6038609,230.7283461,alumnus
-subj16_shorten_mono,Liam doesn't know many alumni,not > most/many,1994.789,397.3605225,274.7817698,alumnus
-subj16_shorten_mono,all the woolling wasn't worn,all > not,1833.426,324.677251,255.6359556,wool
-subj16_shorten_mono,all the woollining wasn't worn,not > all,1662.341,399.1837947,218.5185997,wool
-subj16_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2043.701,307.8797075,223.6233674,musical 
-subj16_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2252.308,358.1659043,265.9395644,musical 
-subj16_shorten_mono,all the moms didn't allow eyeliner,not > all,1994.809,318.1116026,225.9536301,eyeliner
-subj16_shorten_mono,all the moms didn't allow eyeliner,all > not,1877.467,323.0101938,211.0810133,eyeliner
-subj17_shorten_mono,all the magnolias won't bloom,not > all,1477.875,212.1173222,118.3748407,magnolia
-subj17_shorten_mono,all the magnolias won't bloom,all > not,1549.134,241.4211618,123.5810071,magnolia
-subj17_shorten_mono,Liam doesn't know many alumni,most/many > not,1676.752,232.4913423,115.3646436,alumnus
-subj17_shorten_mono,Liam doesn't know many alumni,not > most/many,1857.412,152.0454889,110.6106049,alumnus
-subj17_shorten_mono,all the woollining wasn't worn,all > not,1809.424,189.2515073,119.8892624,wool
-subj17_shorten_mono,all the woollining wasn't worn,not > all,1730.385,168.689678,103.9459975,wool
-subj17_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2139.693,159.6725167,115.0381313,musical 
-subj17_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1964.679,255.0787465,127.2270948,musical 
-subj17_shorten_mono,all the moms didn't allow eyeliner,not > all,2696.904,220.7336817,114.9699448,eyeliner
-subj17_shorten_mono,all the moms didn't allow eyeliner,all > not,2856.688,229.8946302,106.4168993,eyeliner
-subj18_shorten_mono,all the mom didn't allow eyeliner,all > not,1731.615,231.4102322,180.8455669,eyeliner
-subj18_shorten_mono,all the mom didn't allow eyeliner,not > all,1639.114,260.8023239,196.1655753,eyeliner
-subj18_shorten_mono,Neil didn't enjoy most musicals,not > most/many,2032.426,393.5466613,208.6480763,musical 
-subj18_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1622.177,331.0924955,231.6096517,musical 
-subj18_shorten_mono,all the woollining wasn't worn,not > all,1493.9,256.7553394,205.0098374,wool
-subj18_shorten_mono,all the woollining wasn't worn,all > not,1603.07,288.8676828,227.684769,wool
-subj18_shorten_mono,Neil doesn't know many alumni,not > most/many,1853.011,296.1818734,201.9403273,alumnus
-subj18_shorten_mono,Neil doesn't know many alumni,most/many > not,1506.701,289.4053143,217.7161915,alumnus
-subj18_shorten_mono,all the magnolias won't bloom,not > all,1551.358,267.9945565,206.3180472,magnolia
-subj18_shorten_mono,all the magnolias won't bloom,all > not,1623.18,321.1358948,212.1861608,magnolia
-subj19_shorten_mono,all the moms didn't allow eyeliner,all > not,2201.995,340.5075507,134.2174599,eyeliner
-subj19_shorten_mono,all the moms didn't allow eyeliner,not > all,1813.215,199.534767,115.0703296,eyeliner
-subj19_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2092.571,234.659729,123.6924053,musical 
-subj19_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2020.288,167.2693856,116.1603321,musical 
-subj19_shorten_mono,all the woollining wasn't worn,not > all,1669.977,210.1942195,122.0218575,wool
-subj19_shorten_mono,all the woollining wasn't worn,all > not,1779.914,156.3616949,119.9976525,wool
-subj19_shorten_mono,Liam doesn't know many alumni,not > most/many,1535.611,156.1277429,111.5354624,alumnus
-subj19_shorten_mono,Liam doesn't know many alumni,most/many > not,1681.539,206.1952122,145.3335444,alumnus
-subj19_shorten_mono,all the magnolias won't bloom,not > all,1908.834,327.5659136,121.545544,magnolia
-subj19_shorten_mono,all the magnolias won't bloom,all > not,1867.963,221.0580356,136.7218216,magnolia
-subj21_shorten_mono,all the moms didn't allow eyeliner,all > not,2347.219,384.7301165,133.9584634,eyeliner
-subj21_shorten_mono,all of the moms didn't allow eyeliner,not > all,2139.435,254.6014516,123.7692486,eyeliner
-subj21_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2950.39,166.641656,127.3435842,musical 
-subj21_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1866.697,156.5778978,121.6320856,musical 
-subj21_shorten_mono,all the woollining wasn't worn,not > all,3084.24,345.8060197,121.4653293,wool
-subj21_shorten_mono,all the woollining wasn't worn,all > not,2088.553,329.0352113,126.3143712,wool
-subj21_shorten_mono,Liam doesn't know many alumni,not > most/many,2854.195,359.4019599,134.1307066,alumnus
-subj21_shorten_mono,Liam doesn't know many alumni,most/many > not,1691.195,151.473972,116.9557185,alumnus
-subj21_shorten_mono,all the magnolias won't bloom,not > all,2132.166,395.2505499,121.0504349,magnolia
-subj21_shorten_mono,all the magnolias won't bloom,all > not,1870.491,244.1795248,127.5409104,magnolia
-subj22_shorten_mono,all the moms didn't allow eyeliner,all > not,2397.98,195.3147356,156.5248549,eyeliner
-subj22_shorten_mono,all the moms didn't allow eyeliner,not > all,2032.191,182.3506592,130.4557278,eyeliner
-subj22_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2284.033,232.3906731,166.3475804,musical 
-subj22_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2367.084,314.252344,162.5671646,musical 
-subj22_shorten_mono,all the woolling wasn't worn,not > all,2048.892,225.5868504,165.5392764,wool
-subj22_shorten_mono,all the woolling wasn't worn,all > not,2004.31,201.4637494,158.5237471,wool
-subj22_shorten_mono,Liam doesn't know many alumni,not > most/many,2194.117,227.1861849,166.7628545,alumnus
-subj22_shorten_mono,Liam doesn't know many alumni,most/many > not,2121.957,225.8223609,148.4960007,alumnus
-subj22_shorten_mono,all the magnolias won't bloom,not > all,1934.746,210.4890905,170.439026,magnolia
-subj22_shorten_mono,all the magnolias won't bloom,all > not,1974.841,223.7539156,166.9451485,magnolia
-subj23_shorten_mono,all the moms didn't allow eyeliner,all > not,1906.811,249.9246472,184.8300286,eyeliner
-subj23_shorten_mono,all the moms didn't allow eyeliner,not > all,1909.281,305.8357629,191.5753209,eyeliner
-subj23_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1995.741,278.5898487,219.6710313,musical 
-subj23_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2054.641,233.4078615,191.9708494,musical 
-subj23_shorten_mono,all the woollining wasn't worn,not > all,1646.121,271.4914294,214.2629649,wool
-subj23_shorten_mono,all the woollining wasn't worn,all > not,1642.536,269.2833018,203.1791148,wool
-subj23_shorten_mono,Liam doesn't know many alumni,not > most/many,1656.366,312.804861,211.6077257,alumnus
-subj23_shorten_mono,Liam doesn't know many alumni,most/many > not,1675.982,257.7348082,215.417752,alumnus
-subj23_shorten_mono,all the magnolias won't bloom,not > all,1586.623,231.8747936,192.6965148,magnolia
-subj23_shorten_mono,all the magnolias won't bloom,all > not,1489.199,288.3406362,215.8688933,magnolia
-subj24_shorten_mono,all the moms didn't allow eyeliner,all > not,2013.946,324.770585,211.8531754,eyeliner
-subj24_shorten_mono,all the moms didn't allow eyeliner,not > all,2195.156,351.2010039,253.3123201,eyeliner
-subj24_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2541.157,409.8239987,244.6775865,musical 
-subj24_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2099.901,370.7877391,238.2902913,musical 
-subj24_shorten_mono,all the woollining wasn't worn,not > all,2039.267,370.1210963,249.1388631,wool
-subj24_shorten_mono,all the woollining wasn't worn,all > not,1847.513,422.8315428,243.3200173,wool
-subj24_shorten_mono,Liam doesn't know many alumni,not > most/many,1996.842,410.2713149,223.0370983,alumnus
-subj24_shorten_mono,Liam doesn't know many alumni,most/many > not,1969.796,409.3913279,241.3373738,alumnus
-subj24_shorten_mono,all the magnolias won't bloom,not > all,1622.892,354.6886102,252.4071768,magnolia
-subj24_shorten_mono,all the magnolias won't bloom,all > not,1812.444,420.1256188,209.8504242,magnolia
-subj25_shorten_mono,all the moms didn't allow eyeliner,all > not,2274.635,217.5051421,140.6507576,eyeliner
-subj25_shorten_mono,all the moms didn't allow eyeliner,not > all,2026.406,259.9946788,118.0303401,eyeliner
-subj25_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2374.874,217.1734844,151.4654348,musical 
-subj25_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2232.676,183.0040903,137.2532812,musical 
-subj25_shorten_mono,all the woollining wasn't worn,not > all,1931.883,215.301495,148.5304756,wool
-subj25_shorten_mono,all the woollining wasn't worn,all > not,2105.528,267.2080419,174.0955833,wool
-subj25_shorten_mono,Liam doesn't know many alumni,not > most/many,2211.58,208.2056285,128.3375958,alumnus
-subj25_shorten_mono,Liam doesn't know many alumni,most/many > not,1800.621,155.8684165,121.4702384,alumnus
-subj25_shorten_mono,all the magnolias won't bloom,not > all,1988.823,207.3400174,131.6019699,magnolia
-subj25_shorten_mono,all the magnolias won't bloom,all > not,1808.273,214.7633345,118.2445352,magnolia
-subj26_shorten_mono,all the moms didn't allow eyeliner,all > not,2537.489,396.3056275,257.7409345,eyeliner
-subj26_shorten_mono,all the moms didn't allow eyeliner,not > all,2418.93,380.2356233,182.9765403,eyeliner
-subj26_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2576.531,344.738315,223.6403084,musical 
-subj26_shorten_mono,Neil doens't enjoy most musicals,most/many > not,2665.118,338.9962115,226.0410542,musical 
-subj26_shorten_mono,all the woollining wasn't worn,not > all,2363.026,322.8004876,213.5751418,wool
-subj26_shorten_mono,all the woollining wasn'tworn,all > not,2109.348,418.4338423,222.656602,wool
-subj26_shorten_mono,Liam doesn't know many alumni,not > most/many,2083.444,322.6988301,203.0232189,alumnus
-subj26_shorten_mono,Liam doesn't know many alumni,most/many > not,1998.896,269.4954612,204.6304881,alumnus
-subj26_shorten_mono,all the magnolias won't bloom,not > all,2115.473,334.8881617,230.125617,magnolia
-subj26_shorten_mono,all the magnolias won't bloom,all > not,2204.836,409.1981236,203.2674633,magnolia
-subj27_shorten_mono,all the moms didn't allow eyeliner,all > not,1950.889,258.0130665,194.6144144,eyeliner
-subj27_shorten_mono,all the moms didn't allow eyeliner,not > all,2011.816,237.4491172,190.6395271,eyeliner
-subj27_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2258.032,264.2846498,213.7822019,musical 
-subj27_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2262.631,230.1917393,189.3475072,musical 
-subj27_shorten_mono,all the woollining wasn't worn,not > all,1837.71,253.388676,199.7609117,wool
-subj27_shorten_mono,all the woolling wasn't worn,all > not,1801.194,396.143232,217.8054382,wool
-subj27_shorten_mono,Liam doens't know many alumni,not > most/many,1841.933,257.2888423,197.291715,alumnus
-subj27_shorten_mono,Liam doesn't know many alumni,most/many > not,1787.963,233.2017543,184.8648789,alumnus
-subj27_shorten_mono,all the magnolias won't bloom,not > all,1755.313,259.0666996,206.620055,magnolia
-subj27_shorten_mono,all the magnolias won't bloom,all > not,1668.668,249.0150248,199.4697788,magnolia
-subj28_shorten_mono,all the moms didn't allow eyeliner,all > not,1839.722,232.1674244,130.1290113,eyeliner
-subj28_shorten_mono,all the moms didn't allow eyeliner,not > all,1652.166,236.2847335,158.2572325,eyeliner
-subj28_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2000.647,225.170304,165.9526585,musical 
-subj28_shorten_mono,Neild oens't enjoy most musicals,most/many > not,1850.507,241.0285474,189.4659431,musical 
-subj28_shorten_mono,all the woollining wasn't worn,not > all,1536.184,235.370802,166.7601909,wool
-subj28_shorten_mono,all the woollining wasn't worn,all > not,1526.63,282.2701668,182.825059,wool
-subj28_shorten_mono,Liam doesn't know many alumni,not > most/many,1708.59,263.3681028,166.1962188,alumnus
-subj28_shorten_mono,Liam doesn't know many alumni,most/many > not,1564.019,277.385307,157.0646247,alumnus
-subj28_shorten_mono,all the magnolias won't bloom,not > all,1630.148,354.8930429,137.6864705,magnolia
-subj28_shorten_mono,all the magnolias won't bloom,all > not,1428.72,321.2245473,165.8552948,magnolia
+subject,sentence,context,sentence_length,maxF0,meanF0,F1,F2,F3,keyword,last_word_len
+subj1_shorten_mono,all the moms didn't allow eyeliner,all > not,2099.089,153.4691183,114.878847,369.6110698,1789.320706,2889.320384,eyeliner,500.203
+subj1_shorten_mono,all the moms didn't allow eyeliner,not > all,2157.257,137.5101651,107.0231582,504.6351402,2201.733575,3374.630782,eyeliner,704.18
+subj1_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2341.139,232.3142542,123.7946085,447.4262761,1867.815387,2583.171581,musical ,766.614
+subj1_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2049.643,144.4563896,113.2123673,1248.148454,2148.584862,3693.015923,musical ,768.201
+subj1_shorten_mono,all the woollining wasn't worn,not > all,1814.085,156.9067564,115.1573829,467.7566009,2125.41957,2942.107536,wool,345.613
+subj1_shorten_mono,all the woollining wasn't worn,all > not,1768.958,140.6607223,113.5821897,509.6093339,2306.030163,2907.668525,wool,331.756
+subj1_shorten_mono,Liam doens't know many alumni,not > most/many,1788.922,234.3994691,116.934508,728.9647411,2132.363214,3285.851359,alumnus,625.012
+subj1_shorten_mono,Liam doesn't know many alumni,most/many > not,1916.634,247.5444291,116.5675151,403.1559652,1453.458051,2457.028554,alumnus,684.157
+subj1_shorten_mono,all the magnolias won't bloom,not > all,1564.361,125.4421714,110.425006,438.4721421,1986.608428,2589.239988,magnolia,372.215
+subj1_shorten_mono,all the magnolias won't bloom,all > not,1496.563,265.870124,120.0091443,437.1973762,1636.670176,2779.034024,magnolia,265.278
+subj2_shorten_mono,all the magnolias won't bloom,not > all,1942.716,274.6073686,153.0128091,417.9403963,1557.096655,2623.356998,magnolia,487.895
+subj2_shorten_mono,all the magnolias won't bloom,all > not,1924.387,263.0076103,155.7179643,391.8536354,1755.290877,2389.96702,magnolia,388.328
+subj2_shorten_mono,Liam doesn't know many alumni,most/many > not,2284.741,241.2676673,173.8786792,393.4290933,947.9956578,2455.744972,alumnus,635.048
+subj2_shorten_mono,Liam doesn't know many alumni,not > most/many,2033.393,241.1353453,172.1393064,350.6194113,2041.339066,2422.90663,alumnus,746.561
+subj2_shorten_mono,all the woollining wasn't worn,all > not,1985.759,229.319255,177.5900619,335.094311,2096.766099,2394.382902,wool,498.972
+subj2_shorten_mono,all the woollining wasn't worn,not > all,1833.7,286.4765013,168.4202813,335.805841,1497.897124,2645.756573,wool,513.925
+subj2_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2415.384,246.6261682,169.2898819,527.1047747,1519.985596,2480.734475,musical ,747.803
+subj2_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2382.256,255.9875273,174.3250768,299.3421503,1764.162931,2663.493541,musical ,766.064
+subj2_shorten_mono,all the moms didn't allow eyeliner,not > all,2101.686,269.444033,154.1017852,353.4436826,1385.483622,2576.714132,eyeliner,683.552
+subj2_shorten_mono,all the moms didn't allow eyeliner,all > not,2193.405,238.5270341,152.8767852,353.6461392,1119.957785,2954.095137,eyeliner,624.802
+subj3_shorten_mono,all the magnolias won't bloom,not > all,1808.047,199.709759,111.4512816,329.1325081,1974.629313,2880.804049,magnolia,499.643
+subj3_shorten_mono,all the magnolias won't bloom,all > not,2345.964,167.1202817,103.4476851,418.4816938,1054.857691,3127.365318,magnolia,445.401
+subj3_shorten_mono,Liam doesn't know many alumni,most/many > not,1999.976,164.2550583,110.1439263,858.9399399,1327.990348,3022.638468,alumnus,557.519
+subj3_shorten_mono,Liam doesn't know many alumni,not > most/many,2107.963,181.2314237,133.6102191,509.3418186,1528.849346,2845.547306,alumnus,637.369
+subj3_shorten_mono,all the woollining wasn't worn,all > not,2050.809,163.920167,119.7493183,290.593517,1847.628294,2477.840796,wool,444.772
+subj3_shorten_mono,all the woollining wasn't worn,not > all,2204.673,210.8716592,111.3451581,403.4204506,1730.042113,2915.768597,wool,543.835
+subj3_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,3050.973,257.0855346,178.5669311,517.8319959,2384.310867,3008.263979,musical ,1152.26
+subj3_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2457.324,220.3727435,127.8337254,284.6041082,1611.143799,2730.685178,musical ,780.972
+subj3_shorten_mono,all the moms didn't allow blank eyeliner,not > all,2598.048,237.4741195,112.8178799,644.9319945,1087.108769,2626.13949,eyeliner,644.203
+subj3_shorten_mono,all the moms didn't allow eyeliner,all > not,2415.847,166.3375648,117.0769099,450.3204108,1713.87615,3480.337618,eyeliner,557.113
+subj4_shorten_mono,all the magnolias won't bloom,not > all,1904.17,189.103663,121.9619626,441.9900009,1910.363679,2617.048944,magnolia,410.64
+subj4_shorten_mono,all the magnolias won't bloom,all > not,1687.149,137.2651674,111.4051603,427.9168446,1766.446195,2815.292605,magnolia,402.971
+subj4_shorten_mono,Liam doesn't know many alumni,most/many > not,2121.536,218.1248979,126.7585092,336.9867474,1079.689693,2680.102873,alumnus,669.414
+subj4_shorten_mono,Liam doesn't know many alumni,not > most/many,1722.521,201.8027541,136.2492703,377.8988012,1363.560241,2626.25945,alumnus,571.942
+subj4_shorten_mono,all the woollining wasn't worn,all > not,1911.802,190.0074904,122.4046272,288.0541164,1675.556466,2567.645064,wool,492.944
+subj4_shorten_mono,all the woolling wasn't worn,not > all,1824.244,180.2979191,121.9576445,476.6776859,1787.207126,2654.286704,wool,239.034
+subj4_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2169.13,192.5679381,139.0736048,350.4186061,1325.520847,2797.989888,musical ,792.925
+subj4_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2169.942,186.5733431,134.0983898,633.9448757,860.4362521,2690.363338,musical ,828.984
+subj4_shorten_mono,all the moms didn't allow eyeliner,not > all,2203.779,155.7207073,108.7443508,437.1524928,1125.059783,2678.695196,eyeliner,816.283
+subj4_shorten_mono,all the moms didn't allow eyeliner,all > not,2294.767,179.813621,117.5315529,458.2619628,1215.421353,2719.497966,eyeliner,681.572
+subj5_shorten_mono,all of the magnolias won't bloom,not > all,1987.817,295.2082904,213.0882736,562.4213214,1908.899478,3037.210683,magnolia,352.792
+subj5_shorten_mono,all the magnolias won't bloom,all > not,1468.496,365.3565958,226.4181773,524.4916791,2251.940834,2948.971381,magnolia,309.138
+subj5_shorten_mono,Liam doesn't know many alumni,most/many > not,1748.658,341.9343549,220.9702692,336.5247838,1551.373534,2612.370184,alumnus,606.384
+subj5_shorten_mono,Liam doesn't know many alumni,not > most/many,1969.772,395.2522983,258.8773267,752.7780286,1479.90527,2340.344092,alumnus,802.386
+subj5_shorten_mono,all the woolining wasn't worn,all > not,1734.128,303.582522,225.6283847,853.1821791,2377.789813,3181.532779,wool,352.46
+subj5_shorten_mono,all the woolling wasn't worn,not > all,1807.74,358.7333586,230.8644963,570.0792042,2103.016878,2465.604545,wool,374.35
+subj5_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1921.044,356.2882759,243.1464912,392.0296103,1897.84291,2630.870816,musical ,671.671
+subj5_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2238.158,350.1247174,249.6947183,655.9043678,1337.531033,2952.704853,musical ,775.363
+subj5_shorten_mono,all the moms didn't allow eyeliner,not > all,2104.84,314.753614,210.1704632,761.5083785,2140.508996,3105.352192,eyeliner,562.848
+subj5_shorten_mono,all the moms didn't allow eyeliner,all > not,1785.738,275.1737458,212.1276469,702.927824,1660.767362,2517.5164,eyeliner,636.003
+subj6_shorten_mono,all the magnolias won't bloom,not > all,1496.998,200.7698086,116.6544915,346.8859185,1665.76837,2619.682261,magnolia,279.638
+subj6_shorten_mono,all the magnolias won't bloom,all > not,1633.777,335.6563277,158.9015277,396.8082194,1642.522631,2892.132547,magnolia,287.159
+subj6_shorten_mono,Liam doesn't know many alumnis,most/many > not,1652.405,303.8329962,222.9207182,603.8205108,1462.71785,2749.6454,alumnus,598.914
+subj6_shorten_mono,Liam doesn't know many alumni,not > most/many,1782.123,270.6868416,178.4226157,577.4228596,1606.563108,2408.349588,alumnus,660.637
+subj6_shorten_mono,all the woollining wasn't worn,all > not,1766.578,212.006249,136.3350747,185.5096946,1987.11572,3183.513021,wool,302.798
+subj6_shorten_mono,all the woollining wasn't worn,not > all,1524.521,197.5564468,124.2183078,511.1038621,1579.055184,2151.866108,wool,406.269
+subj6_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2072.973,260.1835252,169.4991437,600.4146736,1104.968328,2817.223507,musical ,867.49
+subj6_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2047.627,202.5285839,164.1857392,411.2354993,1052.089526,3008.917199,musical ,777.473
+subj6_shorten_mono,all the moms didn't allow eyeliner,not > all,1754.942,335.5321338,201.1494849,295.2598857,1388.12102,2590.45725,eyeliner,574.314
+subj6_shorten_mono,all the moms didn't allow eyeliner,all > not,2044.452,327.1105128,145.9341171,406.4586095,1132.552028,2886.854374,eyeliner,585.311
+subj7_shorten_mono,all the magnolias won't bloom,not > all,1581.772,248.9463189,185.426057,682.0425579,1075.697829,2597.300086,magnolia,244.474
+subj7_shorten_mono,all the magnolias won't bloom,all > not,1664.256,267.7214808,216.7024667,499.835134,1901.764291,2931.489376,magnolia,330.975
+subj7_shorten_mono,Liam doesn't know many alumni,most/many > not,1714.471,272.4163821,218.2868821,589.6658344,1127.431587,2727.15051,alumnus,583.146
+subj7_shorten_mono,Liam doesn't know many alumni,not > most/many,1601.906,335.5865181,202.4281225,816.370557,1961.479644,2696.838747,alumnus,500.385
+subj7_shorten_mono,all the woollining wasn't worn,all > not,1788.965,379.6057373,260.8234256,580.4431844,2224.926129,2911.623746,wool,433.08
+subj7_shorten_mono,all the woollining wasn't worn,not > all,1665.957,289.0011671,198.5129146,752.0925906,2258.725883,2782.546925,wool,452.92
+subj7_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1786.364,281.9863977,202.675057,610.2079353,1345.992427,2742.620073,musical ,678.264
+subj7_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1843.355,250.9770065,194.4589078,607.3115493,1200.123526,2882.770614,musical ,704.377
+subj7_shorten_mono,all the moms didn't allow eyeliner,not > all,1836.848,401.840051,191.8571708,519.1509065,1947.26074,2768.040561,eyeliner,605.509
+subj7_shorten_mono,all the moms didn't allow eyeliner,all > not,2194.177,271.6213426,188.56768,512.3047211,1819.096278,2761.340165,eyeliner,641.322
+subj9_shorten_mono,all the magnolias won't bloom,not > all,2642.67,200.0670871,147.649145,437.1222163,1959.202695,3657.165336,magnolia,527.981
+subj9_shorten_mono,all the magnolias won't bloom,all > not,2602.624,210.1933793,158.2946641,427.7780425,1593.948108,2386.06478,magnolia,520.86
+subj9_shorten_mono,Liam doesn't know many alumni,most/many > not,2240.763,318.7462945,170.3768862,628.5651555,919.9578947,2409.705159,alumnus,627.856
+subj9_shorten_mono,Liam doesn't know many alumni,not > most/many,2129.343,268.1889324,145.5030356,469.5363924,996.9481897,2430.683128,alumnus,571.282
+subj9_shorten_mono,all the woollining wasn't worn,all > not,2700.081,177.9364884,142.7180028,656.1108333,1143.999755,2365.84644,wool,447.666
+subj9_shorten_mono,all the woollining wasn't worn,not > all,2165.054,315.5704405,151.6585212,411.168742,1590.594611,2297.077617,wool,523.577
+subj9_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,3018.719,248.8112943,149.9759631,505.2950955,1797.104633,2150.841389,musical ,954.099
+subj9_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2549.101,206.6020061,154.0312551,387.3119644,1008.329152,2420.762961,musical ,747.44
+subj9_shorten_mono,all the moms didn't allow eyeliner,not > all,2729.174,316.7279467,150.7212781,343.5517387,1354.131613,2225.584101,eyeliner,704.936
+subj9_shorten_mono,all the moms didn't allow eyeliner,all > not,2382.358,316.7377961,153.3564046,419.0495269,1778.819382,2396.031144,eyeliner,701.15
+subj11_shorten_mono,all the magnolias won't bloom,not > all,1646.858,138.6341167,113.8359361,335.2877164,1839.752869,2515.322825,magnolia,328.743
+subj11_shorten_mono,all the magnolias won't bloom,all > not,2084.519,147.5042863,116.2768352,466.6684719,1736.001688,2661.490505,magnolia,404.922
+subj11_shorten_mono,Liam doesn't know many alumni,most/many > not,1542.816,130.8187314,109.4833694,755.0978402,2478.881473,3903.516348,alumnus,485.379
+subj11_shorten_mono,Liam doesn't know many alumni,not > most/many,2088.348,134.1012399,110.8402689,582.5576072,1294.8157,2715.150768,alumnus,559.899
+subj11_shorten_mono,all the woollining wasn't worn,all > not,1941.192,142.3482414,119.1910068,419.3929508,1332.509913,2443.080037,wool,468.714
+subj11_shorten_mono,all the woollining wasn't worn,not > all,1886.706,135.7875409,117.4741707,303.4015589,2117.679047,2315.720822,wool,358.066
+subj11_shorten_mono,Neil doens't enjoy most musicals,most/many > not,2087.487,145.1230784,110.1625985,370.9988845,1746.393235,2501.616701,musical ,755.629
+subj11_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2787.149,142.0710706,125.0280784,1371.280942,2238.179389,3376.514006,musical ,832.79
+subj11_shorten_mono,all the moms didn't allow yeliner,not > all,1889.271,144.0410701,93.84237246,356.9060416,1871.516868,2543.871198,eyeliner,412.336
+subj11_shorten_mono,all the moms didn't allow eyeliner,all > not,2973.6,158.0280925,116.6948699,857.5306824,2091.679523,3562.581066,eyeliner,634.433
+subj12_shorten_mono,all the magnolias won't bloom,not > all,1890.156,229.9310202,185.2204345,566.3097811,1671.483361,2767.62032,magnolia,428.463
+subj12_shorten_mono,all the magnolias won't bloom,all > not,1778.585,282.2154207,184.3934381,532.3960516,1707.989076,2951.632595,magnolia,409.348
+subj12_shorten_mono,Liam doesn't know many alumni,most/many > not,1927.347,337.2668409,203.8803084,387.0384428,1246.233173,2626.669758,alumnus,680.369
+subj12_shorten_mono,Liam doesn't know many alumni,not > most/many,1586.069,252.1726238,221.8283574,749.1631018,2121.242526,2855.644146,alumnus,590.839
+subj12_shorten_mono,all the woollining wasn't worn,all > not,1625.447,241.7689981,201.2695488,606.8911496,1724.890397,2792.611864,wool,408.684
+subj12_shorten_mono,all the woollining wasn't worn,not > all,2362.702,288.9028548,229.6672673,867.7666091,1490.422312,3025.073374,wool,434.926
+subj12_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2817.733,251.3711484,198.4081144,416.9674627,1903.541074,2599.26124,musical ,1022.75
+subj12_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2349.57,230.3616168,198.1018483,391.470047,1451.253654,2574.077534,musical ,864.598
+subj12_shorten_mono,all the moms didn't allow eyeliner,not > all,2197.574,236.3121175,185.5200242,651.1721863,1471.280212,3476.973782,eyeliner,740.578
+subj12_shorten_mono,all the moms didn't allow eyeliner,all > not,2288.314,210.3630396,172.6055733,505.6554678,1524.915227,3091.835997,eyeliner,673.806
+subj13_shorten_mono,all the magnolias won't bloom,not > all,1210.776,385.4834043,235.1796082,511.7368419,1791.668802,2784.657984,magnolia,321.016
+subj13_shorten_mono,all the magnolias won't bloom,all > not,1378.38,255.7188662,207.7464833,567.9288178,1910.480635,2676.114024,magnolia,325.371
+subj13_shorten_mono,Liam doesn't know many alumni,most/many > not,1533.124,299.6217297,210.1486953,404.8738992,1487.622525,2688.864988,alumnus,504.056
+subj13_shorten_mono,Liam doesn't know many alumni,not > most/many,1402.939,412.559538,233.225231,481.3635649,1800.821306,2742.617012,alumnus,543.454
+subj13_shorten_mono,all the woollining wasn't worn,all > not,1721.634,413.2358562,287.7685447,634.0250645,2760.859536,3053.263939,wool,506.836
+subj13_shorten_mono,all the woollining wasn't worn,not > all,1593.905,330.2119486,224.2871637,482.6413353,2206.779126,3372.731723,wool,476.968
+subj13_shorten_mono,Neil doesn't enjoymost musicals,most/many > not,1678.728,292.6951114,218.1589448,802.5844992,1158.909884,2492.630955,musical ,654.076
+subj13_shorten_mono,Neil doesn't enjoymost musicals,not > most/many,1625.699,423.3117472,241.2165434,551.4745281,1227.698763,2818.158012,musical ,658.96
+subj13_shorten_mono,all the moms didn't allow eyeliner,not > all,1619.731,274.9752707,223.7545654,498.2671632,1295.411639,3242.269011,eyeliner,533.653
+subj13_shorten_mono,all the moms didn't allow eyeliner,all > not,1517.827,273.8802287,211.3915931,618.2490837,1196.163915,3269.642649,eyeliner,576.56
+subj14_shorten_mono,all the magnolias won't bloom,not > all,6259.863,197.2890738,152.5999331,1062.053973,2037.219395,3135.012899,magnolia,401.73
+subj14_shorten_mono,all the magnolias won't bloom,all > not,1871.526,180.493114,151.7759657,485.539034,1672.400254,3102.206324,magnolia,514.192
+subj14_shorten_mono,Liam doesn't know any alumni,most/many > not,1703.486,310.1532317,181.6915428,458.4416569,1411.800935,2935.619089,alumnus,597.669
+subj14_shorten_mono,Liam doesn't know many alumni,not > most/many,1710.626,314.4116465,195.7021565,571.0446315,2366.170289,3179.609409,alumnus,772.745
+subj14_shorten_mono,all the woollining wasn't worn,all > not,2388.101,327.0824842,194.2892329,444.8870036,1941.903528,2734.656138,wool,621.677
+subj14_shorten_mono,all the woollining wasn't worn,not > all,1824.949,261.8175646,171.1675347,388.4866902,1891.575368,2478.559328,wool,587.966
+subj14_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2210.264,216.2624488,170.3647807,473.3678472,886.5583904,2863.783363,musical ,796.005
+subj14_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1778.373,277.9874323,188.5104147,693.8035364,2169.332598,3529.345114,musical ,655.246
+subj14_shorten_mono,all the moms didn't allow eyeliner,not > all,1956.21,220.3216265,162.5551677,653.0233876,1212.867332,3045.127664,eyeliner,708.671
+subj14_shorten_mono,all the moms didn't allow eyeliner,all > not,2007.021,210.3307656,164.2083857,872.6871541,1077.2849,2925.343437,eyeliner,686.468
+subj15_shorten_mono,all the magnolias won't bloom,not > all,2106.498,331.7208401,110.4418296,458.5349563,1734.170944,2652.456677,magnolia,384.127
+subj15_shorten_mono,all the magnolias won't bloom,all > not,1877.172,152.9675049,109.1527834,560.5439941,1817.16808,2817.51278,magnolia,359.129
+subj15_shorten_mono,Liam doesn't know many alumni,most/many > not,1879.524,154.7940553,115.0755241,609.5682264,1965.797027,2731.97301,alumnus,746.309
+subj15_shorten_mono,Liam doesn't know many alumni,not > most/many,1806.601,188.8305854,121.7512993,582.9033589,1168.659561,2671.650268,alumnus,582.307
+subj15_shorten_mono,all the woollining wasn't worn,all > not,2180.624,335.6046795,129.7358542,429.0824739,2452.631144,2596.324234,wool,528.637
+subj15_shorten_mono,all the woollining wasn't worn,not > all,2013.603,177.0715465,108.4145932,790.7396424,2064.520805,2935.1853,wool,351.558
+subj15_shorten_mono,Neil doesn't enjoy musicals,most/many > not,1856,161.224249,129.319329,648.2782784,1334.55011,2654.495274,musical ,829.149
+subj15_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2211.213,191.9136375,112.1918705,605.4585285,1211.59523,2583.661629,musical ,466.89
+subj15_shorten_mono,all the moms didn't allow eyeliner,not > all,2954.57,159.956586,113.9638526,688.4551466,1812.260116,2809.965519,eyeliner,612.75
+subj15_shorten_mono,all the moms didn't allow eyeliner,all > not,2653.27,298.8486514,127.251628,793.4397563,1849.258002,3066.981386,eyeliner,550.974
+subj16_shorten_mono,all the magnolias won't bloom,not > all,1642.309,331.873942,224.6229195,474.2861163,2223.093756,2770.539732,magnolia,432.043
+subj16_shorten_mono,all the magnolias won't bloom,all > not,1727.562,277.5939006,237.8473327,450.9183075,1881.586839,3250.927498,magnolia,493.052
+subj16_shorten_mono,Liam doesn't know many alumni,most/many > not,1933.317,416.6038609,230.7283461,613.8142429,1231.713533,2800.369218,alumnus,642.464
+subj16_shorten_mono,Liam doesn't know many alumni,not > most/many,1994.789,397.3605225,274.7817698,406.8641706,1566.02172,2720.431741,alumnus,651.129
+subj16_shorten_mono,all the woolling wasn't worn,all > not,1833.426,324.677251,255.6359556,460.5123939,1892.68243,2819.857426,wool,635.33
+subj16_shorten_mono,all the woollining wasn't worn,not > all,1662.341,399.1837947,218.5185997,491.2274329,1924.641939,2827.466308,wool,452.234
+subj16_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2043.701,307.8797075,223.6233674,397.7100957,1677.393625,2577.965401,musical ,840.245
+subj16_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2252.308,358.1659043,265.9395644,614.5531005,1211.147527,3059.713257,musical ,811.613
+subj16_shorten_mono,all the moms didn't allow eyeliner,not > all,1994.809,318.1116026,225.9536301,392.2437361,1807.382131,2921.777314,eyeliner,655.846
+subj16_shorten_mono,all the moms didn't allow eyeliner,all > not,1877.467,323.0101938,211.0810133,476.3333379,1204.722238,3160.668513,eyeliner,690.151
+subj17_shorten_mono,all the magnolias won't bloom,not > all,1477.875,212.1173222,118.3748407,368.9982389,1772.403676,2618.878681,magnolia,377.352
+subj17_shorten_mono,all the magnolias won't bloom,all > not,1549.134,241.4211618,123.5810071,372.6192283,1773.116653,2992.730718,magnolia,414.558
+subj17_shorten_mono,Liam doesn't know many alumni,most/many > not,1676.752,232.4913423,115.3646436,641.0722783,1143.644696,2588.995689,alumnus,440.12
+subj17_shorten_mono,Liam doesn't know many alumni,not > most/many,1857.412,152.0454889,110.6106049,549.3350478,2022.177111,2828.878135,alumnus,684.386
+subj17_shorten_mono,all the woollining wasn't worn,all > not,1809.424,189.2515073,119.8892624,287.2737034,2157.08344,2446.58394,wool,494.717
+subj17_shorten_mono,all the woollining wasn't worn,not > all,1730.385,168.689678,103.9459975,429.4672683,1950.127887,2748.175462,wool,330.607
+subj17_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2139.693,159.6725167,115.0381313,422.5058155,1701.16596,2540.855957,musical ,753.9
+subj17_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1964.679,255.0787465,127.2270948,545.5256619,795.1060057,2928.796715,musical ,781.54
+subj17_shorten_mono,all the moms didn't allow eyeliner,not > all,2696.904,220.7336817,114.9699448,595.7967012,1120.32292,2573.240792,eyeliner,586.636
+subj17_shorten_mono,all the moms didn't allow eyeliner,all > not,2856.688,229.8946302,106.4168993,711.0669344,1180.145117,2665.184294,eyeliner,810.369
+subj18_shorten_mono,all the mom didn't allow eyeliner,all > not,1731.615,231.4102322,180.8455669,379.4660464,1659.045371,2677.215024,eyeliner,539.444
+subj18_shorten_mono,all the mom didn't allow eyeliner,not > all,1639.114,260.8023239,196.1655753,425.7006737,1465.773795,2630.178065,eyeliner,506.767
+subj18_shorten_mono,Neil didn't enjoy most musicals,not > most/many,2032.426,393.5466613,208.6480763,690.1590503,969.37751,2971.854162,musical ,681.239
+subj18_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1622.177,331.0924955,231.6096517,408.4444081,1522.125474,2718.027098,musical ,642.347
+subj18_shorten_mono,all the woollining wasn't worn,not > all,1493.9,256.7553394,205.0098374,416.9253906,1970.937525,2722.074174,wool,394.587
+subj18_shorten_mono,all the woollining wasn't worn,all > not,1603.07,288.8676828,227.684769,394.4376941,1791.507115,2778.031808,wool,456.085
+subj18_shorten_mono,Neil doesn't know many alumni,not > most/many,1853.011,296.1818734,201.9403273,415.4411543,1942.445539,2844.504112,alumnus,660.764
+subj18_shorten_mono,Neil doesn't know many alumni,most/many > not,1506.701,289.4053143,217.7161915,363.9624365,1658.633631,2855.370134,alumnus,563.599
+subj18_shorten_mono,all the magnolias won't bloom,not > all,1551.358,267.9945565,206.3180472,347.328731,1615.285392,2658.115094,magnolia,440.171
+subj18_shorten_mono,all the magnolias won't bloom,all > not,1623.18,321.1358948,212.1861608,381.4083733,1639.076279,2681.938117,magnolia,461.255
+subj19_shorten_mono,all the moms didn't allow eyeliner,all > not,2201.995,340.5075507,134.2174599,258.6376073,1805.49074,2823.744114,eyeliner,668.99
+subj19_shorten_mono,all the moms didn't allow eyeliner,not > all,1813.215,199.534767,115.0703296,292.1414437,1849.528636,2749.71812,eyeliner,512.745
+subj19_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2092.571,234.659729,123.6924053,471.1613202,974.0739771,2618.963511,musical ,861.15
+subj19_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2020.288,167.2693856,116.1603321,569.0928626,1805.43444,2692.650628,musical ,557.938
+subj19_shorten_mono,all the woollining wasn't worn,not > all,1669.977,210.1942195,122.0218575,740.8253915,1501.72023,2943.360496,wool,410.296
+subj19_shorten_mono,all the woollining wasn't worn,all > not,1779.914,156.3616949,119.9976525,237.1809036,2259.806238,3145.090447,wool,415.095
+subj19_shorten_mono,Liam doesn't know many alumni,not > most/many,1535.611,156.1277429,111.5354624,679.8048593,1833.798874,2632.708662,alumnus,603.667
+subj19_shorten_mono,Liam doesn't know many alumni,most/many > not,1681.539,206.1952122,145.3335444,668.0553046,1635.999158,3007.312978,alumnus,491.725
+subj19_shorten_mono,all the magnolias won't bloom,not > all,1908.834,327.5659136,121.545544,482.765826,1733.977944,2653.555189,magnolia,350.096
+subj19_shorten_mono,all the magnolias won't bloom,all > not,1867.963,221.0580356,136.7218216,397.0926326,2093.006612,3463.332766,magnolia,489.697
+subj21_shorten_mono,all the moms didn't allow eyeliner,all > not,2347.219,384.7301165,133.9584634,435.1005081,1899.010123,2586.464388,eyeliner,679.873
+subj21_shorten_mono,all of the moms didn't allow eyeliner,not > all,2139.435,254.6014516,123.7692486,901.2444692,2101.586689,3049.457395,eyeliner,603.306
+subj21_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2950.39,166.641656,127.3435842,699.2137656,1112.948578,2655.747504,musical ,845.383
+subj21_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,1866.697,156.5778978,121.6320856,413.8136123,1185.236322,2593.069027,musical ,743.376
+subj21_shorten_mono,all the woollining wasn't worn,not > all,3084.24,345.8060197,121.4653293,866.0681619,1998.590328,3255.602348,wool,512.498
+subj21_shorten_mono,all the woollining wasn't worn,all > not,2088.553,329.0352113,126.3143712,501.9925895,2160.702938,2620.84165,wool,486.464
+subj21_shorten_mono,Liam doesn't know many alumni,not > most/many,2854.195,359.4019599,134.1307066,239.0116133,1658.930425,2419.396281,alumnus,857.712
+subj21_shorten_mono,Liam doesn't know many alumni,most/many > not,1691.195,151.473972,116.9557185,532.3642436,1089.516746,2551.063643,alumnus,550.672
+subj21_shorten_mono,all the magnolias won't bloom,not > all,2132.166,395.2505499,121.0504349,619.1172874,1217.811094,2697.418286,magnolia,440.963
+subj21_shorten_mono,all the magnolias won't bloom,all > not,1870.491,244.1795248,127.5409104,469.8415592,1353.617449,3194.699994,magnolia,420.873
+subj22_shorten_mono,all the moms didn't allow eyeliner,all > not,2397.98,195.3147356,156.5248549,492.5329978,2231.911428,3063.092039,eyeliner,558.778
+subj22_shorten_mono,all the moms didn't allow eyeliner,not > all,2032.191,182.3506592,130.4557278,894.5325383,1769.95064,3014.062986,eyeliner,564.074
+subj22_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2284.033,232.3906731,166.3475804,631.9209026,1394.469098,3085.433792,musical ,834.028
+subj22_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2367.084,314.252344,162.5671646,713.9245938,1832.935918,2669.204585,musical ,769.181
+subj22_shorten_mono,all the woolling wasn't worn,not > all,2048.892,225.5868504,165.5392764,648.0294467,2168.374346,2874.021172,wool,547.793
+subj22_shorten_mono,all the woolling wasn't worn,all > not,2004.31,201.4637494,158.5237471,968.9212931,2593.583519,3168.92323,wool,399.635
+subj22_shorten_mono,Liam doesn't know many alumni,not > most/many,2194.117,227.1861849,166.7628545,377.1300249,1444.721287,2561.592631,alumnus,784.127
+subj22_shorten_mono,Liam doesn't know many alumni,most/many > not,2121.957,225.8223609,148.4960007,652.8436872,1270.156154,2277.638863,alumnus,737.133
+subj22_shorten_mono,all the magnolias won't bloom,not > all,1934.746,210.4890905,170.439026,633.8837183,2165.587237,2959.792745,magnolia,413.946
+subj22_shorten_mono,all the magnolias won't bloom,all > not,1974.841,223.7539156,166.9451485,546.5212108,2518.360222,3131.51519,magnolia,306.079
+subj23_shorten_mono,all the moms didn't allow eyeliner,all > not,1906.811,249.9246472,184.8300286,590.1986373,1793.479394,2715.862173,eyeliner,629.84
+subj23_shorten_mono,all the moms didn't allow eyeliner,not > all,1909.281,305.8357629,191.5753209,792.787952,1360.280371,2590.267893,eyeliner,533.512
+subj23_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,1995.741,278.5898487,219.6710313,602.0983058,1212.815345,2957.804992,musical ,733.579
+subj23_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2054.641,233.4078615,191.9708494,684.8008361,1741.891925,2582.203869,musical ,654.969
+subj23_shorten_mono,all the woollining wasn't worn,not > all,1646.121,271.4914294,214.2629649,611.4388397,2305.347222,2951.163558,wool,478.836
+subj23_shorten_mono,all the woollining wasn't worn,all > not,1642.536,269.2833018,203.1791148,661.107014,2166.302593,2862.556857,wool,480.579
+subj23_shorten_mono,Liam doesn't know many alumni,not > most/many,1656.366,312.804861,211.6077257,747.5106961,2030.154758,3175.563425,alumnus,660.971
+subj23_shorten_mono,Liam doesn't know many alumni,most/many > not,1675.982,257.7348082,215.417752,563.6818842,1707.070176,2723.828525,alumnus,616.677
+subj23_shorten_mono,all the magnolias won't bloom,not > all,1586.623,231.8747936,192.6965148,618.6087392,2170.693925,2921.869269,magnolia,333.499
+subj23_shorten_mono,all the magnolias won't bloom,all > not,1489.199,288.3406362,215.8688933,495.1926522,1854.234922,3038.05014,magnolia,403.174
+subj24_shorten_mono,all the moms didn't allow eyeliner,all > not,2013.946,324.770585,211.8531754,843.4778733,1808.276587,3047.440691,eyeliner,500.004
+subj24_shorten_mono,all the moms didn't allow eyeliner,not > all,2195.156,351.2010039,253.3123201,535.146505,1959.56412,3156.423481,eyeliner,619.043
+subj24_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2541.157,409.8239987,244.6775865,429.1212927,1572.122778,2833.873537,musical ,849.695
+subj24_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2099.901,370.7877391,238.2902913,403.890712,2442.785176,2551.97306,musical ,767.114
+subj24_shorten_mono,all the woollining wasn't worn,not > all,2039.267,370.1210963,249.1388631,436.5037452,1528.707198,2904.52225,wool,509.8
+subj24_shorten_mono,all the woollining wasn't worn,all > not,1847.513,422.8315428,243.3200173,528.0377382,1518.313466,2983.272114,wool,441.167
+subj24_shorten_mono,Liam doesn't know many alumni,not > most/many,1996.842,410.2713149,223.0370983,406.4716268,1586.219323,2436.502162,alumnus,631.492
+subj24_shorten_mono,Liam doesn't know many alumni,most/many > not,1969.796,409.3913279,241.3373738,915.1693186,995.0780985,2995.003356,alumnus,623.792
+subj24_shorten_mono,all the magnolias won't bloom,not > all,1622.892,354.6886102,252.4071768,475.211942,2587.990725,3263.280113,magnolia,370.212
+subj24_shorten_mono,all the magnolias won't bloom,all > not,1812.444,420.1256188,209.8504242,511.1931926,2665.863809,3181.945448,magnolia,446.862
+subj25_shorten_mono,all the moms didn't allow eyeliner,all > not,2274.635,217.5051421,140.6507576,609.1356912,1708.559532,2959.612189,eyeliner,713.286
+subj25_shorten_mono,all the moms didn't allow eyeliner,not > all,2026.406,259.9946788,118.0303401,418.5799463,1698.634138,2691.562305,eyeliner,636.171
+subj25_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2374.874,217.1734844,151.4654348,581.2096298,1721.429535,2598.368367,musical ,728.175
+subj25_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2232.676,183.0040903,137.2532812,609.5776954,1648.573353,2619.372737,musical ,675.074
+subj25_shorten_mono,all the woollining wasn't worn,not > all,1931.883,215.301495,148.5304756,550.1445318,1864.77018,2953.924992,wool,428.615
+subj25_shorten_mono,all the woollining wasn't worn,all > not,2105.528,267.2080419,174.0955833,602.6361708,1971.860335,2983.60004,wool,500.223
+subj25_shorten_mono,Liam doesn't know many alumni,not > most/many,2211.58,208.2056285,128.3375958,557.1832192,1091.611247,3132.783225,alumnus,671.727
+subj25_shorten_mono,Liam doesn't know many alumni,most/many > not,1800.621,155.8684165,121.4702384,478.7289813,1022.49671,2637.384168,alumnus,603.443
+subj25_shorten_mono,all the magnolias won't bloom,not > all,1988.823,207.3400174,131.6019699,528.8447369,1849.815857,2903.356565,magnolia,464.634
+subj25_shorten_mono,all the magnolias won't bloom,all > not,1808.273,214.7633345,118.2445352,575.9938596,1971.261484,2714.102673,magnolia,543.111
+subj26_shorten_mono,all the moms didn't allow eyeliner,all > not,2537.489,396.3056275,257.7409345,545.0796495,1660.004501,3081.630716,eyeliner,728.346
+subj26_shorten_mono,all the moms didn't allow eyeliner,not > all,2418.93,380.2356233,182.9765403,612.5704313,1885.101017,3062.150117,eyeliner,619.448
+subj26_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2576.531,344.738315,223.6403084,849.0405178,1570.063364,2353.571616,musical ,785.488
+subj26_shorten_mono,Neil doens't enjoy most musicals,most/many > not,2665.118,338.9962115,226.0410542,629.7694612,1385.493738,2711.335119,musical ,806.155
+subj26_shorten_mono,all the woollining wasn't worn,not > all,2363.026,322.8004876,213.5751418,426.4808532,2566.5763,3183.83232,wool,633.988
+subj26_shorten_mono,all the woollining wasn'tworn,all > not,2109.348,418.4338423,222.656602,473.776974,1588.013891,2710.224886,wool,544.43
+subj26_shorten_mono,Liam doesn't know many alumni,not > most/many,2083.444,322.6988301,203.0232189,645.6558392,1036.621692,2766.962465,alumnus,740.142
+subj26_shorten_mono,Liam doesn't know many alumni,most/many > not,1998.896,269.4954612,204.6304881,803.1068687,890.7846377,2948.987093,alumnus,670.642
+subj26_shorten_mono,all the magnolias won't bloom,not > all,2115.473,334.8881617,230.125617,442.3003701,1845.882235,2939.865328,magnolia,557.439
+subj26_shorten_mono,all the magnolias won't bloom,all > not,2204.836,409.1981236,203.2674633,515.1711541,2084.91687,3095.707829,magnolia,688.237
+subj27_shorten_mono,all the moms didn't allow eyeliner,all > not,1950.889,258.0130665,194.6144144,770.3452195,1301.593361,2727.617472,eyeliner,681.105
+subj27_shorten_mono,all the moms didn't allow eyeliner,not > all,2011.816,237.4491172,190.6395271,479.9305657,1701.12723,2901.221458,eyeliner,565.91
+subj27_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2258.032,264.2846498,213.7822019,418.0170914,1539.547986,2601.452316,musical ,746.134
+subj27_shorten_mono,Neil doesn't enjoy most musicals,most/many > not,2262.631,230.1917393,189.3475072,599.6905586,1165.060159,2561.113425,musical ,641.895
+subj27_shorten_mono,all the woollining wasn't worn,not > all,1837.71,253.388676,199.7609117,573.6484397,2460.141156,3195.869158,wool,357.156
+subj27_shorten_mono,all the woolling wasn't worn,all > not,1801.194,396.143232,217.8054382,550.0798095,2571.418766,3156.024473,wool,441.303
+subj27_shorten_mono,Liam doens't know many alumni,not > most/many,1841.933,257.2888423,197.291715,682.7998313,1396.449715,3013.545607,alumnus,498.529
+subj27_shorten_mono,Liam doesn't know many alumni,most/many > not,1787.963,233.2017543,184.8648789,758.3226181,1283.226359,2802.304915,alumnus,556.352
+subj27_shorten_mono,all the magnolias won't bloom,not > all,1755.313,259.0666996,206.620055,558.9243442,2156.377252,2929.561121,magnolia,317.898
+subj27_shorten_mono,all the magnolias won't bloom,all > not,1668.668,249.0150248,199.4697788,444.6533163,2433.158428,2965.100994,magnolia,274.709
+subj28_shorten_mono,all the moms didn't allow eyeliner,all > not,1839.722,232.1674244,130.1290113,726.0772647,1523.569544,2909.28858,eyeliner,594.779
+subj28_shorten_mono,all the moms didn't allow eyeliner,not > all,1652.166,236.2847335,158.2572325,642.6469206,1254.740285,2721.439243,eyeliner,527.513
+subj28_shorten_mono,Neil doesn't enjoy most musicals,not > most/many,2000.647,225.170304,165.9526585,467.6272554,1253.756586,2788.264664,musical ,709.205
+subj28_shorten_mono,Neild oens't enjoy most musicals,most/many > not,1850.507,241.0285474,189.4659431,655.8391937,1204.364102,2837.281538,musical ,710.485
+subj28_shorten_mono,all the woollining wasn't worn,not > all,1536.184,235.370802,166.7601909,467.3020694,2560.708662,2964.349942,wool,390.901
+subj28_shorten_mono,all the woollining wasn't worn,all > not,1526.63,282.2701668,182.825059,496.9563498,1942.319573,2089.263127,wool,381.899
+subj28_shorten_mono,Liam doesn't know many alumni,not > most/many,1708.59,263.3681028,166.1962188,726.7641624,2126.108891,2960.022568,alumnus,709.419
+subj28_shorten_mono,Liam doesn't know many alumni,most/many > not,1564.019,277.385307,157.0646247,756.2588075,1939.694076,2555.717395,alumnus,623.919
+subj28_shorten_mono,all the magnolias won't bloom,not > all,1630.148,354.8930429,137.6864705,477.0357766,1844.193872,2788.819518,magnolia,345.26
+subj28_shorten_mono,all the magnolias won't bloom,all > not,1428.72,321.2245473,165.8552948,476.7211127,2245.383762,2789.296772,magnolia,253.615
