@@ -8,16 +8,130 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, comment=NA)
 ```
 
-## Intro
+# Intro {#intro}
 
-For the given psycholinguistics experiment data, I have generated this R Markdown file for easier access to the data, codes, and explanations. This file can also generate reports in html/pdf when pressing the "Knit" option in RStudio.
+For the given psycholinguistics experiment data, I have generated this R Markdown file for easier access to the data, codes, and explanations. This file can also generate reports in html/pdf when pressing the "Knit" option in RStudio.  
+(FYI, a R Markdown cheat sheet is included in the folder.)
+  
+Here are the required libraries:
+```{r Libraries, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+```
+<br>
 
-```{r }
+We will be running the following mixed-effect models with variables and parameters -
 
+Language | Independent Variable (Fixed effect) |  Dependent Variable |  Random Effects   | Link            |
+:------: | :---------------------------------: | :-----------------: | :---------------: | :--------------:|
+English | sentence context (scope & negation) | sentence length (ms)| subjects & keywords| [jump](#model1) |
+Japanese | sentence context (scope & negation) | sentence length (ms)| subjects & keywords| [jump](#model2) |
+English | sentence context (scope & negation) | fundamental frequency (Hz)| subjects & keywords| [jump](#model3) |
+Japanese | sentence context (scope & negation) | fundamental frequency (Hz)| subjects & keywords| [jump](#model4) |
+
+# Models
+
+### Context vs SentenceLength, English {#model1}
+###### [back to top](#intro)
+
+First, import the data set.
+```{r message=FALSE}
+data.SenLen.Eng <- read_csv("data/SentenceLengthEnglish.csv")
 ```
 
+The code below shows that the class types of the data are not correct. 
+```{r}
+sapply(data.SenLen.Eng, class)
+```
+Change them from character class to factor class.
+```{r}
+col_target <- c("subject", "sentence", "context", "keyword")
+data.SenLen.Eng[col_target] <- lapply(data.SenLen.Eng[col_target], as.factor)
+```
+  
+Now the mixed-effect model:
+```{r warning=FALSE}
+model.SenLen.Eng<- lmer(data = data.SenLen.Eng, 
+                        sentence_length ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.SenLen.Eng)
+```
+<br>
+From the last section of the "Fixed effects" above, we can see that non of the context level displayed statistical significance in influencing the sentence length. 
 
+### Context vs SentenceLength, Japanese {#model2}
+###### [back to top](#intro)
 
+Import and process the data:
+
+```{r message=FALSE}
+data.SenLen.Jap <- read_csv("data/SentenceLengthJapanese.csv")
+data.SenLen.Jap[col_target] <- lapply(data.SenLen.Jap[col_target], as.factor)
+```
+
+Model:
+
+```{r message=FALSE}
+model.SenLen.Jap <- lmer(data = data.SenLen.Jap, 
+                        sentence_length ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.SenLen.Jap)
+```
+<br>
+
+Similar to the English result, there's no significant correlation between sentence context and sentence length in Japanese.
+
+### Context vs Fundamental Frequency (F0), English {#model3}
+###### [back to top](#intro)
+##### Model for the mean fundamental frequency during the sentence (meanF0):
+```{r message=FALSE}
+model.meanF0.Eng <- lmer(data = data.SenLen.Eng, 
+                        meanF0 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.meanF0.Eng)
+```
+##### Model for the max fundamental frequency during the sentence (maxF0):
+```{r message=FALSE}
+model.maxF0.Eng <- lmer(data = data.SenLen.Eng, 
+                        maxF0 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.maxF0.Eng)
+```
+<br>
+
+For the models above, there's no significant correlation between sentence context and fundamental frequecies in English.
+
+### Context vs Fundamental Frequency(F0), Japanese {#model4}
+###### [back to top](#intro)
+##### Model for the min fundamental frequency during the sentence (minF0):
+```{r message=FALSE}
+model.minF0.Jap <- lmer(data = data.SenLen.Jap, 
+                        minF0 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.minF0.Jap)
+```
+##### Model for the max fundamental frequency during the sentence (maxF0):
+```{r message=FALSE}
+model.maxF0.Jap <- lmer(data = data.SenLen.Jap, 
+                        maxF0 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.maxF0.Jap)
+```
+<br>
+For the models above, there's no significant correlation between sentence context and fundamental frequecies in Japanese
