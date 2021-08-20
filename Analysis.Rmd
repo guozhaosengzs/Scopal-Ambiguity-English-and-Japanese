@@ -44,6 +44,8 @@ Japanese  | sentence context (scope & negation) | second formant (Hz) | subjects
 Japanese  | sentence context (scope & negation) | third formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model14) | |
 English  | sentence context (scope & negation) | gesture length (ms) | subjects & keywords **w/out "wool"**| [jump](#model15) | * |
 Japanese  | sentence context (scope & negation) | gesture length (ms) | subjects & keywords **w/out "wool"**| [jump](#model16) | * |
+English  | sentence context (scope & negation) | last word length (ms) | subjects & keywords **w/out "wool"**| [jump](#model17) |  |
+Japanese  | sentence context (scope & negation) | last word length (ms) | subjects & keywords **w/out "wool"**| [jump](#model18) |  |
 
 # Models
 
@@ -347,7 +349,7 @@ model.GesLen.Eng<- lmer(data = data.GesLen.Eng,
 summary(model.GesLen.Eng)
 ```
 <br>
-Contrary to the results shown so far, when it comes to the gestures by English speakers, changing context "all > not" to "not > all" would decrease the gesture duration by around 354 ms, with a rather good significance. 
+Contrary to the results shown so far, when it comes to the gestures by the English-speaking subjects, changing context "all > not" to "not > all" would decrease the gesture duration by around 354 ms, with a rather good significance. 
 
 
 ### Context vs Gesture Length, Japanese {#model16}
@@ -368,7 +370,48 @@ model.GesLen.Jap<- lmer(data = data.GesLen.Jap,
 summary(model.GesLen.Jap)
 ```
 <br>
-With the Japanese speakers, the significant correlation in the model is on the "most/many > not", and when compared with baseline, the gesture duration is around 114 ms. 
+With the Japanese-speaking subjects, the significant correlation in the model is on the "most/many > not", and when compared with baseline, the gesture duration is around 114 ms. 
 
+
+### Context vs Gesture Length, English {#model17}
+###### [back to top](#intro)
+Import data, remove "wool" variable, and factor the levels .
+```{r message=FALSE}
+data.LastLen.Eng <- read_csv("data/LastLenEng.csv")
+data.LastLen.Eng<- subset(data.LastLen.Eng, keyword != "wool")
+data.LastLen.Eng[col_factor] <- lapply(data.LastLen.Eng[col_factor], as.factor)
+```
+Run the model.
+```{r message=FALSE, warning=FALSE}
+model.LastLen.Eng<- lmer(data = data.LastLen.Eng, 
+                        last_word_len ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.LastLen.Eng)
+```
+<br>
+The model found no statistical significant correlation between the duration of the last word in the sentence and the context of sentence, with English-speaking subjects.
+
+
+### Context vs Gesture Length, Japanese {#model18}
+###### [back to top](#intro)
+Import data, and factor the variable levels.
+```{r message=FALSE, warning=FALSE}
+data.LastLen.Jap <- read_csv("data/LastLenJap.csv")
+data.LastLen.Jap <- subset(data.LastLen.Jap, keyword != "wool")
+data.LastLen.Jap[col_factor] <- lapply(data.LastLen.Jap[col_factor], as.factor)
+```
+Run the model.
+```{r message=FALSE, warning=FALSE}
+model.LastLen.Jap<- lmer(data = data.LastLen.Jap,
+                        last_word_len ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.LastLen.Jap)
+```
+<br>
+The model found no statistical significant correlation between the duration of the last word in the sentence and the context of sentence, with Japanese-speaking subjects.
 
 ###### [back to top](#intro)
