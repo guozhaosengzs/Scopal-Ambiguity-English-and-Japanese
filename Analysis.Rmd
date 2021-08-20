@@ -31,26 +31,27 @@ Language | Independent Variable (Fixed effect) |  Dependent Variable |  Random E
 English | sentence context (scope & negation) | sentence length (ms)| subjects & keywords| [jump](#model1) | |
 Japanese | sentence context (scope & negation) | sentence length (ms)| subjects & keywords| [jump](#model2) | |
 English | sentence context (scope & negation) | fundamental frequency (Hz)| subjects & keywords| [jump](#model3) | |
-Japanese | sentence context (scope & negation) | fundamental frequency (Hz)| subjects & keywords| [jump](#model4) | * |
+Japanese | sentence context (scope & negation) | fundamental frequency (Hz)| subjects & keywords| [jump](#model4) | ** |
 English  | sentence context (scope & negation) | sentence length (ms)| subjects & keywords **w/out "wool"**| [jump](#model5) | |
 Japanese  | sentence context (scope & negation) | sentence length (ms)| subjects & keywords **w/out "wool"**| [jump](#model6) | |
-English  | sentence context (scope & negation) | fundamental frequency (Hz) | subjects & keywords **w/out "wool"**| [jump](#model7) | * |
-Japanese  | sentence context (scope & negation) | fundamental frequency (Hz) | subjects & keywords **w/out "wool"**| [jump](#model8) | * |
+English  | sentence context (scope & negation) | fundamental frequency (Hz) | subjects & keywords **w/out "wool"**| [jump](#model7) | ** |
+Japanese  | sentence context (scope & negation) | fundamental frequency (Hz) | subjects & keywords **w/out "wool"**| [jump](#model8) | ** |
 English  | sentence context (scope & negation) | first formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model9) |  |
 English  | sentence context (scope & negation) | second formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model10) |  |
-English  | sentence context (scope & negation) | third formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model11) | * |
-Japanese  | sentence context (scope & negation) | first formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model12) | |
+English  | sentence context (scope & negation) | third formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model11) | ** |
+Japanese  | sentence context (scope & negation) | first formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model12) | * |
 Japanese  | sentence context (scope & negation) | second formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model13) | |
 Japanese  | sentence context (scope & negation) | third formant (Hz) | subjects & keywords **w/out "wool"**| [jump](#model14) | |
-
+English  | sentence context (scope & negation) | gesture length (ms) | subjects & keywords **w/out "wool"**| [jump](#model15) | * |
+Japanese  | sentence context (scope & negation) | gesture length (ms) | subjects & keywords **w/out "wool"**| [jump](#model16) | * |
 
 # Models
 
-### Context vs SentenceLength, English {#model1}
+### Context vs Sentence Length, English {#model1}
 ###### [back to top](#intro)
 
 First, import the data set.
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 data.SenLen.Eng <- read_csv("data/SentenceLengthEnglish.csv")
 ```
 
@@ -65,7 +66,7 @@ data.SenLen.Eng[col_target] <- lapply(data.SenLen.Eng[col_target], as.factor)
 ```
   
 Now the mixed-effect model:
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.SenLen.Eng<- lmer(data = data.SenLen.Eng, 
                         sentence_length ~ context + 
                           (1 + context||keyword) + 
@@ -76,19 +77,19 @@ summary(model.SenLen.Eng)
 <br>
 From the last section of the "Fixed effects" above, we can see that non of the context level displayed statistical significance in influencing the sentence length. 
 
-### Context vs SentenceLength, Japanese {#model2}
+### Context vs Sentence Length, Japanese {#model2}
 ###### [back to top](#intro)
 
 Import and process the data:
 
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 data.SenLen.Jap <- read_csv("data/SentenceLengthJapanese.csv")
 data.SenLen.Jap[col_target] <- lapply(data.SenLen.Jap[col_target], as.factor)
 ```
 
 Model:
 
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.SenLen.Jap <- lmer(data = data.SenLen.Jap, 
                         sentence_length ~ context + 
                           (1 + context||keyword) + 
@@ -103,7 +104,7 @@ Similar to the English result, there's no significant correlation between senten
 ### Context vs Fundamental Frequency (F0), English {#model3}
 ###### [back to top](#intro)
 ##### Model for the mean fundamental frequency during the sentence (meanF0):
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.meanF0.Eng <- lmer(data = data.SenLen.Eng, 
                         meanF0 ~ context + 
                           (1 + context||keyword) + 
@@ -112,7 +113,7 @@ model.meanF0.Eng <- lmer(data = data.SenLen.Eng,
 summary(model.meanF0.Eng)
 ```
 ##### Model for the max fundamental frequency during the sentence (maxF0):
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.maxF0.Eng <- lmer(data = data.SenLen.Eng, 
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
@@ -127,7 +128,7 @@ For the models above, there's no significant correlation between sentence contex
 ### Context vs Fundamental Frequency(F0), Japanese {#model4}
 ###### [back to top](#intro)
 ##### Model for the mean fundamental frequency during the sentence (meanF0):
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.meanF0.Jap <- lmer(data = data.SenLen.Jap, 
                         meanF0 ~ context + 
                           (1 + context||keyword) + 
@@ -139,7 +140,7 @@ For Japanese, the mean fundamental frequency in the sentence, when using "most/m
 
 
 ##### Model for the max fundamental frequency during the sentence (maxF0):
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.maxF0.Jap <- lmer(data = data.SenLen.Jap, 
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
@@ -155,7 +156,7 @@ For the models above, there's no significant correlation between sentence contex
 ###### [back to top](#intro)
 We realized that the sentences with "wool" in the experiment carry out different emotional suggestions, which make them standout among other sentences used. As a result, here are some models ran previously, with the modification of removing the entries with "wool" as *keyword*, which is part of the random effects. 
 
-#### Context vs SentenceLength, English, w/out "wool" {#model5}
+#### Context vs Sentence Length, English, w/out "wool" {#model5}
 Remove the rows with "wool" as keywords.
 ```{r}
 test.data.SenLen.Eng <- subset(data.SenLen.Eng, keyword != "wool")
@@ -163,7 +164,7 @@ nrow(data.SenLen.Eng) - nrow(test.data.SenLen.Eng)
 ```
 Hence, 50 rows of the English data were removed. 
 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model1.test.SenLen.Eng<- lmer(data = test.data.SenLen.Eng, 
                         sentence_length ~ context + 
                           (1 + context||keyword) + 
@@ -174,15 +175,15 @@ summary(model1.test.SenLen.Eng)
 <br>
 Compared to the previous [model](#model1), aside from changing the "random effect" part of the report, the removal of one category of the random effects actually increased the residuals and std. error of the model, which means the differences sentiments between the "wool" sentences and other keywords was not big enough to cause a fundamental change in the results.  
 
-#### Context vs SentenceLength, Japanese, w/out "wool" {#model6}
+#### Context vs Sentence Length, Japanese, w/out "wool" {#model6}
 Remove the rows with "wool" as keywords.
-```{r}
+```{r message=FALSE, warning=FALSE}
 test.data.SenLen.Jap <- subset(data.SenLen.Jap, keyword != "wool")
 nrow(data.SenLen.Jap) - nrow(test.data.SenLen.Jap)
 ```
 Hence, 40 rows of the Japanese data were removed. 
 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model1.test.SenLen.Jap<- lmer(data = test.data.SenLen.Jap, 
                         sentence_length ~ context + 
                           (1 + context||keyword) + 
@@ -194,7 +195,7 @@ Similar to what was shown above, when compared to the previous [model](#model2),
 
 #### Context vs Fundamental Frequency, English, w/out "wool" {#model7}
 max F0 - 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model2.test.SenLen.Eng<- lmer(data = test.data.SenLen.Eng, 
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
@@ -206,7 +207,7 @@ summary(model2.test.SenLen.Eng)
 The max F0's result showed no significance between the maximum fundamental frequency and different sentence contexts. 
 
 mean F0 - 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model3.test.SenLen.Eng<- lmer(data = test.data.SenLen.Eng, 
                         meanF0 ~ context + 
                           (1 + context||keyword) + 
@@ -219,7 +220,7 @@ Here is a interesting result, because when "wool" is removed from the random eff
 
 #### Context vs Fundamental Frequency, Japanese, w/out "wool" {#model8}
 The Japanese dataset, max F0 - 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model2.test.SenLen.Jap<- lmer(data = test.data.SenLen.Jap, 
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
@@ -231,7 +232,7 @@ summary(model2.test.SenLen.Jap)
 The max F0's result showed no significance between the maximum fundamental frequency and different sentence contexts. 
 
 mean F0 - 
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 model3.test.SenLen.Jap<- lmer(data = test.data.SenLen.Jap, 
                         meanF0 ~ context + 
                           (1 + context||keyword) + 
@@ -246,7 +247,7 @@ This is a slightly different case, since the original [model](#model4) already s
 From our tests above, there are evidence that the model would be less confused when "wool" is not included in the data, therefore, in the models below on other formants of the speech, the models will use the updated version. 
 ### Context vs First Formant (F1), English {#model9}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f1.Eng<- lmer(data = test.data.SenLen.Eng, 
                         F1 ~ context + 
                           (1 + context||keyword) + 
@@ -259,7 +260,7 @@ The model showed no correlation between sentence context and F1 frequency.
 
 ### Context vs Second Formant (F2), English {#model10}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f2.Eng<- lmer(data = test.data.SenLen.Eng, 
                         F2 ~ context + 
                           (1 + context||keyword) + 
@@ -273,7 +274,7 @@ The model showed no correlation between sentence context and F2 frequency.
 
 ### Context vs third Formant (F3), English {#model11}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f3.Eng<- lmer(data = test.data.SenLen.Eng, 
                         F3 ~ context + 
                           (1 + context||keyword) + 
@@ -285,9 +286,9 @@ summary(model.f3.Eng)
 
 The model showed that the context exhibit significant difference in the third formant when the subjects were speaking in English using "most/many > not" and "not > most/many", and their third formant frequency are lower (202 Hz and 138 HZ respectively) compared with speaking in "all > not".
 
-### Context vs First Formant (F1), Japanese {#model2}
+### Context vs First Formant (F1), Japanese {#model12}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f1.Jap<- lmer(data = test.data.SenLen.Jap, 
                         F1 ~ context + 
                           (1 + context||keyword) + 
@@ -296,11 +297,11 @@ model.f1.Jap<- lmer(data = test.data.SenLen.Jap,
 summary(model.f1.Jap)
 ```
 <br>
-The model showed that only one of the context "not > most/many" has a correlation to the decrease of 157 Hz in the first formant compared with the first formant frequency in the context of "all > not", when the subject is speaking Japanese.
+The model showed that only one of the context "not > most/many" has a correlation to the decrease of 157 Hz in the first formant compared with the F1 frequency in the context of "all > not", when the subject is speaking Japanese.
 
 ### Context vs Second Formant (F2), Japanese {#model13}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f2.Jap<- lmer(data = test.data.SenLen.Jap, 
                         F2 ~ context + 
                           (1 + context||keyword) + 
@@ -314,7 +315,7 @@ The model showed no correlation between sentence context and F2 frequency.
 
 ### Context vs third Formant (F3), Japanese {#model14}
 ###### [back to top](#intro)
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 model.f3.Jap<- lmer(data = test.data.SenLen.Jap, 
                         F3 ~ context + 
                           (1 + context||keyword) + 
@@ -324,7 +325,50 @@ summary(model.f3.Jap)
 ```
 <br>
 
-The model showed that the context exhibit significant difference in the third formant when the subjects were speaking in English using "most/many > not" and "not > most/many", and their third formant frequency are lower (202 Hz and 138 HZ respectively) compared to speaking in "all > not".
+The model showed no correlation between sentence context and F3 frequency. 
+
+
+### Context vs Gesture Length, English {#model15}
+###### [back to top](#intro)
+Import data, remove "wool" variable, and factor the levels .
+```{r message=FALSE}
+data.GesLen.Eng <- read_csv("data/GestureLengthEnglish.csv")
+data.GesLen.Eng<- subset(data.GesLen.Eng, keyword != "wool")
+col_factor <- c("subject", "keyword", "context")
+data.GesLen.Eng[col_factor] <- lapply(data.GesLen.Eng[col_factor], as.factor)
+```
+Run the model.
+```{r message=FALSE, warning=FALSE}
+model.GesLen.Eng<- lmer(data = data.GesLen.Eng, 
+                        duration ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.GesLen.Eng)
+```
+<br>
+Contrary to the results shown so far, when it comes to the gestures by English speakers, changing context "all > not" to "not > all" would decrease the gesture duration by around 354 ms, with a rather good significance. 
+
+
+### Context vs Gesture Length, Japanese {#model16}
+###### [back to top](#intro)
+Import data, and factor the variable levels.
+```{r message=FALSE, warning=FALSE}
+data.GesLen.Jap <- read_csv("data/GestureLengthJapanese.csv")
+data.GesLen.Jap<- subset(data.GesLen.Jap, keyword != "wool")
+data.GesLen.Jap[col_factor] <- lapply(data.GesLen.Jap[col_factor], as.factor)
+```
+Run the model.
+```{r message=FALSE, warning=FALSE}
+model.GesLen.Jap<- lmer(data = data.GesLen.Jap,
+                        duration ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = "ignore",  tol = 1e-4)))
+summary(model.GesLen.Jap)
+```
+<br>
+With the Japanese speakers, the significant correlation in the model is on the "most/many > not", and when compared with baseline, the gesture duration is around 114 ms. 
 
 
 ###### [back to top](#intro)

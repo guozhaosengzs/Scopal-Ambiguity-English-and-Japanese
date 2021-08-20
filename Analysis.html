@@ -231,7 +231,7 @@ library(lmerTest)</code></pre>
 <td align="center">fundamental frequency (Hz)</td>
 <td align="center">subjects &amp; keywords</td>
 <td align="center"><a href="#model4">jump</a></td>
-<td align="center">*</td>
+<td align="center">**</td>
 </tr>
 <tr class="odd">
 <td align="center">English</td>
@@ -255,7 +255,7 @@ library(lmerTest)</code></pre>
 <td align="center">fundamental frequency (Hz)</td>
 <td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
 <td align="center"><a href="#model7">jump</a></td>
-<td align="center">*</td>
+<td align="center">**</td>
 </tr>
 <tr class="even">
 <td align="center">Japanese</td>
@@ -263,7 +263,7 @@ library(lmerTest)</code></pre>
 <td align="center">fundamental frequency (Hz)</td>
 <td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
 <td align="center"><a href="#model8">jump</a></td>
-<td align="center">*</td>
+<td align="center">**</td>
 </tr>
 <tr class="odd">
 <td align="center">English</td>
@@ -287,7 +287,7 @@ library(lmerTest)</code></pre>
 <td align="center">third formant (Hz)</td>
 <td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
 <td align="center"><a href="#model11">jump</a></td>
-<td align="center">*</td>
+<td align="center">**</td>
 </tr>
 <tr class="even">
 <td align="center">Japanese</td>
@@ -295,7 +295,7 @@ library(lmerTest)</code></pre>
 <td align="center">first formant (Hz)</td>
 <td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
 <td align="center"><a href="#model12">jump</a></td>
-<td align="center"></td>
+<td align="center">*</td>
 </tr>
 <tr class="odd">
 <td align="center">Japanese</td>
@@ -313,13 +313,29 @@ library(lmerTest)</code></pre>
 <td align="center"><a href="#model14">jump</a></td>
 <td align="center"></td>
 </tr>
+<tr class="odd">
+<td align="center">English</td>
+<td align="center">sentence context (scope &amp; negation)</td>
+<td align="center">gesture length (ms)</td>
+<td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
+<td align="center"><a href="#model15">jump</a></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">Japanese</td>
+<td align="center">sentence context (scope &amp; negation)</td>
+<td align="center">gesture length (ms)</td>
+<td align="center">subjects &amp; keywords <strong>w/out “wool”</strong></td>
+<td align="center"><a href="#model16">jump</a></td>
+<td align="center"></td>
+</tr>
 </tbody>
 </table>
 </div>
 <div id="models" class="section level1">
 <h1>Models</h1>
 <div id="model1" class="section level3">
-<h3>Context vs SentenceLength, English</h3>
+<h3>Context vs Sentence Length, English</h3>
 <div id="back-to-top" class="section level6">
 <h6><a href="#intro">back to top</a></h6>
 <p>First, import the data set.</p>
@@ -391,7 +407,7 @@ cntxtn&gt;mst/ -0.580  0.910  0.392</code></pre>
 </div>
 </div>
 <div id="model2" class="section level3">
-<h3>Context vs SentenceLength, Japanese</h3>
+<h3>Context vs Sentence Length, Japanese</h3>
 <div id="back-to-top-1" class="section level6">
 <h6><a href="#intro">back to top</a></h6>
 <p>Import and process the data:</p>
@@ -402,9 +418,8 @@ data.SenLen.Jap[col_target] &lt;- lapply(data.SenLen.Jap[col_target], as.factor)
                         sentence_length ~ context + 
                           (1 + context||keyword) + 
                           (1 + context||subject), REML = FALSE, 
-                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))</code></pre>
-<pre><code>Warning: Model failed to converge with 1 negative eigenvalue: -1.4e-02</code></pre>
-<pre class="r"><code>summary(model.SenLen.Jap)</code></pre>
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.SenLen.Jap)</code></pre>
 <pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
   method [lmerModLmerTest]
 Formula: 
@@ -518,9 +533,8 @@ cntxtn&gt;mst/ -0.327  0.827  0.787</code></pre>
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
                           (1 + context||subject), REML = FALSE, 
-                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))</code></pre>
-<pre><code>Warning: Model failed to converge with 1 negative eigenvalue: -7.6e-03</code></pre>
-<pre class="r"><code>summary(model.maxF0.Eng)</code></pre>
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.maxF0.Eng)</code></pre>
 <pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
   method [lmerModLmerTest]
 Formula: maxF0 ~ context + (1 + context || keyword) + (1 + context ||  
@@ -580,10 +594,8 @@ cntxtn&gt;mst/ -0.180  0.628  0.422</code></pre>
                         meanF0 ~ context + 
                           (1 + context||keyword) + 
                           (1 + context||subject), REML = FALSE, 
-                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))</code></pre>
-<pre><code>Warning: Model failed to converge with 4 negative eigenvalues: -1.0e-02 -4.5e-02
--6.9e-02 -2.9e+01</code></pre>
-<pre class="r"><code>summary(model.meanF0.Jap)</code></pre>
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.meanF0.Jap)</code></pre>
 <pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
   method [lmerModLmerTest]
 Formula: meanF0 ~ context + (1 + context || keyword) + (1 + context ||  
@@ -628,7 +640,7 @@ Correlation of Fixed Effects:
 cntxtmst/&gt;n 0.059               
 cntxtnt&gt;all 0.070  0.556        
 cntxtn&gt;mst/ 0.080  0.568  0.653 </code></pre>
-<p>For Japanese, the mean fundamental frequency in the sentence, when using “most/many &gt; not” and “not &gt; most/many” to compare to the baseline of “all &gt; not”, shows positive correlation. That means, when using the two contexts in the sentence, test subjects on average increase the F0 by respectively 4 or 6 Hz.</p>
+<p>For Japanese, the mean fundamental frequency in the sentence, when using “most/many &gt; not” and “not &gt; most/many” to compare with the baseline of “all &gt; not”, shows positive correlation. That means, when using the two contexts in the sentence, test subjects on average increase the F0 by respectively 4 or 6 Hz.</p>
 </div>
 <div id="model-for-the-max-fundamental-frequency-during-the-sentence-maxf0-1" class="section level5">
 <h5>Model for the max fundamental frequency during the sentence (maxF0):</h5>
@@ -636,9 +648,8 @@ cntxtn&gt;mst/ 0.080  0.568  0.653 </code></pre>
                         maxF0 ~ context + 
                           (1 + context||keyword) + 
                           (1 + context||subject), REML = FALSE, 
-                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))</code></pre>
-<pre><code>Warning: Model failed to converge with 1 negative eigenvalue: -8.8e-02</code></pre>
-<pre class="r"><code>summary(model.maxF0.Jap)</code></pre>
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.maxF0.Jap)</code></pre>
 <pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
   method [lmerModLmerTest]
 Formula: maxF0 ~ context + (1 + context || keyword) + (1 + context ||  
@@ -693,7 +704,7 @@ cntxtn&gt;mst/ -0.294  0.662  0.721</code></pre>
 <p>We realized that the sentences with “wool” in the experiment carry out different emotional suggestions, which make them standout among other sentences used. As a result, here are some models ran previously, with the modification of removing the entries with “wool” as <em>keyword</em>, which is part of the random effects.</p>
 </div>
 <div id="model5" class="section level4">
-<h4>Context vs SentenceLength, English, w/out “wool”</h4>
+<h4>Context vs Sentence Length, English, w/out “wool”</h4>
 <p>Remove the rows with “wool” as keywords.</p>
 <pre class="r"><code>test.data.SenLen.Eng &lt;- subset(data.SenLen.Eng, keyword != &quot;wool&quot;)
 nrow(data.SenLen.Eng) - nrow(test.data.SenLen.Eng)</code></pre>
@@ -753,7 +764,7 @@ cntxtn&gt;mst/ -0.725  0.934  0.503</code></pre>
 <p><br> Compared to the previous <a href="#model1">model</a>, aside from changing the “random effect” part of the report, the removal of one category of the random effects actually increased the residuals and std. error of the model, which means the differences sentiments between the “wool” sentences and other keywords was not big enough to cause a fundamental change in the results.</p>
 </div>
 <div id="model6" class="section level4">
-<h4>Context vs SentenceLength, Japanese, w/out “wool”</h4>
+<h4>Context vs Sentence Length, Japanese, w/out “wool”</h4>
 <p>Remove the rows with “wool” as keywords.</p>
 <pre class="r"><code>test.data.SenLen.Jap &lt;- subset(data.SenLen.Jap, keyword != &quot;wool&quot;)
 nrow(data.SenLen.Jap) - nrow(test.data.SenLen.Jap)</code></pre>
@@ -917,7 +928,7 @@ Correlation of Fixed Effects:
 cntxtmst/&gt;n -0.027              
 cntxtnt&gt;all  0.129  0.537       
 cntxtn&gt;mst/  0.262  0.534  0.566</code></pre>
-<p><br> Here is a interesting result, because when “wool” is removed from the random effects, the new result is extremely different from the previous <a href="#model3">result</a> that used the data with “wool.” The new outcome showed that when comparing to the benchmark of “all &gt; not”, both “most/many &gt; not” and “not &gt; most/many” as a statistically significant increase in the mean fundamental frequency throughout the sentence, meaning that when the subjects were using those two context, their average F0 has the respective 8.8 Hz or 12.2 HZ increase.</p>
+<p><br> Here is a interesting result, because when “wool” is removed from the random effects, the new result is extremely different from the previous <a href="#model3">result</a> that used the data with “wool.” The new outcome showed that when comparing with the benchmark of “all &gt; not”, both “most/many &gt; not” and “not &gt; most/many” as a statistically significant increase in the mean fundamental frequency throughout the sentence, meaning that when the subjects were using those two context, their average F0 has the respective 8.8 Hz or 12.2 HZ increase.</p>
 </div>
 <div id="model8" class="section level4">
 <h4>Context vs Fundamental Frequency, Japanese, w/out “wool”</h4>
@@ -1086,9 +1097,8 @@ cntxtn&gt;mst/ -0.786  0.679  0.514</code></pre>
                         F2 ~ context + 
                           (1 + context||keyword) + 
                           (1 + context||subject), REML = FALSE, 
-                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))</code></pre>
-<pre><code>Warning: Model failed to converge with 1 negative eigenvalue: -1.3e-02</code></pre>
-<pre class="r"><code>summary(model.f2.Eng)</code></pre>
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.f2.Eng)</code></pre>
 <pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
   method [lmerModLmerTest]
 Formula: F2 ~ context + (1 + context || keyword) + (1 + context || subject)
@@ -1135,7 +1145,7 @@ cntxtn&gt;mst/ -0.719  0.243  0.382</code></pre>
 <p><br> The model showed no correlation between sentence context and F2 frequency.</p>
 </div>
 </div>
-<div id="model10" class="section level3">
+<div id="model11" class="section level3">
 <h3>Context vs third Formant (F3), English</h3>
 <div id="back-to-top-6" class="section level6">
 <h6><a href="#intro">back to top</a></h6>
@@ -1189,9 +1199,250 @@ cntxtmst/&gt;n -0.575
 cntxtnt&gt;all -0.724  0.379       
 cntxtn&gt;mst/ -0.617  0.516  0.412</code></pre>
 <p><br></p>
-<p>The model showed that the context exhibit significant difference in the third formant when the subjects were speaking in English using “most/many &gt; not” and “not &gt; most/many”, and their third formant frequency are lower (202 Hz and 138 HZ respectively) compared to speaking in “all &gt; not”.</p>
+<p>The model showed that the context exhibit significant difference in the third formant when the subjects were speaking in English using “most/many &gt; not” and “not &gt; most/many”, and their third formant frequency are lower (202 Hz and 138 HZ respectively) compared with speaking in “all &gt; not”.</p>
 </div>
+</div>
+<div id="model12" class="section level3">
+<h3>Context vs First Formant (F1), Japanese</h3>
 <div id="back-to-top-7" class="section level6">
+<h6><a href="#intro">back to top</a></h6>
+<pre class="r"><code>model.f1.Jap&lt;- lmer(data = test.data.SenLen.Jap, 
+                        F1 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.f1.Jap)</code></pre>
+<pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
+  method [lmerModLmerTest]
+Formula: F1 ~ context + (1 + context || keyword) + (1 + context || subject)
+   Data: test.data.SenLen.Jap
+Control: lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  
+    tol = 1e-04))
+
+     AIC      BIC   logLik deviance df.resid 
+  2253.5   2336.5  -1099.7   2199.5      133 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-1.7208 -0.6531 -0.1667  0.4430  3.9147 
+
+Random effects:
+ Groups    Name                   Variance  Std.Dev.  Corr             
+ subject   contextall &gt; not       1.103e+04 1.050e+02                  
+           contextmost/many &gt; not 9.326e+03 9.657e+01 -0.82            
+           contextnot &gt; all       4.489e+03 6.700e+01  1.00 -0.81      
+           contextnot &gt; most/many 5.568e+03 7.462e+01 -0.48  0.90 -0.47
+ subject.1 (Intercept)            0.000e+00 0.000e+00                  
+ keyword   contextall &gt; not       1.952e-05 4.418e-03                  
+           contextmost/many &gt; not 6.284e+03 7.927e+01  0.19            
+           contextnot &gt; all       3.841e-07 6.197e-04 -0.62  0.65      
+           contextnot &gt; most/many 1.734e+03 4.164e+01  0.19  1.00  0.65
+ keyword.1 (Intercept)            0.000e+00 0.000e+00                  
+ Residual                         4.798e+04 2.190e+02                  
+Number of obs: 160, groups:  subject, 20; keyword, 4
+
+Fixed effects:
+                       Estimate Std. Error       df t value Pr(&gt;|t|)    
+(Intercept)             714.501     41.844   25.345  17.075 2.04e-15 ***
+contextmost/many &gt; not -138.567     85.970    5.384  -1.612   0.1637    
+contextnot &gt; all         25.422     49.711   84.117   0.511   0.6104    
+contextnot &gt; most/many -157.123     66.897   10.173  -2.349   0.0403 *  
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+
+Correlation of Fixed Effects:
+            (Intr) cnt/&gt;n cntx&gt;a
+cntxtmst/&gt;n -0.602              
+cntxtnt&gt;all -0.673  0.363       
+cntxtn&gt;mst/ -0.693  0.753  0.442</code></pre>
+<p><br> The model showed that only one of the context “not &gt; most/many” has a correlation to the decrease of 157 Hz in the first formant compared with the F1 frequency in the context of “all &gt; not”, when the subject is speaking Japanese.</p>
+</div>
+</div>
+<div id="model13" class="section level3">
+<h3>Context vs Second Formant (F2), Japanese</h3>
+<div id="back-to-top-8" class="section level6">
+<h6><a href="#intro">back to top</a></h6>
+<pre class="r"><code>model.f2.Jap&lt;- lmer(data = test.data.SenLen.Jap, 
+                        F2 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.f2.Jap)</code></pre>
+<pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
+  method [lmerModLmerTest]
+Formula: F2 ~ context + (1 + context || keyword) + (1 + context || subject)
+   Data: test.data.SenLen.Jap
+Control: lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  
+    tol = 1e-04))
+
+     AIC      BIC   logLik deviance df.resid 
+  2321.2   2404.3  -1133.6   2267.2      133 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-3.01097 -0.47083  0.05228  0.53865  2.93013 
+
+Random effects:
+ Groups    Name                   Variance  Std.Dev. Corr             
+ subject   contextall &gt; not       4.289e+03  65.4880                  
+           contextmost/many &gt; not 4.305e+04 207.4957  0.57            
+           contextnot &gt; all       2.794e+03  52.8619 -0.31 -0.06      
+           contextnot &gt; most/many 2.482e+04 157.5389 -0.23  0.60  0.58
+ subject.1 (Intercept)            4.648e-02   0.2156                  
+ keyword   contextall &gt; not       2.903e+04 170.3865                  
+           contextmost/many &gt; not 6.745e+02  25.9715 0.61             
+           contextnot &gt; all       3.048e+04 174.5801 1.00  0.61       
+           contextnot &gt; most/many 5.143e+03  71.7144 0.61  1.00  0.61 
+ keyword.1 (Intercept)            0.000e+00   0.0000                  
+ Residual                         6.640e+04 257.6871                  
+Number of obs: 160, groups:  subject, 20; keyword, 4
+
+Fixed effects:
+                       Estimate Std. Error       df t value Pr(&gt;|t|)   
+(Intercept)            1715.035    128.025    2.075  13.396  0.00478 **
+contextmost/many &gt; not  210.407    140.587    2.982   1.497  0.23192   
+contextnot &gt; all        -17.084     61.576   41.352  -0.277  0.78282   
+contextnot &gt; most/many  139.068    148.661    3.490   0.935  0.40964   
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+
+Correlation of Fixed Effects:
+            (Intr) cnt/&gt;n cntx&gt;a
+cntxtmst/&gt;n -0.889              
+cntxtnt&gt;all -0.199  0.133       
+cntxtn&gt;mst/ -0.867  0.863  0.211</code></pre>
+<p><br> The model showed no correlation between sentence context and F2 frequency.</p>
+</div>
+</div>
+<div id="model14" class="section level3">
+<h3>Context vs third Formant (F3), Japanese</h3>
+<div id="back-to-top-9" class="section level6">
+<h6><a href="#intro">back to top</a></h6>
+<pre class="r"><code>model.f3.Jap&lt;- lmer(data = test.data.SenLen.Jap, 
+                        F3 ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.f3.Jap)</code></pre>
+<pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
+  method [lmerModLmerTest]
+Formula: F3 ~ context + (1 + context || keyword) + (1 + context || subject)
+   Data: test.data.SenLen.Jap
+Control: lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  
+    tol = 1e-04))
+
+     AIC      BIC   logLik deviance df.resid 
+  2336.7   2419.7  -1141.4   2282.7      133 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.80403 -0.62291 -0.02246  0.57360  2.63560 
+
+Random effects:
+ Groups    Name                   Variance Std.Dev. Corr             
+ subject   contextall &gt; not       42301.1  205.67                    
+           contextmost/many &gt; not 14048.2  118.53    0.33            
+           contextnot &gt; all       10927.3  104.53    0.72 -0.41      
+           contextnot &gt; most/many 16092.3  126.86    0.32  1.00 -0.42
+ subject.1 (Intercept)                0.0    0.00                    
+ keyword   contextall &gt; not           0.0    0.00                    
+           contextmost/many &gt; not  3367.9   58.03     NaN            
+           contextnot &gt; all        8200.6   90.56     NaN  1.00      
+           contextnot &gt; most/many   724.1   26.91     NaN -1.00 -1.00
+ keyword.1 (Intercept)                0.0    0.00                    
+ Residual                         74666.4  273.25                    
+Number of obs: 160, groups:  subject, 20; keyword, 4
+
+Fixed effects:
+                       Estimate Std. Error       df t value Pr(&gt;|t|)    
+(Intercept)            2950.597     63.101   20.936  46.760   &lt;2e-16 ***
+contextmost/many &gt; not   32.632     86.149    7.718   0.379    0.715    
+contextnot &gt; all       -122.221     94.589    2.724  -1.292    0.295    
+contextnot &gt; most/many   -2.919     78.576   16.764  -0.037    0.971    
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+
+Correlation of Fixed Effects:
+            (Intr) cnt/&gt;n cntx&gt;a
+cntxtmst/&gt;n -0.658              
+cntxtnt&gt;all -0.537  0.312       
+cntxtn&gt;mst/ -0.718  0.462  0.337</code></pre>
+<p><br></p>
+<p>The model showed no correlation between sentence context and F3 frequency.</p>
+</div>
+</div>
+<div id="model15" class="section level3">
+<h3>Context vs Gesture Length, English</h3>
+<div id="back-to-top-10" class="section level6">
+<h6><a href="#intro">back to top</a></h6>
+<p>Import data, remove “wool” variable, and factor the levels .</p>
+<pre class="r"><code>data.GesLen.Eng &lt;- read_csv(&quot;data/GestureLengthEnglish.csv&quot;)
+data.GesLen.Eng&lt;- subset(data.GesLen.Eng, keyword != &quot;wool&quot;)
+col_factor &lt;- c(&quot;subject&quot;, &quot;keyword&quot;, &quot;context&quot;)
+data.GesLen.Eng[col_factor] &lt;- lapply(data.GesLen.Eng[col_factor], as.factor)</code></pre>
+<p>Run the model.</p>
+<pre class="r"><code>model.GesLen.Eng&lt;- lmer(data = data.GesLen.Eng, 
+                        duration ~ context + 
+                          (1 + context||keyword) + 
+                          (1 + context||subject), REML = FALSE, 
+                        control=lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  tol = 1e-4)))
+summary(model.GesLen.Eng)</code></pre>
+<pre><code>Linear mixed model fit by maximum likelihood . t-tests use Satterthwaite&#39;s
+  method [lmerModLmerTest]
+Formula: duration ~ context + (1 + context || keyword) + (1 + context ||  
+    subject)
+   Data: data.GesLen.Eng
+Control: lmerControl(check.conv.singular = .makeCC(action = &quot;ignore&quot;,  
+    tol = 1e-04))
+
+     AIC      BIC   logLik deviance df.resid 
+  2582.7   2666.4  -1264.4   2528.7      137 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.1237 -0.6100 -0.1403  0.5187  3.3941 
+
+Random effects:
+ Groups    Name                   Variance  Std.Dev.  Corr          
+ subject   contextall &gt; not       1.278e+05 357.54317               
+           contextmost/many &gt; not 1.012e+05 318.08640 0.50          
+           contextnot &gt; all       9.325e+04 305.36666 0.36 0.48     
+           contextnot &gt; most/many 7.984e+04 282.56367 0.32 0.49 1.00
+ subject.1 (Intercept)            1.446e-01   0.38020               
+ keyword   contextall &gt; not       1.460e+03  38.20917               
+           contextmost/many &gt; not 2.052e+04 143.25552 0.11          
+           contextnot &gt; all       1.038e+03  32.21596 1.00 0.11     
+           contextnot &gt; most/many 1.204e+04 109.73487 0.11 1.00 0.11
+ keyword.1 (Intercept)            8.423e-03   0.09177               
+ Residual                         2.138e+05 462.41455               
+Number of obs: 164, groups:  subject, 25; keyword, 4
+
+Fixed effects:
+                       Estimate Std. Error       df t value Pr(&gt;|t|)    
+(Intercept)            1073.241    109.211    8.141   9.827 8.54e-06 ***
+contextmost/many &gt; not   29.451    164.470    5.250   0.179   0.8646    
+contextnot &gt; all       -353.740    130.255   25.858  -2.716   0.0116 *  
+contextnot &gt; most/many -176.896    155.427    7.480  -1.138   0.2902    
+---
+Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+
+Correlation of Fixed Effects:
+            (Intr) cnt/&gt;n cntx&gt;a
+cntxtmst/&gt;n -0.537              
+cntxtnt&gt;all -0.681  0.434       
+cntxtn&gt;mst/ -0.624  0.703  0.589</code></pre>
+</div>
+</div>
+<div id="model16" class="section level3">
+<h3>Context vs Gesture Length, Japanese</h3>
+<div id="back-to-top-11" class="section level6">
+<h6><a href="#intro">back to top</a></h6>
+<p>Import data, and factor the variable levels.</p>
+<pre class="r"><code>data.GesLen.Jap &lt;- read_csv(&quot;data/GestureLengthJapanese.csv&quot;)
+data.GesLen.Jap&lt;- subset(data.GesLen.Jap, keyword != &quot;wool&quot;)
+data.GesLen.Jap[col_factor] &lt;- lapply(data.GesLen.Jap[col_factor], as.factor)</code></pre>
+</div>
+<div id="back-to-top-12" class="section level6">
 <h6><a href="#intro">back to top</a></h6>
 </div>
 </div>
